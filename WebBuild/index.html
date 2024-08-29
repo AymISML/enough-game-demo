@@ -5,9 +5,9 @@
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>ENOUGH - Demo</title>
   </head>
-  <body style="text-align: center; padding: 0; border: 0; margin: 0;">
-    <canvas id="unity-canvas" width=1366 height=768 style="width: 1366px; height: 768px; background: #231F20"></canvas>
-    <script src="Build/WebBuild.loader.js"></script>
+  <body style="text-align: center; padding: 0; border: 0; margin: 0; height: 100vh; background-color: #161616;">
+    <canvas id="unity-canvas" width=1366 height=768 style="margin: 0; height: 99vh; aspect-ratio: 16/9; background: #161616"></canvas>
+    <script src="Build/WebBuild-v1.2.loader.js"></script>
     <script>
       if (/iPhone|iPad|iPod|Android/i.test(navigator.userAgent)) {
         // Mobile device style: fill the whole browser client area with the game canvas:
@@ -25,13 +25,13 @@
       }
 
       createUnityInstance(document.querySelector("#unity-canvas"), {
-        dataUrl: "Build/WebBuild.data",
-        frameworkUrl: "Build/WebBuild.framework.js",
-        codeUrl: "Build/WebBuild.wasm",
+        dataUrl: "Build/WebBuild-v1.2.data",
+        frameworkUrl: "Build/WebBuild-v1.2.framework.js",
+        codeUrl: "Build/WebBuild-v1.2.wasm",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "WorldVision",
         productName: "ENOUGH",
-        productVersion: "1.1",
+        productVersion: "1.2",
         // matchWebGLToCanvasSize: false, // Uncomment this to separately control WebGL canvas render size and DOM element size.
         // devicePixelRatio: 1, // Uncomment this to override low DPI rendering on high DPI displays.
       });
