@@ -91,7 +91,10 @@
     </div>
 
     <script>
-        startGame('https://www.wvi.org/ENOUGH/take-action');
+        var eventLogsCallback = function (eventName, eventParam) {
+            console.log(`${eventName}\t${eventParam}`);
+        }
+        startGame('https://www.wvi.org/ENOUGH/take-action', eventLogsCallback);
     </script>
 </body>
 
