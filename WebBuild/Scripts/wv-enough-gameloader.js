@@ -14,9 +14,6 @@ function startGame(actionUrl, eventLogsCallback) {
                 eventLogsCallback(data.event, data.param);
             }
         }
-        else {
-            console.error(`${event.origin} !== ${ORIGIN}`);
-        }
     }
 
     window.addEventListener("message", handleEventLog, false);
