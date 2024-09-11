@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ENOUGH - embed example</title>
-    <link rel="shortcut icon" href="favicon.ico">
+    <link rel="shortcut icon" href="https://www.wvi.org//sites/default/files/favicon.png">
     <style>
         body {
             padding: 0;
@@ -82,13 +82,22 @@
 
 <body>
     <div id="logo">
-        <img src="logo.png" alt="Brand Logo">
+        <img src="https://www.wvi.org/themes/custom/wvi_2018/logo.svg" alt="Brand Logo">
     </div>
 
     <div class="iframe-container">
-        <iframe src="https://enough-wv.pages.dev/?actionUrl=https://www.wvi.org/ENOUGH/take-action"
-            title="Unity WebGL Game"></iframe>
+        <iframe id="game-iframe"></iframe>
     </div>
+
+    <script>
+        var startGame = function (donationUrl) {
+            var gameUrl = `https://enough-wv.pages.dev/?shareUrl=${window.location.href}&actionUrl=${donationUrl}`;
+            var gameFrame = document.querySelector('#game-iframe');
+            gameFrame.src = gameUrl + donationUrl;
+        };
+
+        startGame('https://www.wvi.org/ENOUGH/take-action');
+    </script>
 </body>
 
 </html>
