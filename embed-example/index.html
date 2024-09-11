@@ -6,6 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ENOUGH - embed example</title>
     <link rel="shortcut icon" href="https://www.wvi.org//sites/default/files/favicon.png">
+    <script src="https://enough-wv.pages.dev/Scripts/wv-enough-gameloader-min.js"></script>
     <style>
         body {
             padding: 0;
@@ -86,18 +87,13 @@
     </div>
 
     <div class="iframe-container">
-        <iframe id="game-iframe"></iframe>
+        <iframe class="game-iframe"></iframe>
     </div>
 
     <script>
-        var startGame = function (donationUrl) {
-            var gameUrl = `https://enough-wv.pages.dev/?shareUrl=${window.location.href}&actionUrl=${donationUrl}`;
-            var gameFrame = document.querySelector('#game-iframe');
-            gameFrame.src = gameUrl + donationUrl;
-        };
-
         startGame('https://www.wvi.org/ENOUGH/take-action');
     </script>
 </body>
+
 
 </html>
