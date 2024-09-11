@@ -1,0 +1,1 @@
+var HOSTURL="https://enough-wv.pages.dev/",startGame=function(e){var r=`${HOSTURL}?shareUrl=${window.location.href}&actionUrl=${e}`;document.querySelector(".game-iframe").src=r+e};
