@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz Editor</title>
+    <style>
+        body {
+            font-family: 'Roboto', sans-serif;
+            background-color: #f4f7f9;
+            color: #333;
+            padding: 20px;
+        }
+
+        h1 {
+            text-align: center;
+            color: #4CAF50;
+        }
+
+        #editor {
+            margin-top: 20px;
+        }
+
+        .stage {
+            background-color: #E8EAF6;
+            border-radius: 8px;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .question, .answer {
+            background-color: #fff;
+            border-radius: 8px;
+            padding: 15px;
+            margin-bottom: 15px;
+        }
+
+        .stage h2, .question h3 {
+            cursor: pointer;
+            color: #333;
+        }
+
+        .collapsible-content {
+            display: none;
+            padding: 10px;
+        }
+
+        .expanded > .collapsible-content {
+            display: block;
+        }
+
+        textarea {
+            width: calc(100% - 20px);
+            height: 60px;
+            padding: 8px;
+            font-size: 0.9em;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 10px;
+            resize: vertical;
+        }
+
+        button {
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 14px;
+            border-radius: 5px;
+            cursor: pointer;
+            margin-bottom: 10px;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        input[type="file"] {
+            display: none;
+        }
+
+        .action-buttons {
+            display: flex;
+            justify-content: center;
+            gap: 10px;
+        }
+
+        .remove-btn {
+            background-color: #e74c3c;
+        }
+
+        .toggle-icon {
+            float: right;
+            font-size: 0.9em;
+        }
+    </style>
+</head>
+<body>
+    <h1>Quiz Editor</h1>
+    <div id="editor"></div>
+    <div class="action-buttons">
+        <!-- <button onclick="addStage()">Add Stage</button> -->
+        <button onclick="exportJSON()">Export JSON</button>
+        <button onclick="document.getElementById('fileInput').click()">Import JSON</button>
+        <input type="file" id="fileInput" onchange="importJSON(event)">
+    </div>
+
+    <script>
+        document.addEventListener("click", function(e) {
+            if (e.target && e.target.classList.contains("toggle-header")) {
+                const parentDiv = e.target.parentElement;
+                parentDiv.classList.toggle("expanded");
+                e.target.querySelector(".toggle-icon").textContent = parentDiv.classList.contains("expanded") ? "-" : "+";
+                saveCollapseState(parentDiv);
+            }
+        });
+    </script>
+    <script src="./quizEditor.js"></script>
+</body>
+</html>
