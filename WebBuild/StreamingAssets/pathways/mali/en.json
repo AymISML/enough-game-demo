@@ -1,172 +1,172 @@
 {
-    "stage01": [
+  "stage01": [
+    {
+      "Question": "When Oumou was born, she cried a lot, and her mother doubted her breast milk was enough. A community member suggested giving her watery porridge. \n\nWhat should Oumou’s mother do?",
+      "Answers": [
         {
-            "Question": "When Mwansa was born, she was crying so much her mum wasn’t sure her breastmilk was enough for her. One of the women in the community told her to try giving her some watery porridge instead. What should Mwansa’s mum do?",
-            "Answers": [
-                {
-                    "Text": "Keep breastfeeding every time Mwansa seems hungry",
-                    "Note": "Exclusive breastfeeding is the best choice Mwansa’s mum can make. Her breast milk can give her all the nutrition she needs for the first six months. Other foods and water may make Mwansa sick, especially if they aren’t coming from safe sources. Her body also isn’t ready to process other foods yet"
-                },
-                {
-                    "Text": "Start giving her some watery porridge as well and see if it helps",
-                    "Note": "Watery porridge is actually worse for Mwansa. Exclusive breastfeeding is the best choice Mwansa’s mum can make. Her breast milk can give her all the nutrition she needs for the first six months. Other foods and water may make Mwansa sick, especially if they aren’t coming from safe sources. Her body also isn’t ready to process other foods yet"
-                }
-            ]
+          "Text": "Keep breastfeeding every time Oumou seems hungry.",
+          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Oumou’s first six months. It provides the perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections."
         },
         {
-            "Question": "Mwansa has just turned 1, and her mum knows how important a healthy diet is for her child's growth and development. After receiving advice from a community health worker about the crucial role of iron, she learned that including certain food groups in their diet is essential to meet daily iron requirements.\n\nGiven that iron-rich foods can be expensive, she needs to make cost-effective choices. With average earnings of a working woman at $150 per month and the average cost of a nutritious food basket being $14.47, what should she prioritise when shopping to improve their iron levels over the next few days?",
-            "Answers": [
-                {
-                    "Text": "Papaya\ncosts: $4.93 to $11.57 on average, and potentially less in Lusaka and Kitwe",
-                    "Note": "Papayas are actually low in Iron, but they are a great source of Vitamin C, which will help Mwansa absorb any iron she does get from plant based foods. They are also a great healthy snack. However they do not directly address Mwans’s iron issue"
-                },
-                {
-                    "Text": "Iron Fortified Breakfast Cereals\ncost: $3.00 to $6.00 average per box",
-                    "Note": "Many breakfast cereals are fortified with iron. However, even the cheapest cereals come at a high cost for Mwansa’s mother, meaning she will have to sacrifice protein for the next few days"
-                },
-                {
-                    "Text": "Cooking lentils\ncost: $1.00 to $3.00 average per 450 grams",
-                    "Note": "This is a good choice for Mwansa’a mother. Cooked lentils can provide about 6.6 mg of iron per cup, so two cups would fit the range of 0–12.5 mg of elemental iron for children aged 2–4 years for a healthy iron intake"
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa has been having an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker, who stresses the importance of good hygiene (like handwashing with soap) and gives her oral rehydration solution to give to Mwansa. The health worker also stresses the importance of continuing to breastfeed more often when Mwansa is sick. Mwansa’s mother passes by a street vendor selling different small items including soap. Should her mother buy soap?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Mwansa is feeling better after the oral rehydration solution, and her mum’s decision to buy soap means improved handwashing at home. She doesn’t get sick very often"
-                },
-                {
-                    "Text": "No",
-                    "Note": "Mwansa is feeling better after the oral rehydration solution, but hygiene at home still isn’t great. Mwansa has regular bouts of diarrhoea, which makes it hard for her to grow, eat well and absorb nutrients from the foods she is eating. She eventually becomes stunted from the frequent infections"
-                }
-            ]
+          "Text": "Start giving her some watery porridge and see if it helps.",
+          "Note": "Watery porridge is actually worse for Oumou. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Introducing them won't provide enough essential nutrients that are crucial for a baby's growth and development."
         }
-    ],
-    "stage02": [
+      ]
+    },
+    {
+      "Question": "Oumou has just turned 1, and her mother knows a healthy diet is crucial for her development. After receiving advice from a community health worker, she learned about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. \n\nWith an average income of $150 per month, and a nutritious food basket costing $21.53, what should she prioritise to improve their iron levels?",
+      "Answers": [
         {
-            "Question": "Mwansa has not eaten much meat growing up and with the economic shocks after COVID-19, it’s hard for her family to afford beans regularly too. She’s at risk of developing anaemia. At school she is tired, struggling to focus and pay attention. She is forgetting information from daily classes.\n\nMwansa also just started getting her period, making iron even more essential. She often stays home, missing school, whenever she has her period, as there’s no toilets available at school for her to use, and pads are expensive and difficult to find.\n\nHer final exams are coming up next month. What should she do?",
-            "Answers": [
-                {
-                    "Text": "Keep pushing through exams and try her best",
-                    "Note": "Mwansa’s focus on school and her education is really important, but she’s struggling, and asking a trusted adult for help and advice is a good idea. Beans and kidneys can be a great source of iron, and should be affordable at the local market. World Vision and other organisations also run programmes to help girls make their own sanitary napkins and reduce the stigma around menstruation. Mwansa, and every girl, should be able to stay in school until at least 18"
-                },
-                {
-                    "Text": "Ask her mum or female school teacher for advice",
-                    "Note": "Asking a trusted adult for help and advice is a great idea. Beans and kidneys can be a great source of iron, and should be affordable at the local market. World Vision and other organisations also run programmes to help girls make their own sanitary napkins and reduce the stigma around menstruation. Mwansa, and every girl, should be able to stay in school until at least 18"
-                },
-                {
-                    "Text": "Start selling tissues or snacks on the side of the road before school. With the money she earns, she can use it to help support her family and cover essentials, like pads and more protein sources for meals",
-                    "Note": "Trying to earn money for herself is admirable, but might put her at risk of sexual exploitation and abuse. Asking a trusted adult for help and advice is a good idea. Beans and kidneys can be a great source of iron, and should be affordable at the local market. World Vision and other organisations also run programmes to help girls make their own sanitary napkins and reduce the stigma around menstruation. Mwansa, and every girl, should have the right to complete secondary school"
-                }
-            ]
+          "Text": "Guava cost: \n$.80 to $2.50 per kilogramme on average.",
+          "Note": "Guavas are low in iron but high in Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Oumou’s iron issue."
         },
         {
-            "Question": "Mwansa has always been very small for her age, especially before age 2 (ie, she was stunted). In Zambia there is poor rainfall and the drought has hit maize production particularly hard. The food prices are high, and it’s hard for Mwansa’s family to have an adequate amount and variety of foods to eat. She’s also been trying to eat less so that her younger siblings can get enough.\n\nBecause she is stunted, Mwansa has a hard time with physically strenuous activities like the daily water collection she does for her family. There’s a slow moving stream nearby where she can collect water, or a borehole she can use 2km away (30 minute walk each way). What should Mwansa choose to do?",
-            "Answers": [
-                {
-                    "Text": "Collect water from the nearby stream. This way she doesn’t have to walk as far, and the small fee to use the borehole can also be spent on food",
-                    "Note": "Surface water is contaminated and can be a dangerous source of parasites and germs without water treatment. Mwansa and her family are likely to get sick, creating new healthcare costs, and meaning there still isn’t any extra money to buy food. Going to the borehole is a safer choice, but if Mwansa is struggling with the distance it is probably a good idea to see if one of her siblings can help support the weight"
-                },
-                {
-                    "Text": "Force herself to make the journey to the borehole to access clean water. It takes her much further, but the water is clean",
-                    "Note": "Going to the borehole is extra effort, but will keep Mwansa and her family healthier in the long run. Surface water is contaminated and can be a dangerous source of parasites and germs without water treatment. Mwansa and her family would likely get sick from the surface water, creating new healthcare costs, and meaning there still wouldn’t have been any extra money to buy food"
-                }
-            ]
+          "Text": "Fortified breakfast cereals cost: \n$2.50 to $8.00 average per box.",
+          "Note": "Many breakfast cereals are fortified with iron, but even the cheapest options come at a high cost to Oumou’s mother, which could mean sacrificing protein intake for a few days."
         },
         {
-            "Question": "Education is very important for Mwansa’s future. At 16 years old, Mwansa is starting to prepare for her upper secondary exam, and more than a quarter of girls her age have already dropped out of school. If she stays in school, secondary education does have a cost. The tuition fees for public secondary schools can range from about 500 to 1,500 Zambian Kwacha (ZMW) per term (roughly $30 to $90 USD. Can her family afford to keep sending Mwansa to school?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Considering how extensive these fees are when the average income in Zambia is approximately ZMW 6,000 ($223) per month; it is unlikely Mwansa’s family can continue her schooling fees.\n\nEducation is also closely linked to Mwansa’s future. Girls who stay in school longer tend to get married later, have healthier children later, and better health and nutrition themselves. Mwansa’s opportunities in the future and those of her children are likely to be better if she can complete her education."
-                },
-                {
-                    "Text": "No",
-                    "Note": "Education is closely linked to Mwansa’s future. Girls who stay in school longer tend to get married later, have healthier children later, and better health and nutrition themselves. Mwansa’s opportunities in the future and those of her children are likely to be better if she can complete her education.\n\nHowever, considering how extensive these fees are when the average income in Zambia is approximately ZMW 6,000 ($223) per month, it is unlikely Mwansa’s family can continue her schooling fees."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa is 15 and she’s heard her parents discussing that she should leave school and get married. Her family doesn’t want her to go to school past this year, so she is feeling sad, as some girls in her village have already gotten married. She wants to stay in school and marry later, but her parents think this would help relieve their financial issues. What should Mwansa tell her parents?",
-            "Answers": [
-                {
-                    "Text": "Mwansa should tell her parents she doesn’t want to get married right now, hoping that they will stop the marriage. She can also approach a school teacher or faith leader to help talk to her parents about the importance of education.",
-                    "Note": "Even though child marriage has declined, it still affects 29% girls in Zambia. New legislation makes it illegal for children (18 years and younger) to marry in Zambia. Mwansa’s parents are probably worried about covering her school fees while continuing to take care of her siblings, and concerned she might get pregnant early, like 31% of girls in Zambia. Because Mwansa has not completed growing herself and she is stunted, if she were to become pregnant, she’s more likely to suffer health and birth complications, including death, and her baby is more likely to have a low birthweight and higher risk of malnutrition and death. The leading causes of death for adolescent girls, 15-19 years, are pregnancy complications and unsafe abortions."
-                },
-                {
-                    "Text": "Mwansa should accept the marriage and try to return to school later.",
-                    "Note": "Mwansa would likely never be able to return to school again. Even though a new law has recently passed in Zambia outlawing child marriage, it still affects 29% girls in the country. Her chances of going back to school are very slim as 87% of married adolescent girls in Zambia are out of school. Because Mwansa has not completed growing herself and she is stunted, if she were to become pregnant, she’s more likely to suffer health and birth complications, including death, and her baby is more likely to have a low birthweight and higher risk of malnutrition and death. The leading causes of death for adolescent girls, 15-19 years, are pregnancy complications and unsafe abortions."
-                }
-            ]
+          "Text": "Chickpeas cost: \n$2.50 to $6.00 average per kilogramme.",
+          "Note": "Cooked lentils are a good choice for Oumou’s mother. They provide about 4.7 mg of iron per cup, fitting the 7 mg recommended iron intake for children Oumou’s age and offering a cost-effective solution."
         }
-    ],
-    "stage03": [
+      ]
+    },
+    {
+      "Question": "Oumou has had an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution for Oumou. Oumou’s mother passes by a street vendor selling soap. \n\nShould her mother buy soap?",
+      "Answers": [
         {
-            "Question": "Mwansa is now married and is responsible for taking care of the crops and preparing food in her new home. A recent drought in Zambia has affected their maize crop, and she’s not able to buy extra food like papayas, sweet potatoes and roasted peanuts from the local market. Her family lost almost all of their maize crop. Her husband gives her the money he has and it’s enough to buy some more maize flour. Do you think that Mwansa should start a business so she can cover the budget gap?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Mwansa sees her neighbours start a charcoal business and decides to try to make and sell charcoal to bring in extra income for the family. Mwansa also thought she may reach out to relatives in the city to see if there is some work that she could do, as her husband already works in the city. A quarter of girls aged 15-19 in Zambia aren’t in school or any kind of employment. Those who do work, often earn less than men; globally, women earn 23 percent less, and this, in combination with increased food prices, will continue to impact Mwansa’s ability to afford nutritious diets."
-                },
-                {
-                    "Text": "No",
-                    "Note": "Even though an income would help Mwansa, it might not help her cover the budget to afford nutritious food. Her ability to earn a good wage without having finished her education is very unlikely, but Mwansa could reach out to relatives in the city to see if anyone has a contact for her to find a job. A quarter of girls aged 15-19 in Zambia aren’t in school or any kind of employment. Those who do work, often earn less than men; globally, women earn 23 percent less, and this, in combination with increased food prices, will continue to impact Mwansa’s ability to afford nutritious diets."
-                }
-            ]
+          "Text": "Yes",
+          "Note": "Oumou feels better after the oral rehydration solution, and her mum's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing, especially after using the toilet and before preparing or eating food, removes harmful pathogens such as viruses and bacteria that can cause diarrheal illnesses."
         },
         {
-            "Question": "Mwansa has a relative who got her a job at a local factory, where she works 6 days a week. She’s still only 17, and due to malnutrition (stunting) in childhood, Mwansa is shorter and has a lower weight than most of the other employees. The physical labour is tiring and the pay is low. She misses her village. Should she stay working there?",
-            "Answers": [
-                {
-                    "Text": "Mwansa should stay at the job.",
-                    "Note": "Statistically, people who were stunted as children earn less money as adults than their non-stunted peers. In Zambia, that may mean a difference of $231.88 less per capita annually. Mwansa’s decision to keep working and try to use the money she earns on a nutritious balanced diet reflects a lack of other options, but the cost of living is higher in the city and it’s not easy to access fresh vegetables and fruits due to the food prices. It is hard for her to purchase food and she relies on the goodwill of her relatives in the city."
-                },
-                {
-                    "Text": "Mwansa should leave the job and find other work.",
-                    "Note": "Statistically, people who were stunted as children earn less money as adults than their non-stunted peers. In Zambia, that may mean a difference of $231.88 less per capita annually. Mwansa’s decision to find other work makes her life unstable and she tries her best to find other employment while still working at the factory 6 days a week. Even though she wants to have a balanced diet, the cost of living is higher in the city, and it’s not easy to access fresh vegetables and fruits due to the food prices. It is hard for her to purchase food and she relies on the goodwill of her relatives in the city."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa is still at the factory, but she has been searching for new ways to start a business. She is considering opening a market stall, trying to get a loan to buy a sewing machine and work as a local seamstress, or starting a food business selling easy to eat foods and snacks for labourers. She has not been able to find money to launch any of her ideas, however. What should Mwansa do?",
-            "Answers": [
-                {
-                    "Text": "Mwansa should keep looking for a loan",
-                    "Note": "Mwansa has no savings to start a business, but could try to find a microfinance organisation, like Vision Fund to get a small loan from. Neither option is easy. Statistically, malnutrition increases the likelihood of unemployment by 12%, and the long term effects of anaemia reduce productivity and IQ. The combined effects mean a relationship between women’s adult height and their wages - every 1 cm increase predicts a 6% increase in wages."
-                },
-                {
-                    "Text": "Mwansa should stay at her current job and stop this idea of starting a business",
-                    "Note": "If Mwansa stays, she may be more likely to be fired than others. Statistically, malnutrition increases the likelihood of unemployment by 12%, and the long term effects of anaemia reduce productivity and IQ. The combined effects mean a relationship between women’s adult height and their wages - every 1 cm increase predicts a 6% increase in wages."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa is pregnant and and expecting her first child. She’s worried that she will not be able to work. Also, she is feeling extremely tired and the health worker said that she has anaemia. She doesn’t like going to the antenatal visits, as her factory work doesn’t allow for such breaks and the health workers treat her disrespectfully because she is young. Should Mwansa continue going to her antenatal visits at the health centre?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Antenatal care visits are important and provide health and nutrition services that are essential during pregnancy. Anaemia also has serious effects, and timely treatment can reduce her risk during pregnancy and improve her baby’s chances of a healthy birth weight and lower their risk of anaemia. Mwansa needs supplementation and follow-up care from a healthcare provider or community health workers who can assist her and provide advice on affordable iron sources for her diet. The health service should seek to improve its antenatal services for adolescent girls and young women."
-                },
-                {
-                    "Text": "No",
-                    "Note": "Antenatal care visits are important and provide health and nutrition services that are essential during pregnancy. Anaemia also has serious effects, and timely treatment can reduce her risk during pregnancy and improve her baby’s chances of a healthy birth weight and lower their risk of anaemia. Mwansa needs supplementation and follow-up care from a healthcare provider or community health workers who can assist her and provide advice on affordable iron sources for her diet. The health service should seek to improve its antenatal services for adolescent girls and young women."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa went to the health centre. They provided her first with iron treatment and then iron folic-acid supplements when her iron levels were improved and she no longer had anaemia.They also gave her advice on eating well, including having an extra meal, and resting during her pregnancy to have a healthy baby. As an adolescent girl who is pregnant, she has to make sure she is eating well and enough to support both her own growth and the growth of her baby. However, food prices have shot up in Zambia due to the drought, and Mwansa is struggling to buy healthy, affordable food at the market. What should Mwansa do to ensure a healthy pregnancy for herself and her baby?",
-            "Answers": [
-                {
-                    "Text": "Mwansa can ask her husband and relatives to support her to have a healthy pregnancy",
-                    "Note": "As a young mum, Mwansa may struggle to get support from her family. Food prices have shot up in Zambia due to the drought, and some things are harder to find too. The family has been able to grow enough maize to make a basic porridge at least twice a day, but don’t have the money to afford additional protein and iron rich foods to support Mwansa during her pregnancy. Over 48% of people in Zambia are unable to meet their minimum calorie requirements. Mwansa should speak with a community health worker to find out if there are any affordable, locally grown foods that she can start eating to improve her nutrition"
-                },
-                {
-                    "Text": "Mwansa should choose cheaper food and ensure she gets enough energy from her foods",
-                    "Note": "The family has been able to grow enough maize to make a basic porridge at least twice a day, but don’t have the money to afford additional protein and iron rich foods to support Mwansa during her pregnancy. Food prices have shot up in Zambia due to the drought, and some things are harder to find too. Over 48% of people in Zambia are unable to meet their minimum calorie requirements. Mwansa should speak with a community health worker to find out if there are any affordable, locally grown foods that she can start eating to improve her nutrition"
-                }
-            ]
+          "Text": "No",
+          "Note": "Oumou feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections."
         }
-    ]
+      ]
+    }
+  ],
+  "stage02": [
+    {
+      "Question": "Oumou has not eaten much meat growing up and has recently started menstruating, making iron is even more crucial. She's at risk of anaemia, often feeling tired, struggling to focus at school, and forgetting information in class. She frequently misses school due to lack of washroom access, and the high cost and scarcity of sanitary pads.\n\nWith final exams next month, what should she do?",
+      "Answers": [
+        {
+          "Text": "Keep pushing through exams and try her best.",
+          "Note": "Oumou’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Leafy greens like amaranth and moringa, beans and peanuts are affordable iron sources, and organisations like World Vision can help girls make sanitary napkins and combat menstruation stigma. Every girl should stay in school until at least the age of 18."
+        },
+        {
+          "Text": "Ask her mother or a female school teacher for advice.",
+          "Note": "Asking a trusted adult for help is wise. Affordable beans and leafy greens can boost iron levels, and programmes exist to support girls with menstrual needs and stigma. Oumou, and every girl, should be able to stay in school until age 18."
+        },
+        {
+          "Text": "Begin baking and selling snacks on the side of the road before school to help support her family and cover essentials like sanitary pads and more protein sources.",
+          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Leafy greens like amaranth and moringa, beans, and peanuts are affordable iron sources, and programmes can assist with menstrual needs. Every girl should have the right to complete secondary school."
+        }
+      ]
+    },
+    {
+      "Question": "Oumou has always been small for her age due to stunting, especially before age 2. Changing rain patterns in Mali have severely impacted crops, raising food prices. Because of stunting, she struggles with strenuous activities, like daily water collection. She can either collect water from a nearby slow-moving stream or a borehole 4 km away (a 45-minute walk each way). \n\nWhat should Oumou choose to do?",
+      "Answers": [
+        {
+          "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk far, and the small fee to use the borehole can be spent on food.",
+          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Oumou and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer; if the distance is tough, Oumou can ask a sibling for help."
+        },
+        {
+          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance.",
+          "Note": "Going to the borehole is extra effort, but ensures long-term health benefits for Oumou and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored, and a sibling could help her carry the water."
+        }
+      ]
+    },
+    {
+      "Question": "Education is very important for Oumou’s future. At 15, she is preparing for her lower secondary exam, but less than 40% of girls her age complete this stage of education. Her tuition is free, but there are costs for school supplies and transportation. \n\nCan her family afford to keep sending Oumou to school?",
+      "Answers": [
+        {
+          "Text": "Yes",
+          "Note": "Considering that the average cost of living in Mali is $560 (330,000 XOF) it's a struggle for  Oumou’s family to afford school costs. Only 29% of girls in Mali are enrolled in secondary school. However, completing her education greatly impacts her future opportunities. Girls who stay in school longer marry later, have healthier children, and better health and nutrition."
+        },
+        {
+          "Text": "No",
+          "Note": "Education significantly affects Oumou’s future prospects. Staying in school leads to later marriage, healthier children, and better health and nutrition. Despite these benefits, the high fees against the average cost of living in Mali is $560 (330,000 XOF) making it difficult for her family to continue to afford the costs associated with school.Only 15% of girls in Mali are enrolled in secondary school."
+        }
+      ]
+    },
+    {
+      "Question": "Oumou is 16, and her parents want her to leave school and get married to relieve financial strain. She feels sad as more than 15% of girls in her village are already married and have dropped out of school as a result. Oumou wants to stay in school and marry later. \n\nWhat should she tell her parents?",
+      "Answers": [
+        {
+          "Text": "Oumou should tell her parents she doesn’t want to get married now and ask a teacher or faith leader to discuss the importance of education with them.",
+          "Note": "Child marriage affects 54% of girls in Mali, and 16% of girls are married before age 15. Oumou should express her desire to stay in school; married teens often leave school permanently. Her growth is incomplete, and pregnancy could lead to severe complications or death. Adolescent pregnancies, including unsafe abortions, are the leading cause of death for girls aged 15-19."
+        },
+        {
+          "Text": "Oumou should accept the marriage and try to return to school later.",
+          "Note": "Accepting marriage risks her never returning to school. Child marriage impacts 54% of girls in Mali. Married teens often leave school permanently. As Oumou hasn’t completed growing, pregnancy could cause severe complications, increasing health risks. Pregnancy complications are the leading cause of death for girls aged 15-19."
+        }
+      ]
+    }
+  ],
+  "stage03": [
+    {
+      "Question": "Oumou is now married and responsible for cooking and helping tend crops for her new family. A drought in Mali has devastated their maize crop, and she can't afford extra food from the market. Her husband gives her money; enough to buy some millet. \n\nShould Oumou start a business to cover the budget gap?",
+      "Answers": [
+        {
+          "Text": "Yes",
+          "Note": "Oumou considers starting a handicraft business, like her neighbours, for additional income, and thinks of reaching out to relatives in the city for job opportunities, as her husband works there. Girls who work often earn less than men; about 23% less globally, and with rising food costs, this will impact her ability to maintain a nutritious diet."
+        },
+        {
+          "Text": "No",
+          "Note": "While earning an income could help, it might not cover the cost of nutritious foods. She hasn’t finished her education, making a well-paying job unlikely. Oumou could contact  relatives in the city for job leads. If they find employment, women typically earn less than men, impacting them further amid high food prices."
+        }
+      ]
+    },
+    {
+      "Question": "Oumou, now 17, has moved to the city to join her husband, and found work as a housemaid. Childhood malnutrition (stunting) makes the long hours and household chores tiring. Pay is low, and she misses her village.\n\nShould she stay working there?",
+      "Answers": [
+        {
+          "Text": "Oumou should stay at the job.",
+          "Note": "Statistically, those stunted in childhood earn less as adults; in Mali, this might mean $86.39 less per capita annually. Oumou’s choice to continue working reflects limited options, but city living costs are high, and accessing nutritious food is difficult due to prices. She depends on relatives' goodwill for support."
+        },
+        {
+          "Text": "Oumou should leave the job and find other work.",
+          "Note": "Childhood stunting often results in lower adult earnings; in Mali, this could be $86.39 less annually. Oumou's search for different work makes life unstable, as she balances working as household help 6 days a week. Despite her desire for a balanced diet, high city living costs and food prices complicate accessing fresh produce, leaving her reliant on relatives' goodwill."
+        }
+      ]
+    },
+    {
+      "Question": "Oumou, still working as a housemaid, seeks to start a business. She's considering a market stall, a loan for a sewing machine to work as a seamstress, or a food business cooking for labourers. However, she hasn't secured funding for any ideas. \n\nWhat should Oumou do?",
+      "Answers": [
+        {
+          "Text": "Oumou should keep looking for a loan.",
+          "Note": "Oumou lacks savings to start a business but could seek a microfinance organisation like Vision Fund for a small loan. This isn't easy. Malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ. Women's height correlates to wages: every 1 cm increase predicts a 6% wage increase."
+        },
+        {
+          "Text": "Oumou should stay at her current job and stop this idea of starting a business.",
+          "Note": "If Oumou stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability."
+        }
+      ]
+    },
+    {
+      "Question": "Oumou is pregnant and expecting her first child. She’s worried about not being able to work, feels extremely tired, and has been diagnosed with anaemia. She dislikes going to antenatal visits because they’re hard to fit in around household chores, and health workers are disrespectful towards her. \n\nShould Oumou continue attending her antenatal visits at the health centre?",
+      "Answers": [
+        {
+          "Text": "Yes",
+          "Note": "Antenatal care visits are crucial as they provide essential health and nutrition services during pregnancy. Timely treatment for anaemia can reduce risks for Oumou and improve her baby's chances of a healthy birth weight. Health services should enhance antenatal support for adolescent girls and young women."
+        },
+        {
+          "Text": "No",
+          "Note": "Antenatal care is vital for providing necessary health and nutrition services during pregnancy. Addressing her anaemia promptly can lower risks and ensure a healthier birth for her baby. Oumou requires supplements and ongoing care from healthcare providers for guidance on affordable iron sources. Improving antenatal services for young women is essential."
+        }
+      ]
+    },
+    {
+      "Question": "Oumou went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough nutritious food to support her growth and her baby's development. However, rising food prices in Mali due to climate change and inflation make it difficult for her to buy healthy, affordable food. \n\nWhat should Oumou do to ensure a healthy pregnancy for herself and her baby?",
+      "Answers": [
+        {
+          "Text": "Oumou can ask her husband and relatives for support to maintain a healthy pregnancy.",
+          "Note": "Oumou may struggle to get family support. Rising food prices make it hard to access nutritious foods. Although her family can grow enough maize for basic porridge twice daily, they lack funds for essential protein and iron-rich foods. Over 25% of people in Mali experience food insecurity. Oumou should consult a community health worker for affordable, locally grown foods to enhance her nutrition."
+        },
+        {
+          "Text": "Oumou should choose cheaper food and ensure she gets enough energy from her meals.",
+          "Note": "While her family can make porridge with the maize they grow, they can't afford additional protein and iron-rich foods for Oumou's pregnancy. Increased food prices mean many items are harder to find. Over 25% of people in Mali experience food insecurity. Oumou should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet."
+        }
+      ]
+    }
+  ]
 }

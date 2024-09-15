@@ -1,172 +1,184 @@
 {
-    "stage01": [
+  "stage01": [
+    {
+      "Question": "Ana is 6 months old and her mother has started to introduce solid foods into her diet. However, Ana does not seem interested in eating purees and cries a lot during meals. \n\nWhat should her mother do?",
+      "Answers": [
         {
-            "Question": "When Mwansa was born, she was crying so much her mum wasn’t sure her breastmilk was enough for her. One of the women in the community told her to try giving her some watery porridge instead. What should Mwansa’s mum do?",
-            "Answers": [
-                {
-                    "Text": "Keep breastfeeding every time Mwansa seems hungry",
-                    "Note": "Exclusive breastfeeding is the best choice Mwansa’s mum can make. Her breast milk can give her all the nutrition she needs for the first six months. Other foods and water may make Mwansa sick, especially if they aren’t coming from safe sources. Her body also isn’t ready to process other foods yet"
-                },
-                {
-                    "Text": "Start giving her some watery porridge as well and see if it helps",
-                    "Note": "Watery porridge is actually worse for Mwansa. Exclusive breastfeeding is the best choice Mwansa’s mum can make. Her breast milk can give her all the nutrition she needs for the first six months. Other foods and water may make Mwansa sick, especially if they aren’t coming from safe sources. Her body also isn’t ready to process other foods yet"
-                }
-            ]
+          "Text": "Force Ana to eat the purées so that she can get used to the new foods.",
+          "Note": "It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, forcing solids when a baby is not ready can cause a stressful feeding experience. Breastfeeding should continue for the first year of life or longer, along with a varied diet."
         },
         {
-            "Question": "Mwansa has just turned 1, and her mum knows how important a healthy diet is for her child's growth and development. After receiving advice from a community health worker about the crucial role of iron, she learned that including certain food groups in their diet is essential to meet daily iron requirements.\n\nGiven that iron-rich foods can be expensive, she needs to make cost-effective choices. With average earnings of a working woman at $150 per month and the average cost of a nutritious food basket being $14.47, what should she prioritise when shopping to improve their iron levels over the next few days?",
-            "Answers": [
-                {
-                    "Text": "Papaya\ncosts: $4.93 to $11.57 on average, and potentially less in Lusaka and Kitwe",
-                    "Note": "Papayas are actually low in Iron, but they are a great source of Vitamin C, which will help Mwansa absorb any iron she does get from plant based foods. They are also a great healthy snack. However they do not directly address Mwans’s iron issue"
-                },
-                {
-                    "Text": "Iron Fortified Breakfast Cereals\ncost: $3.00 to $6.00 average per box",
-                    "Note": "Many breakfast cereals are fortified with iron. However, even the cheapest cereals come at a high cost for Mwansa’s mother, meaning she will have to sacrifice protein for the next few days"
-                },
-                {
-                    "Text": "Cooking lentils\ncost: $1.00 to $3.00 average per 450 grams",
-                    "Note": "This is a good choice for Mwansa’a mother. Cooked lentils can provide about 6.6 mg of iron per cup, so two cups would fit the range of 0–12.5 mg of elemental iron for children aged 2–4 years for a healthy iron intake"
-                }
-            ]
+          "Text": "Continue to breastfeed exclusively and wait until Ana is more ready for solids.",
+          "Note": "Delaying the introduction of solids can lead to nutritional deficiencies. It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, breastfeeding should continue for the first year of life or longer, along with a varied diet."
         },
         {
-            "Question": "Mwansa has been having an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker, who stresses the importance of good hygiene (like handwashing with soap) and gives her oral rehydration solution to give to Mwansa. The health worker also stresses the importance of continuing to breastfeed more often when Mwansa is sick. Mwansa’s mother passes by a street vendor selling different small items including soap. Should her mother buy soap?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Mwansa is feeling better after the oral rehydration solution, and her mum’s decision to buy soap means improved handwashing at home. She doesn’t get sick very often"
-                },
-                {
-                    "Text": "No",
-                    "Note": "Mwansa is feeling better after the oral rehydration solution, but hygiene at home still isn’t great. Mwansa has regular bouts of diarrhoea, which makes it hard for her to grow, eat well and absorb nutrients from the foods she is eating. She eventually becomes stunted from the frequent infections"
-                }
-            ]
+          "Text": "Offer Ana a variety of solid foods and continue to breastfeed to supplement her diet.",
+          "Note": "Correct! It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, breastfeeding should continue for the first year of life or longer, along with a varied diet. Forcing solids when a baby is not ready can cause a stressful feeding experience, and delaying the introduction of solids can lead to nutritional deficiencies."
         }
-    ],
-    "stage02": [
+      ]
+    },
+    {
+      "Question": "Ana has just turned 1, and her mother knows a healthy diet is crucial for her development. She recently saw a news segment about the importance of iron, and wants to incorporate more iron-rich foods into their diet. \n\nWith an average cost of living of $1260 per month, and a nutritious food basket costing $32.08, what should she prioritise to improve their iron levels?",
+      "Answers": [
         {
-            "Question": "Mwansa has not eaten much meat growing up and with the economic shocks after COVID-19, it’s hard for her family to afford beans regularly too. She’s at risk of developing anaemia. At school she is tired, struggling to focus and pay attention. She is forgetting information from daily classes.\n\nMwansa also just started getting her period, making iron even more essential. She often stays home, missing school, whenever she has her period, as there’s no toilets available at school for her to use, and pads are expensive and difficult to find.\n\nHer final exams are coming up next month. What should she do?",
-            "Answers": [
-                {
-                    "Text": "Keep pushing through exams and try her best",
-                    "Note": "Mwansa’s focus on school and her education is really important, but she’s struggling, and asking a trusted adult for help and advice is a good idea. Beans and kidneys can be a great source of iron, and should be affordable at the local market. World Vision and other organisations also run programmes to help girls make their own sanitary napkins and reduce the stigma around menstruation. Mwansa, and every girl, should be able to stay in school until at least 18"
-                },
-                {
-                    "Text": "Ask her mum or female school teacher for advice",
-                    "Note": "Asking a trusted adult for help and advice is a great idea. Beans and kidneys can be a great source of iron, and should be affordable at the local market. World Vision and other organisations also run programmes to help girls make their own sanitary napkins and reduce the stigma around menstruation. Mwansa, and every girl, should be able to stay in school until at least 18"
-                },
-                {
-                    "Text": "Start selling tissues or snacks on the side of the road before school. With the money she earns, she can use it to help support her family and cover essentials, like pads and more protein sources for meals",
-                    "Note": "Trying to earn money for herself is admirable, but might put her at risk of sexual exploitation and abuse. Asking a trusted adult for help and advice is a good idea. Beans and kidneys can be a great source of iron, and should be affordable at the local market. World Vision and other organisations also run programmes to help girls make their own sanitary napkins and reduce the stigma around menstruation. Mwansa, and every girl, should have the right to complete secondary school"
-                }
-            ]
+          "Text": "Spanish bananas cost: €1.20 to €1.50 per kilogramme​.",
+          "Note": "Bananas are low in iron, but high in Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Ana’s iron needs."
         },
         {
-            "Question": "Mwansa has always been very small for her age, especially before age 2 (ie, she was stunted). In Zambia there is poor rainfall and the drought has hit maize production particularly hard. The food prices are high, and it’s hard for Mwansa’s family to have an adequate amount and variety of foods to eat. She’s also been trying to eat less so that her younger siblings can get enough.\n\nBecause she is stunted, Mwansa has a hard time with physically strenuous activities like the daily water collection she does for her family. There’s a slow moving stream nearby where she can collect water, or a borehole she can use 2km away (30 minute walk each way). What should Mwansa choose to do?",
-            "Answers": [
-                {
-                    "Text": "Collect water from the nearby stream. This way she doesn’t have to walk as far, and the small fee to use the borehole can also be spent on food",
-                    "Note": "Surface water is contaminated and can be a dangerous source of parasites and germs without water treatment. Mwansa and her family are likely to get sick, creating new healthcare costs, and meaning there still isn’t any extra money to buy food. Going to the borehole is a safer choice, but if Mwansa is struggling with the distance it is probably a good idea to see if one of her siblings can help support the weight"
-                },
-                {
-                    "Text": "Force herself to make the journey to the borehole to access clean water. It takes her much further, but the water is clean",
-                    "Note": "Going to the borehole is extra effort, but will keep Mwansa and her family healthier in the long run. Surface water is contaminated and can be a dangerous source of parasites and germs without water treatment. Mwansa and her family would likely get sick from the surface water, creating new healthcare costs, and meaning there still wouldn’t have been any extra money to buy food"
-                }
-            ]
+          "Text": "Breakfast cereal cost: between €2 and €5 average per box.",
+          "Note": "Many breakfast cereals are fortified with iron, but are also high in sugar and other additives. They also cost more than lentils, which are a more affordable iron source."
         },
         {
-            "Question": "Education is very important for Mwansa’s future. At 16 years old, Mwansa is starting to prepare for her upper secondary exam, and more than a quarter of girls her age have already dropped out of school. If she stays in school, secondary education does have a cost. The tuition fees for public secondary schools can range from about 500 to 1,500 Zambian Kwacha (ZMW) per term (roughly $30 to $90 USD. Can her family afford to keep sending Mwansa to school?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Considering how extensive these fees are when the average income in Zambia is approximately ZMW 6,000 ($223) per month; it is unlikely Mwansa’s family can continue her schooling fees.\n\nEducation is also closely linked to Mwansa’s future. Girls who stay in school longer tend to get married later, have healthier children later, and better health and nutrition themselves. Mwansa’s opportunities in the future and those of her children are likely to be better if she can complete her education."
-                },
-                {
-                    "Text": "No",
-                    "Note": "Education is closely linked to Mwansa’s future. Girls who stay in school longer tend to get married later, have healthier children later, and better health and nutrition themselves. Mwansa’s opportunities in the future and those of her children are likely to be better if she can complete her education.\n\nHowever, considering how extensive these fees are when the average income in Zambia is approximately ZMW 6,000 ($223) per month, it is unlikely Mwansa’s family can continue her schooling fees."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa is 15 and she’s heard her parents discussing that she should leave school and get married. Her family doesn’t want her to go to school past this year, so she is feeling sad, as some girls in her village have already gotten married. She wants to stay in school and marry later, but her parents think this would help relieve their financial issues. What should Mwansa tell her parents?",
-            "Answers": [
-                {
-                    "Text": "Mwansa should tell her parents she doesn’t want to get married right now, hoping that they will stop the marriage. She can also approach a school teacher or faith leader to help talk to her parents about the importance of education.",
-                    "Note": "Even though child marriage has declined, it still affects 29% girls in Zambia. New legislation makes it illegal for children (18 years and younger) to marry in Zambia. Mwansa’s parents are probably worried about covering her school fees while continuing to take care of her siblings, and concerned she might get pregnant early, like 31% of girls in Zambia. Because Mwansa has not completed growing herself and she is stunted, if she were to become pregnant, she’s more likely to suffer health and birth complications, including death, and her baby is more likely to have a low birthweight and higher risk of malnutrition and death. The leading causes of death for adolescent girls, 15-19 years, are pregnancy complications and unsafe abortions."
-                },
-                {
-                    "Text": "Mwansa should accept the marriage and try to return to school later.",
-                    "Note": "Mwansa would likely never be able to return to school again. Even though a new law has recently passed in Zambia outlawing child marriage, it still affects 29% girls in the country. Her chances of going back to school are very slim as 87% of married adolescent girls in Zambia are out of school. Because Mwansa has not completed growing herself and she is stunted, if she were to become pregnant, she’s more likely to suffer health and birth complications, including death, and her baby is more likely to have a low birthweight and higher risk of malnutrition and death. The leading causes of death for adolescent girls, 15-19 years, are pregnancy complications and unsafe abortions."
-                }
-            ]
+          "Text": "Lentils cost: €1.50 to €2.00​ per kilogramme.",
+          "Note": "Lentils are a good choice for Ana’s mother. They provide about 3 mg of iron per 100g, fitting the healthy range of iron intake for children and offering a cost-effective solution."
         }
-    ],
-    "stage03": [
+      ]
+    },
+    {
+      "Question": "Ana is now 2 and she prefers to eat crackers and other snack foods instead of fruits and vegetables. She picks at her food, and is quite short for her age. At her last doctor’s checkup, Ana’s mother was told that she was at risk of stunting.\n\nWhat should her mother do?",
+      "Answers": [
         {
-            "Question": "Mwansa is now married and is responsible for taking care of the crops and preparing food in her new home. A recent drought in Zambia has affected their maize crop, and she’s not able to buy extra food like papayas, sweet potatoes and roasted peanuts from the local market. Her family lost almost all of their maize crop. Her husband gives her the money he has and it’s enough to buy some more maize flour. Do you think that Mwansa should start a business so she can cover the budget gap?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Mwansa sees her neighbours start a charcoal business and decides to try to make and sell charcoal to bring in extra income for the family. Mwansa also thought she may reach out to relatives in the city to see if there is some work that she could do, as her husband already works in the city. A quarter of girls aged 15-19 in Zambia aren’t in school or any kind of employment. Those who do work, often earn less than men; globally, women earn 23 percent less, and this, in combination with increased food prices, will continue to impact Mwansa’s ability to afford nutritious diets."
-                },
-                {
-                    "Text": "No",
-                    "Note": "Even though an income would help Mwansa, it might not help her cover the budget to afford nutritious food. Her ability to earn a good wage without having finished her education is very unlikely, but Mwansa could reach out to relatives in the city to see if anyone has a contact for her to find a job. A quarter of girls aged 15-19 in Zambia aren’t in school or any kind of employment. Those who do work, often earn less than men; globally, women earn 23 percent less, and this, in combination with increased food prices, will continue to impact Mwansa’s ability to afford nutritious diets."
-                }
-            ]
+          "Text": "Allow her to eat crackers but make sure she eats enough to fill her up.",
+          "Note": "Allowing biscuits to be consumed without moderation does not provide the necessary nutrients and encourages unhealthy eating habits. Under-fives are the age group most vulnerable to malnutrition in Spain. Globally, it is increasingly common for children to be both stunted and overweight, often as a result of overconsumption of ultra processed foods. It is crucial to encourage healthy eating habits from an early age."
         },
         {
-            "Question": "Mwansa has a relative who got her a job at a local factory, where she works 6 days a week. She’s still only 17, and due to malnutrition (stunting) in childhood, Mwansa is shorter and has a lower weight than most of the other employees. The physical labour is tiring and the pay is low. She misses her village. Should she stay working there?",
-            "Answers": [
-                {
-                    "Text": "Mwansa should stay at the job.",
-                    "Note": "Statistically, people who were stunted as children earn less money as adults than their non-stunted peers. In Zambia, that may mean a difference of $231.88 less per capita annually. Mwansa’s decision to keep working and try to use the money she earns on a nutritious balanced diet reflects a lack of other options, but the cost of living is higher in the city and it’s not easy to access fresh vegetables and fruits due to the food prices. It is hard for her to purchase food and she relies on the goodwill of her relatives in the city."
-                },
-                {
-                    "Text": "Mwansa should leave the job and find other work.",
-                    "Note": "Statistically, people who were stunted as children earn less money as adults than their non-stunted peers. In Zambia, that may mean a difference of $231.88 less per capita annually. Mwansa’s decision to find other work makes her life unstable and she tries her best to find other employment while still working at the factory 6 days a week. Even though she wants to have a balanced diet, the cost of living is higher in the city, and it’s not easy to access fresh vegetables and fruits due to the food prices. It is hard for her to purchase food and she relies on the goodwill of her relatives in the city."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa is still at the factory, but she has been searching for new ways to start a business. She is considering opening a market stall, trying to get a loan to buy a sewing machine and work as a local seamstress, or starting a food business selling easy to eat foods and snacks for labourers. She has not been able to find money to launch any of her ideas, however. What should Mwansa do?",
-            "Answers": [
-                {
-                    "Text": "Mwansa should keep looking for a loan",
-                    "Note": "Mwansa has no savings to start a business, but could try to find a microfinance organisation, like Vision Fund to get a small loan from. Neither option is easy. Statistically, malnutrition increases the likelihood of unemployment by 12%, and the long term effects of anaemia reduce productivity and IQ. The combined effects mean a relationship between women’s adult height and their wages - every 1 cm increase predicts a 6% increase in wages."
-                },
-                {
-                    "Text": "Mwansa should stay at her current job and stop this idea of starting a business",
-                    "Note": "If Mwansa stays, she may be more likely to be fired than others. Statistically, malnutrition increases the likelihood of unemployment by 12%, and the long term effects of anaemia reduce productivity and IQ. The combined effects mean a relationship between women’s adult height and their wages - every 1 cm increase predicts a 6% increase in wages."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa is pregnant and and expecting her first child. She’s worried that she will not be able to work. Also, she is feeling extremely tired and the health worker said that she has anaemia. She doesn’t like going to the antenatal visits, as her factory work doesn’t allow for such breaks and the health workers treat her disrespectfully because she is young. Should Mwansa continue going to her antenatal visits at the health centre?",
-            "Answers": [
-                {
-                    "Text": "Yes",
-                    "Note": "Antenatal care visits are important and provide health and nutrition services that are essential during pregnancy. Anaemia also has serious effects, and timely treatment can reduce her risk during pregnancy and improve her baby’s chances of a healthy birth weight and lower their risk of anaemia. Mwansa needs supplementation and follow-up care from a healthcare provider or community health workers who can assist her and provide advice on affordable iron sources for her diet. The health service should seek to improve its antenatal services for adolescent girls and young women."
-                },
-                {
-                    "Text": "No",
-                    "Note": "Antenatal care visits are important and provide health and nutrition services that are essential during pregnancy. Anaemia also has serious effects, and timely treatment can reduce her risk during pregnancy and improve her baby’s chances of a healthy birth weight and lower their risk of anaemia. Mwansa needs supplementation and follow-up care from a healthcare provider or community health workers who can assist her and provide advice on affordable iron sources for her diet. The health service should seek to improve its antenatal services for adolescent girls and young women."
-                }
-            ]
-        },
-        {
-            "Question": "Mwansa went to the health centre. They provided her first with iron treatment and then iron folic-acid supplements when her iron levels were improved and she no longer had anaemia.They also gave her advice on eating well, including having an extra meal, and resting during her pregnancy to have a healthy baby. As an adolescent girl who is pregnant, she has to make sure she is eating well and enough to support both her own growth and the growth of her baby. However, food prices have shot up in Zambia due to the drought, and Mwansa is struggling to buy healthy, affordable food at the market. What should Mwansa do to ensure a healthy pregnancy for herself and her baby?",
-            "Answers": [
-                {
-                    "Text": "Mwansa can ask her husband and relatives to support her to have a healthy pregnancy",
-                    "Note": "As a young mum, Mwansa may struggle to get support from her family. Food prices have shot up in Zambia due to the drought, and some things are harder to find too. The family has been able to grow enough maize to make a basic porridge at least twice a day, but don’t have the money to afford additional protein and iron rich foods to support Mwansa during her pregnancy. Over 48% of people in Zambia are unable to meet their minimum calorie requirements. Mwansa should speak with a community health worker to find out if there are any affordable, locally grown foods that she can start eating to improve her nutrition"
-                },
-                {
-                    "Text": "Mwansa should choose cheaper food and ensure she gets enough energy from her foods",
-                    "Note": "The family has been able to grow enough maize to make a basic porridge at least twice a day, but don’t have the money to afford additional protein and iron rich foods to support Mwansa during her pregnancy. Food prices have shot up in Zambia due to the drought, and some things are harder to find too. Over 48% of people in Zambia are unable to meet their minimum calorie requirements. Mwansa should speak with a community health worker to find out if there are any affordable, locally grown foods that she can start eating to improve her nutrition"
-                }
-            ]
+          "Text": "Try incorporating fruits and vegetables creatively into her diet, such as in purees or smoothies.",
+          "Note": "Correct! It is crucial to encourage healthy eating habits from an early age. Under-fives are the age group most vulnerable to malnutrition in Spain.lobally, it is increasingly common for children to be both stunted and overweight, often as a result of overconsumption of ultra processed foods."
         }
-    ]
+      ]
+    }
+  ],
+  "stage02": [
+    {
+      "Question": "Ana is now 10, is very active and plays several sports. Her parents notice that she has been losing weight lately, and she is still short for her age. \n\nWhat should her parents do?",
+      "Answers": [
+        {
+          "Text": "Take her to a nutritionist to evaluate her diet and make sure she is getting adequate nutrition.",
+          "Note": "Correct. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate their diet with a professional to ensure that their diet is balanced for their energy needs. Increasing junk food would only provide empty calories and could negatively affect Ana’s long-term health. Reducing physical activity is not the solution either, as exercise is essential for healthy development."
+        },
+        {
+          "Text": "Increase the amount of high-calorie food she eats to help her gain weight quickly.",
+          "Note": "Increasing junk food would only provide empty calories and could negatively affect Ana’s long-term health. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate her diet with a professional to ensure that it is balanced and adequate for her energy needs."
+        },
+        {
+          "Text": "Reduce her level of physical activity to prevent her from burning too many calories.",
+          "Note": "Reducing physical activity is not the solution, as exercise is essential for healthy development. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate Ana’s diet with a professional to ensure that her diet is balanced and adequate for her energy needs."
+        }
+      ]
+    },
+    {
+      "Question": "Ana is 14 and has just started getting her period. She’s still a bit of a picky eater, and does not usually eat breakfast because she says she is not hungry in the morning. However, after a few hours at school, she feels tired and has difficulty concentrating. \n\nHer mother is worried she might be showing signs of anaemia, what should she do?",
+      "Answers": [
+        {
+          "Text": "Let Ana continue without breakfast, as it is important to respect her hunger signals.",
+          "Note": "A balanced breakfast helps stabilise blood sugar levels and is essential to provide the energy needed for school activities and improve concentration. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade."
+        },
+        {
+          "Text": "Try to get Ana up earlier in the mornings, so she has time to eat a light but nutritious breakfast that includes choices such as scrambled eggs with spinach and oatmeal.",
+          "Note": "Correct - A balanced breakfast helps stabilise blood sugar levels and maintain cognitive performance throughout the morning. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade."
+        },
+        {
+          "Text": "Give Ana an energy drink to give her more energy for the day.",
+          "Note": "Energy drinks are not suitable for children due to their high sugar and caffeine content. If consumed at the same time as food, they can also block iron absorption. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade."
+        }
+      ]
+    },
+    {
+      "Question": "Ana is  15 and has become very self-conscious about her body image. She’s been following TikTok diet advice and has started skipping meals to lose weight. \n\nHer parents are concerned; should they intervene?",
+      "Answers": [
+        {
+          "Text": "Yes. Talk to Ana and seek the advice of an eating disorder expert.",
+          "Note": "Skipping meals can be a sign of an underlying problem with body image and eating. It is important to talk to Ana in an understanding way and seek the help of a professional who can offer appropriate support in maintaining a healthy relationship with foody. In addition to the physical impacts, eating disorders can compound the negative impacts of anaemia on school performance."
+        },
+        {
+          "Text": "No. Ignore the problem, as it is likely to be a temporary phase.",
+          "Note": "Skipping meals can be a sign of an underlying problem with body image and eating. It is important to talk to Ana in an understanding way and seek the help of a professional who can offer appropriate support in maintaining a healthy relationship with food. In addition to the physical impacts, eating disorders can compound the negative impacts of anaemia on school performance."
+        }
+      ]
+    },
+    {
+      "Question": "Ana is 16 years old and when school gets out at 14.30, her parents are still at work. She’s back to eating regularly and is hungry after being at school all day. She doesn’t have a lot of money, and getting a meal at the school cafeteria costs about 10€ a day, or 120 euros for the month. \n\nWhat could she do?",
+      "Answers": [
+        {
+          "Text": "Get a job as a cashier in the local store, so she can afford to eat in the school cafeteria.",
+          "Note": "Unfortunately, paying for a daily menu of €10 is not something that all families can afford. School canteens should play a key role in providing balanced meals, helping children stay alert, and have been shown to increase enrollment by almost 10%. Getting a job is a good idea for Ana, but she shouldn’t have to work in order to eat, and she’ll need to be careful her time spent working doesn’t adversely affect her studies."
+        },
+        {
+          "Text": "Try to pick up odd jobs like babysitting or tutoring for children in her building, and spend time learning to cook from scratch at home.",
+          "Note": "If Ana has the time and ability to earn a bit of extra money this way, it is possible to cook healthy and nutritious meals from scratch. But, she shouldn’t have to. School canteens should play a key role in providing balanced meals and studies have shown that when struggling children are given school meals, they are more likely to attend school, increasing enrolment by almost 10%."
+        },
+        {
+          "Text": "Buy cheap and quick options from the supermarket, like a bag of crisps.",
+          "Note": "The high consumption of cheap, ultra-processed foods means that adolescents in Spain are unable to follow a nutritionally adequate diet. Unfortunately, paying for a daily menu of €10 is not something that all families can afford. School canteens should play a key role in providing balanced meals, helping children stay alert, and have been shown to increase enrollment by 10%."
+        }
+      ]
+    }
+  ],
+  "stage03": [
+    {
+      "Question": "Ana is now out of school - she finished her final year, but her work and anaemia impacted her grades and she didn’t get a place in university. She’s now working full time, but with rising rent payments, she’s struggling to cover her food bill every month. \n\nWhat should she do?",
+      "Answers": [
+        {
+          "Text": "Move in with her boyfriend. They’ve been arguing a lot, but it’s easier to share the rent.",
+          "Note": "Reducing costs by sharing the rent is a great option, but only if it’s a safe and stable environment. Ana might be better off seeing if any of her friends need flatmates. The odds of someone living under the poverty line are 42% higher if they were stunted at 2 years old, and the long term effects of anaemia reduce productivity and IQ."
+        },
+        {
+          "Text": "Pick up a second job to work as a cleaner early in the morning before her ‘real’ job begins.",
+          "Note": "Working a second job will probably impact her productivity overall, leaving her rundown and tired. The odds of someone living under the poverty line are 42% higher if they were stunted at 2 years old, and the long term effects of anaemia reduce productivity and IQ."
+        }
+      ]
+    },
+    {
+      "Question": "Ana has moved in with her boyfriend, but he only works part time at a bar, and often parties away a lot of his money. Their living costs are a bit cheaper than when they lived on their own, but Ana finds she’s increasingly covering his share of the bills. \n\nThey have 20 euros left for groceries this week, what should she buy?",
+      "Answers": [
+        {
+          "Text": "Stock up on the special offers at the grocery store - the ready pizza and meals are €3 each.",
+          "Note": "Ready meals are fast and can be affordable when purchased on special offer, but are likely to be less nutritious, and more expensive overall than cooking from scratch. Ana would be better off purchasing things like eggs, tinned fish, fresh vegetables, beans and lentils."
+        },
+        {
+          "Text": "Focus on buying loose ingredients to cook, like lentils, chickpeas, tomatoes and onions.",
+          "Note": "Yes, ready meals are fast and can be affordable when purchased on special offer, but are likely to be less nutritious, and more expensive overall than cooking from scratch. Ana would be better off purchasing things like eggs, tinned fish, fresh vegetables, beans and lentils."
+        }
+      ]
+    },
+    {
+      "Question": "Ana is pregnant and has been diagnosed with anaemia, a common condition during pregnancy that can lead to complications for both her and the baby. Despite knowing the importance of prenatal care, Ana feels she cannot afford to take time off work to attend her prenatal appointments.\n\nWhat should Ana do?",
+      "Answers": [
+        {
+          "Text": "Ana should prioritise her appointments. Attending prenatal appointments is crucial for managing her anaemia and ensuring a healthy pregnancy.",
+          "Note": "Prenatal appointments are vital for monitoring both Ana and her baby’s health, especially with her anaemia diagnosis. Anaemia during pregnancy can lead to complications such as preterm birth and low birth weight if not properly managed. Healthcare providers can offer targeted treatments and dietary recommendations that over-the-counter supplements alone may not address."
+        },
+        {
+          "Text": "Ana should continue working and manage her anaemia with over-the-counter supplements until she can afford to take time off.",
+          "Note": "While it may seem practical to rely on over-the-counter supplements, missing prenatal care could result in worsening anaemia and other complications, potentially leading to higher medical costs and health risks later, including preterm birth and low birth weight. Prenatal care is essential."
+        }
+      ]
+    },
+    {
+      "Question": "Ana has been prioritising her antenatal care, even though it sometimes means turning down a shift from work. The midwife has given her iron treatments and folic acid supplements after her anaemia improved. However, the rising cost of living in Spain since COVID-19 makes it difficult for her to buy healthy, affordable food.\n\nWhat should Ana do to ensure a healthy pregnancy for herself and her baby?",
+      "Answers": [
+        {
+          "Text": "Ana could ask her boyfriend to pick up extra hours at the bar, or look for a better paying job with more benefits for herself.",
+          "Note": "Asking her boyfriend to help support her is a good idea, but it may not work, and although it is illegal for employers to discriminate due to pregnancy when hiring in Spain, it can still be hard to find another job. Rising food prices affect many families. More than one in ten families in Spain are food insecure."
+        },
+        {
+          "Text": "Ana should choose cheaper food and ensure she gets enough energy from her meals.",
+          "Note": "Ana might be able to get advice from the midwives at the health centre about affordable food options that can get her the nutrition she needs, or how she can access extra help and support. Rising food prices affect many families. More than one in ten families in Spain are food insecure."
+        }
+      ]
+    },
+    {
+      "Question": "Ana has a baby girl, but postpartum is hard, and the crying of their daughter seems to trigger her boyfriend. He starts shouting in her face one night when they are very tired, and she’s worried that he might hit her.\n\nWhat should she do?",
+      "Answers": [
+        {
+          "Text": "Be understanding - neither of them have slept much, and he’s been stressed about money. She’s still on her maternity leave and doesn’t feel able to make any big life decisions.",
+          "Note": "The safety of Ana and her daughter must be a priority. Children living in food insecure households are up to 6 times more likely to witness domestic violence. There are government programmes and support she can access, which will help put her on the path to a safer, healthier future."
+        },
+        {
+          "Text": "Move back in with her parents to give them some breathing room. Her parents are still working long hours to make ends meet, but at least she and her daughter will be safe there.",
+          "Note": "Getting some space at her parents’ house is a good idea. The safety of Ana and her daughter must be a priority. Children living in food insecure households are up to 6 times more likely to witness domestic violence. There are government programmes and support she can access, which will help put her on the path to a safer healthier future."
+        }
+      ]
+    }
+  ]
 }
