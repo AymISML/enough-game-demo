@@ -1,0 +1,23 @@
+ManifestFileVersion: 0
+CRC: 90140480
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: a41b04eb0e468da878791ecd50e5a365
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 9a2ca7bdbd1871f7131daf57de908e0c
+HashAppended: 0
+ClassTypes:
+- Class: 83
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Audio/clicks/click-02.ogg
+- Assets/Audio/steps.ogg
+- Assets/Audio/clicks/click-01.ogg
+- Assets/Audio/answer.ogg
+- Assets/Audio/whoosh.ogg
+- Assets/Audio/paper.ogg
+- Assets/Audio/clicks/click-03.ogg
+Dependencies: []
