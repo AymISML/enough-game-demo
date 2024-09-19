@@ -1,4 +1,4 @@
-const HOST = 'https://enough-wv.pages.dev/';
+const HOST = 'https://enough-wv.vercel.app/';
 const ORIGIN = URL.parse(HOST).origin;
 
 function startGame(actionUrl, eventLogsCallback) {
