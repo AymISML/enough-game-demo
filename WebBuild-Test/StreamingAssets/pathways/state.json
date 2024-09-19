@@ -8,32 +8,32 @@
         {
             "playerName": "Oumou",
             "countryName": "Mali",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Luciana",
             "countryName": "Peru",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Issa",
             "countryName": "Philippines",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Ana",
             "countryName": "Spain",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Maryam",
             "countryName": "Afghanistan",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Malai",
             "countryName": "Laos",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Emma",
