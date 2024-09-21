@@ -1,0 +1,1 @@
+const HOST="https://enough-wv.vercel.app/",ORIGIN=URL.parse(HOST).origin;function startGame(e,a){let t=`${HOST}?shareUrl=${window.location.href}&actionUrl=${e}`,r=document.querySelector(".game-iframe");r.allow="web-share",r.src=t,window.addEventListener("message",function e(t){if(t.origin===ORIGIN&&t.data&&"gameEvent"===t.data.event){let r=t.data.data;a(r.event,r.param)}},!1)}
