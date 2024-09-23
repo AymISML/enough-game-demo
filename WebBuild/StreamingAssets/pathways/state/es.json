@@ -1,0 +1,52 @@
+{
+    "pathways":[
+        {
+            "playerName": "Mwansa",
+            "countryName": "Zambia",
+            "key": "zambia",
+            "active": false
+        },
+        {
+            "playerName": "Oumou",
+            "countryName": "Mali",
+            "key": "mali",
+            "active": false
+        },
+        {
+            "playerName": "Luciana",
+            "countryName": "Perú",
+            "key": "peru",
+            "active": false
+        },
+        {
+            "playerName": "Issa",
+            "countryName": "Filipinas",
+            "key": "philippines",
+            "active": false
+        },
+        {
+            "playerName": "Ana",
+            "countryName": "España",
+            "key": "spain",
+            "active": false
+        },
+        {
+            "playerName": "Maryam",
+            "countryName": "Afganistán",
+            "key": "afghanistan",
+            "active": false
+        },
+        {
+            "playerName": "Malai",
+            "countryName": "Laos",
+            "key": "laos",
+            "active": false
+        },
+        {
+            "playerName": "Emma",
+            "countryName": "Canadá",
+            "key": "canada",
+            "active": false
+        }
+    ]
+}
