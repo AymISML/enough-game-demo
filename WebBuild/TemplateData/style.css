@@ -110,13 +110,13 @@ body { padding: 0; margin: 0; border: 0; height: 100vh; background-color: #16161
 @media only screen and (max-width: 800px) {
     .cta-button {
         width: 90%;
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .sharing-buttons {
         gap: 10vw;
     }
     .sharing-button {
-        width: 5vh;
-        height: 5vh;
+        width: 4vh;
+        height: 4vh;
     }
 }
