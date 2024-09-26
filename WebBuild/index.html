@@ -4,11 +4,28 @@
     <meta charset="utf-8">
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <title>ENOUGH</title>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,700&display=swap');
+    </style>
     <link rel="shortcut icon" href="TemplateData/favicon.ico">
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
     <canvas id="unity-canvas" width=1920 height=1080></canvas>
+    <div class="end-panel" style="display: none;">
+      <div class="cta-button" ></div>
+      <div class="sharing-buttons">
+        <div class="sharing-button facebook-share" aria-label="Share on Facebook">
+            <img src="TemplateData/facebook.png" alt="Facebook icon">
+        </div>
+        <div class="sharing-button twitter-share" aria-label="Share on Twitter">
+            <img src="TemplateData/twitter.png" alt="Twitter icon">
+        </div>
+        <div class="sharing-button navigator-share" aria-label="Share">
+            <img src="TemplateData/share.png" alt="Share icon">
+        </div>
+      </div>
+    </div>
     <div id="loading-logo" hidden></div>
     <div id="progress-bar" hidden>
       <div class="fill"></div>
@@ -26,15 +43,15 @@
 
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebBuild-v1.5.2.loader.js";
+      var loaderUrl = buildUrl + "/WebBuild-v1.5.3.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WebBuild-v1.5.2.data.br",
-        frameworkUrl: buildUrl + "/WebBuild-v1.5.2.framework.js.br",
-        codeUrl: buildUrl + "/WebBuild-v1.5.2.wasm.br",
+        dataUrl: buildUrl + "/WebBuild-v1.5.3.data.br",
+        frameworkUrl: buildUrl + "/WebBuild-v1.5.3.framework.js.br",
+        codeUrl: buildUrl + "/WebBuild-v1.5.3.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "WorldVision",
         productName: "ENOUGH",
-        productVersion: "1.5.2",
+        productVersion: "1.5.3",
         matchWebGLToCanvasSize: true,
       };
 
@@ -64,5 +81,6 @@
 
       document.body.appendChild(script);
     </script>
+    <script src="TemplateData/scripts.js"></script>
   </body>
 </html>
