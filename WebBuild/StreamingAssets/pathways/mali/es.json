@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La lactancia materna exclusiva es ideal. La leche materna proporciona toda la nutrición necesaria para los primeros seis meses de Oumou. Proporciona el equilibrio perfecto de nutrientes, anticuerpos y enzimas esenciales para el desarrollo saludable de un bebé. El agua sucia y los líquidos que no sean leche materna pueden aumentar el riesgo de infecciones.",
+          "Text": "Seguir dándole el pecho cada vez que parezca que Oumou tiene hambre."
+        },
+        {
+          "Note": "Las gachas aguadas son en realidad peores para Oumou. La lactancia materna exclusiva asegura que se satisfagan todas sus necesidades nutricionales y previene enfermedades potenciales de fuentes no seguras. Su cuerpo aún no está preparado para otros alimentos. Introducirlos no proporcionará suficientes nutrientes esenciales que son cruciales para el crecimiento y desarrollo de un bebé.",
+          "Text": "Comenzar a darle algunas gachas aguadas y ver si ayuda."
+        }
+      ],
+      "Question": "Cuando Oumou nació, lloraba mucho y su madre dudaba de que su leche materna fuera suficiente. Un miembro de la comunidad sugirió darle gachas aguadas.\n\n¿Qué debería hacer la madre de Oumou?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las guayabas son bajas en hierro pero ricas en vitamina C, lo que ayuda a la absorción de hierro de alimentos de origen vegetal. Son un snack saludable, pero no abordan directamente el problema de hierro de Oumou.",
+          "Text": "Coste de la guayaba: \n0,80 $ a 2,50 $ de media por kilogramo de media."
+        },
+        {
+          "Note": "Muchos cereales de desayuno están fortificados con hierro, pero incluso las opciones más económicas son costosas para la madre de Oumou, lo que podría significar sacrificar la ingesta de proteínas por unos días.",
+          "Text": "Coste de cereales de desayuno fortificados: \n2,50 $ a 8,00 $ de media por caja."
+        },
+        {
+          "Note": "Las lentejas cocidas son una buena opción para la madre de Oumou. Proporcionan alrededor de 4,7 mg de hierro por taza, ajustándose a la ingesta recomendada de 7 mg de hierro para niños de la edad de Oumou y ofreciendo una solución rentable.",
+          "Text": "Coste de los garbanzos: \n2,50 $ a 600 $ de media por kilogramo."
+        }
+      ],
+      "Question": "Oumou acaba de cumplir 1 año y su madre sabe que una dieta saludable es crucial para su desarrollo. Después de recibir el consejo de un sanitario de la comunidad, aprendió sobre la importancia del hierro en su dieta. Teniendo en cuenta el precio tan elevado de los alimentos ricos en hierro, su madre debe tomar una decisión más asequible.\n\nCon un ingreso promedio de 150 $ al mes, y considerando que una cesta de la compra con alimentos nutritivos cuesta 21,53  $, ¿qué debería priorizar para mejorar sus niveles de hierro?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Oumou se siente mejor después de la solución de rehidratación oral, y la decisión de su madre de comprar jabón asegura una mejor higiene en el hogar. El lavado de manos regular y minucioso, especialmente después de usar el baño y antes de comer o preparar la comida, elimina patógenos dañinos como virus y bacterias que pueden causar enfermedades diarreicas.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Oumou se siente mejor después de la solución de rehidratación oral, pero la mala higiene en el hogar lleva a diarreas regulares, obstaculizando su crecimiento, la absorción de nutrientes y eventualmente causando retraso en el crecimiento por infecciones frecuentes.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Oumou ha tenido malestar estomacal y diarrea durante más de un día. Su madre visita a un sanitario local que enfatiza la importancia de una buena higiene, como lavarse las manos con jabón, y le da una solución de rehidratación oral para Oumou. La madre de Oumou pasa por un vendedor ambulante que vende jabón.\n\n¿Debería su madre comprar jabón?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "La dedicación de Oumou en la escuela es importante, pero está teniendo dificultades. Pedir ayuda a un adulto de confianza es lo más sensato. Las verduras de hoja verdes como el amaranto y la moringa y las alubias y cacahuetes son fuentes de hierro asequibles, y organizaciones como Visión Mundial pueden ayudar a las niñas a hacer compresas sanitarias y combatir el estigma de la menstruación. Toda niña debería ir a la escuela hasta al menos los 18 años.",
+          "Text": "Seguir esforzándose en los exámenes y dar lo mejor de sí."
+        },
+        {
+          "Note": "Pedir ayuda a un adulto de confianza es lo más sensato. Las alubias y las verduras de hoja verde asequibles pueden aumentar los niveles de hierro, y existen programas para apoyar a las niñas con las necesidades menstruales y el estigma que supone la menstruación. Oumou, y toda niña, debería poder ir a la escuela hasta los 18 años.",
+          "Text": "Pedirle consejo a su madre o a una maestra de la escuela."
+        },
+        {
+          "Note": "Aunque ganar dinero muestra iniciativa, podría arriesgarse a la explotación. Pedir ayuda a un adulto de confianza es mejor. Las verduras de hoja verdes como el amaranto y la moringa y también las alubias y los cacahuetes son fuentes de hierro asequibles, y los programas pueden ayudar con las necesidades menstruales. Toda niña debería tener el derecho a completar la escuela secundaria.",
+          "Text": "Comenzar a hornear y vender bocadillos al lado de la carretera antes de la escuela para ayudar a mantener a su familia y cubrir los productos esenciales como compresas sanitarias y más fuentes de proteínas."
+        }
+      ],
+      "Question": "Oumou no ha comido mucha carne durante su periodo de crecimiento y recientemente ha comenzado su menstruación, lo que hace que el hierro sea aún más crucial. Está en riesgo de anemia, a menudo se siente cansada, tiene dificultades para concentrarse en la escuela y olvida información en clase. También falta a menudo a la escuela debido a la falta de acceso a baños y el alto coste y escasez de compresas sanitarias.\n\nCon los exámenes finales el próximo mes, ¿qué debería hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El agua superficial a menudo está contaminada, suponiendo un peligro de parásitos y gérmenes, sin tratamiento. Esto podría enfermar a Oumou y su familia,  lo que daría como resultado más costes en atención médica y menos dinero extra para alimentos. Usar el pozo entubado es más seguro; si la distancia es difícil, Oumou puede pedirle ayuda a un hermano.",
+          "Text": "Recoger agua del arroyo cercano. De esta manera, no tiene que caminar lejos, y la pequeña tarifa para usar el pozo entubado se puede dedicar a la compra de comida."
+        },
+        {
+          "Note": "Ir al pozo entubado es un esfuerzo adicional, pero asegura beneficios de salud a largo plazo para Oumou y su familia. La contaminación del agua superficial aumenta el riesgo de enfermedades transmitidas por el agua y añade costes de atención médica, lo que no permitiría el ahorro para la comida. El pozo entubado proporciona una opción más saludable si el agua se recoge y almacena de manera segura, y un hermano podría ayudarla a llevar el agua.",
+          "Text": "Forzarse a realizar el viaje al pozo entubado para acceder a agua limpia, a pesar de la mayor distancia."
+        }
+      ],
+      "Question": "Oumou siempre ha sido pequeña para su edad debido a su retraso en el crecimiento, especialmente antes de los 2 años. Los patrones cambiantes de lluvia en Mali han afectado gravemente a las cosechas, elevando los precios de los alimentos. Debido a su retraso en el crecimiento, le cuesta realizar actividades que requieran esfuerzo físico, como la recolección diaria de agua. Puede recoger agua de un arroyo cercano con baja corriente o de un pozo entubado a 4 km de distancia (lo que supone una caminata de 45 minutos en cada sentido).\n\n¿Qué debería elegir hacer Oumou?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Considerando que el coste de vida promedio en Mali es 560 $ (330.000 XOF) es un desafío para la familia de Oumou afrontar los gastos escolares. Solo el 29 % de las niñas en Mali están matriculadas en la escuela secundaria. Sin embargo, completar su educación impacta enormemente en sus oportunidades futuras. Las niñas que permanecen más tiempo en la escuela se casan más tarde, tienen hijos más saludables y mejor salud y nutrición.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La educación afecta significativamente las perspectivas futuras de Oumou. Permanecer en la escuela lleva a un matrimonio más tarde, hijos más saludables y mejor salud y nutrición. A pesar de estos beneficios, las altas tarifas en comparación con el coste de vida promedio en Mali de 560 $ (330.000 XOF) hacen que sea difícil para su familia seguir costeando los gastos asociados con la escuela. Solo el 15 % de las niñas en Mali están matriculadas en la escuela secundaria.",
+          "Text": "No"
+        }
+      ],
+      "Question": "La educación es muy importante para el futuro de Oumou. A los 15 años, se está preparando para su examen de secundaria, pero menos del 40 % de las niñas de su edad completan esta etapa educativa. Su matrícula es gratuita, pero hay costes de material escolar y transporte.\n\n¿Puede su familia permitirse seguir llevando a Oumou a la escuela?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El matrimonio infantil afecta al 54 % de las niñas en Mali, y el 16 % de las niñas están casadas antes de los 15 años. Oumou debería expresar su deseo de permanecer en la escuela; las adolescentes casadas a menudo dejan la escuela permanentemente. Su crecimiento está incompleto, y el embarazo podría llevar a complicaciones graves o la muerte. Los embarazos adolescentes, así como los abortos inseguros, son la principal causa de muerte para las niñas de entre 15 y 19 años.",
+          "Text": "Oumou debería decirles a sus padres que no quiere casarse ahora y pedirle a un maestro o líder religioso que discuta la importancia de la educación con ellos."
+        },
+        {
+          "Note": "Aceptar el matrimonio arriesga que nunca regrese a la escuela. El matrimonio infantil impacta al 54 % de las niñas en Mali. Las adolescentes casadas a menudo dejan la escuela de forma permanente. Como Oumou no ha terminado de crecer, el embarazo podría causar complicaciones graves y aumentar así los riesgos para su salud. Las complicaciones del embarazo son la principal causa de muerte para las niñas de entre 15 y 19 años.",
+          "Text": "Oumou debería aceptar el matrimonio e intentar volver a la escuela más tarde."
+        }
+      ],
+      "Question": "Oumou tiene 16 años y sus padres quieren que deje la escuela y se case para aliviar la carga financiera. Se siente triste ya que más del 15 % de las niñas en su aldea ya están casadas y han abandonado la escuela como resultado. Oumou quiere quedarse en la escuela y casarse más tarde.\n\n¿Qué debería decirles a sus padres?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Oumou considera iniciar un negocio de artesanía, como sus vecinos, para obtener ingresos adicionales, y piensa en contactar a familiares en la ciudad para conseguir otras oportunidades laborales, ya que su esposo trabaja allí. Las niñas que trabajan a menudo ganan menos que los hombres; alrededor de un 23 % menos a nivel mundial, y con el aumento de los costes de los alimentos, esto afectará a su capacidad para mantener una dieta nutritiva.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Aunque ganar un ingreso podría ayudar, podría no cubrir el costo de los alimentos nutritivos. No ha terminado su educación, lo que hace improbable que consiga un trabajo bien remunerado. Oumou podría contactar con parientes en la ciudad para obtener contactos de trabajo. Si encuentran empleo, las mujeres suelen, por lo general, ganar menos que los hombres, lo que afecta aún más a su poder adquisitivo si tenemos en cuenta el elevado precio de los alimentos.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Oumou ahora está casada y es responsable de cocinar y ayudar a atender los cultivos para su nueva familia. Una sequía en Mali ha devastado su cultivo de maíz, y no puede permitirse comprar comida extra en el mercado. Su esposo le da dinero; suficiente para comprar algo de mijo.\n\n¿Debería Oumou iniciar un negocio para cubrir el déficit presupuestario?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Estadísticamente, aquellos que experimentaron retraso en el crecimiento en la infancia ganan menos como adultos; en Mali, esto podría significar 86,39 $ menos per cápita anualmente. La decisión de Oumou de seguir trabajando ofrece perspectivas limitadas, pero el coste de vida en la ciudad es alto, y acceder a alimentos nutritivos es difícil debido a los precios. Ella depende de la buena voluntad de sus familiares para obtener apoyo.",
+          "Text": "Oumou debería quedarse en el trabajo."
+        },
+        {
+          "Note": "El retraso en el crecimiento infantil a menudo tiene como resultado menores ingresos cuando se es adulto; en Mali, esto podría ser 86,39 $ menos anualmente. La búsqueda de Oumou de un trabajo diferente hace que su vida sea inestable, ya que lo compagina con su trabajo como asistenta doméstica 6 días a la semana. A pesar de su deseo de tener una dieta equilibrada, los altos costes de vida en la ciudad y los precios de los alimentos complican el acceso a productos frescos, dejándola dependiendo de la buena voluntad de los familiares.",
+          "Text": "Oumou debería dejar el trabajo y buscar otro empleo."
+        }
+      ],
+      "Question": "Oumou, ahora con 17 años, se ha mudado a la ciudad para unirse a su esposo y ha encontrado trabajo como empleada doméstica. La malnutrición infantil que sufrió (retraso en el crecimiento) hace que las largas horas y las tareas del hogar le sean agotadoras. El salario es bajo y extraña su aldea.\n\n¿Debería quedarse trabajando allí?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Oumou carece de ahorros para iniciar un negocio, pero podría buscar una organización de microfinanciación como Vision Fund para un pequeño préstamo. Esto no es fácil. La malnutrición aumenta el riesgo de desempleo en un 12 %, y los efectos de la anemia a largo plazo pueden reducir la productividad y el coeficiente intelectual. La altura de las mujeres se correlaciona con los salarios: cada aumento de 1 cm repercute en un aumento del 6 % en el salario.",
+          "Text": "Oumou debería seguir buscando un préstamo."
+        },
+        {
+          "Note": "Si Oumou se queda, podría arriesgarse a ser despedida debido a la malnutrición, lo que aumenta la probabilidad de desempleo en un 12 %, algo que afectaría a su estabilidad económica.",
+          "Text": "Oumou debería quedarse en su trabajo actual y abandonar esta idea de iniciar un negocio."
+        }
+      ],
+      "Question": "Oumou, aún trabajando como empleada doméstica, busca iniciar un negocio. Está considerando un puesto en el mercado, un préstamo para una máquina de coser para trabajar como costurera, o un negocio de preparación de comida para los trabajadores. Sin embargo, no ha asegurado financiación para ninguna idea.\n\n¿Qué debería hacer Oumou?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las visitas de atención prenatal son cruciales ya que brindan servicios esenciales de salud y nutrición durante el embarazo. Un tratamiento oportuno para la anemia puede reducir riesgos para Oumou y mejorar las posibilidades de su bebé de tener un peso saludable al nacer. Los servicios de salud deberían mejorar el apoyo prenatal para adolescentes y mujeres jóvenes.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La atención prenatal es vital para proporcionar los servicios de salud y nutrición necesarios durante el embarazo. Abordar su anemia de manera oportuna puede reducir riesgos y asegurar un nacimiento más saludable para su bebé. Oumou requiere suplementos y atención continua de personal sanitario para orientarla sobre fuentes de hierro asequibles. Mejorar los servicios prenatales para mujeres jóvenes es esencial.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Oumou está embarazada y espera a su primer hijo. Está preocupada por no poder trabajar, se siente extremadamente cansada y ha sido diagnosticada de anemia. No le gusta ir a las visitas prenatales porque son difíciles de ajustar con las tareas del hogar, y los sanitarios no la tratan bien.\n\n¿Debería Oumou continuar asistiendo a sus visitas prenatales en el centro de salud?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Oumou puede tener dificultades para obtener apoyo familiar. El aumento de los precios de los alimentos dificulta el acceso a alimentos nutritivos. Aunque su familia puede cultivar suficiente maíz para gachas básicas dos veces al día, carecen de fondos para alimentos esenciales ricos en proteínas y hierro. Más del 25 % de las personas en Mali experimentan inseguridad alimentaria. Oumou debería consultar a un sanitario sobre cómo encontrar alimentos asequibles y cultivados localmente que puedan mejorar su nutrición.",
+          "Text": "Oumou puede pedir a su esposo y familiares apoyo para mantener un embarazo saludable."
+        },
+        {
+          "Note": "Aunque su familia puede hacer gachas con el maíz que cultivan, no pueden pagar alimentos adicionales ricos en proteínas y hierro para el embarazo de Oumou. El aumento de los precios de los alimentos significa que muchos artículos son más difíciles de encontrar. Más del 25 % de las personas en Mali experimentan inseguridad alimentaria. Oumou debería acudir a un sanitario de la comunidad para obtener asesoramiento sobre alimentos asequibles y cultivados localmente que mejoren su dieta.",
+          "Text": "Oumou debería elegir alimentos más baratos y asegurarse de obtener suficiente energía de sus comidas."
+        }
+      ],
+      "Question": "Oumou fue al centro de salud, donde recibió un tratamiento con hierro y suplementos de ácido fólico que hizo que su anemia mejorara. Como adolescente embarazada, debe consumir suficiente alimento nutritivo para apoyar su crecimiento y el desarrollo de su bebé. Sin embargo, el aumento de los precios de los alimentos en Mali debido al cambio climático y la inflación dificultan la compra de alimentos saludables y asequibles.\n\n¿Qué debería hacer Oumou para asegurar un embarazo saludable para ella y su bebé?"
+    }
+  ]
+}

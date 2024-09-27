@@ -4,25 +4,25 @@
             "playerName": "Mwansa",
             "countryName": "Zambia",
             "key": "zambia",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Oumou",
             "countryName": "Mali",
             "key": "mali",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Luciana",
             "countryName": "Perú",
             "key": "peru",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Issa",
             "countryName": "Filipinas",
             "key": "philippines",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Ana",
@@ -34,19 +34,19 @@
             "playerName": "Maryam",
             "countryName": "Afganistán",
             "key": "afghanistan",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Malai",
             "countryName": "Laos",
             "key": "laos",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Emma",
             "countryName": "Canadá",
             "key": "canada",
-            "active": false
+            "active": true
         }
     ]
 }

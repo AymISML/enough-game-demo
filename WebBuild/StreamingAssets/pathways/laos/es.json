@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La lactancia materna exclusiva es ideal. La leche materna proporciona toda la nutrición necesaria para los primeros seis meses de Malai. El perfecto equilibrio de nutrientes, anticuerpos y enzimas es esencial para el desarrollo saludable de un bebé. El agua no potable y los líquidos que no sean leche materna pueden aumentar el riesgo de infecciones.",
+          "Text": "Seguir dándole el pecho a Malai cada vez que parezca que tiene hambre."
+        },
+        {
+          "Note": "El arroz glutinoso es en realidad peor para Malai. La lactancia materna exclusiva asegura que se cumplan todas sus necesidades nutricionales y previene posibles enfermedades de fuentes inseguras. Su cuerpo aún no está preparado para otros alimentos. Introducirlos no proporcionará suficientes nutrientes esenciales que son cruciales para el crecimiento y desarrollo de un bebé.",
+          "Text": "Empezar a darle un poco de arroz glutinoso y ver si ayuda."
+        }
+      ],
+      "Question": "Cuando Malai nació, lloraba mucho y su madre dudaba de que su leche materna fuera suficiente. Un miembro de la comunidad sugirió darle papilla aguada.\n\n¿Qué debería hacer la madre de Malai?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las batatas son bajas en hierro pero tienen algo de Vitamina C, lo que ayuda a absorber el hierro de los alimentos de origen vegetal. Son un tentempié saludable, pero no abordan directamente el problema de hierro de Malai.",
+          "Text": "Coste de la batata:\n0,43-0,81 $ de media por kilogramo."
+        },
+        {
+          "Note": "Muchos cereales para el desayuno están fortificados con hierro, pero incluso las opciones más baratas tienen un alto coste para la madre de Malai, lo que podría significar sacrificar la ingesta de proteínas durante unos días. Los cereales también tienen mucho azúcar añadido.",
+          "Text": "Coste de cereales de desayuno fortificados: \n1,30-2,60 $ de media por caja."
+        },
+        {
+          "Note": "El pescado seco es una buena opción para la madre de Malai. Proporcionan aproximadamente 6-12 mg de hierro por cada 100g, ofreciendo una solución asequible y nutritiva.",
+          "Text": "Coste del pescado seco:\n1,05 a 1,58 $ de media por kilogramo."
+        }
+      ],
+      "Question": "Malai acaba de cumplir un año y su madre sabe que una dieta saludable es crucial para su desarrollo. Después de recibir asesoramiento de un voluntario sanitario del pueblo, aprendió sobre la importancia del hierro en su dieta. Teniendo en cuenta el precio tan elevado de los alimentos ricos en hierro, su madre debe tomar una decisión más asequible.\n\nCon un coste promedio de vida de 888 $ al mes y considerando que una cesta de la compra con alimentos nutritivos cuesta 17,19 $, ¿qué debería priorizar para mejorar sus niveles de hierro?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Malai se siente mejor después de la solución de rehidratación oral, y la decisión de su madre de comprar jabón asegura una mejor higiene en casa. El lavado de manos regular y minucioso elimina patógenos dañinos como virus y bacterias que pueden causar enfermedades diarreicas.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Malai se siente mejor después de la solución de rehidratación oral, pero la mala higiene en casa le produce diarreas regulares, perjudicando su crecimiento, absorción nutricional, y eventualmente causa retraso en su crecimiento por infecciones frecuentes.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Malai ha tenido dolor de estómago y diarrea durante más de un día. Su madre visita a un trabajador sanitario en el centro de salud, que enfatiza la importancia de una buena higiene, como lavarse las manos con jabón; y le da una solución de rehidratación oral para Malai. La madre de Malai pasa por una pequeña tienda cerca del centro de salud en la que se vende jabón.\n\n¿Debería su madre comprar jabón?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "La dedicación de Malai en la escuela es importante, pero está teniendo dificultades. Pedir ayuda a un adulto de confianza es lo más sensato. Las verduras de hoja verde oscuro, el pescado y las lentejas son fuentes de hierro asequibles. World Vision también ayuda a las niñas a aprender a hacer compresas sanitarias y apoya a las escuelas a establecer instalaciones de baños privados y a proporcionar un suministro constante de agua. Todas las niñas deberían permanecer en la escuela hasta, al menos, los 18 años.",
+          "Text": "Seguir esforzándose en los exámenes y dar lo mejor de sí."
+        },
+        {
+          "Note": "Pedir ayuda a un adulto de confianza es lo más sensato. Las verduras de hoja verde oscuro, el pescado y las lentejas son asequibles y pueden aumentar los niveles de hierro, y existen programas de ONG establecidos, como World Vision, para apoyar a las niñas con necesidades menstruales. Malai, y todas las niñas, deberían poder permanecer en la escuela hasta los 18 años.",
+          "Text": "Pedir consejo a su madre o a una profesora."
+        },
+        {
+          "Note": "Aunque ganar dinero demuestra iniciativa, podría arriesgarse a la explotación. Pedir ayuda a un adulto de confianza es una mejor opción. Las verduras de hoja verde oscuro, el pescado y las lentejas son fuentes de hierro asequibles, y los programas existentes de ONG establecidas como World Vision pueden ayudar con las necesidades menstruales. Todas las niñas deberían tener el derecho a completar la escuela secundaria.",
+          "Text": "Comenzar a trabajar en una finca de yuca o migrar a una ciudad cercana para buscar trabajo ocasional para apoyar a su familia y cubrir el coste de productos esenciales como compresas sanitarias y más fuentes de proteína para comer."
+        }
+      ],
+      "Question": "Malai no ha comido mucha carne durante su época de crecimiento , y recientemente comenzó su menstruación, lo que hace que el hierro sea aún más crucial en su organismo. Está en riesgo de anemia, a menudo se siente cansada, le cuesta concentrarse en la escuela y olvida información en clase. Frecuentemente falta a la escuela debido a la falta de instalaciones privadas para niñas y un adecuado suministro de agua.\n\nCon los exámenes finales el próximo mes, ¿qué debería hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El agua superficial a menudo está contaminada, lo que representa un peligro de parásitos y gérmenes sin tratamiento. Esto podría hacer que Malai y su familia enfermaran, lo que daría como resultado más costes en atención médica y menos dinero extra para alimentos. Usar el pozo es más seguro; si la distancia es difícil, Malai puede pedir ayuda a un hermano.",
+          "Text": "Recolectar agua del arroyo cercano. Así no tiene que caminar mucho y la pequeña tarifa para usar el pozo puede dedicarse a la compra de alimentos."
+        },
+        {
+          "Note": "Ir al pozo implica un esfuerzo extra, pero asegura beneficios de salud a largo plazo para Malai y su familia. La contaminación del agua superficial aumenta los riesgos por enfermedades transmitidas por el agua y los costes de atención médica, lo que no ahorraría dinero para alimentos. El pozo proporciona una opción más saludable si el agua se recoge y almacena de manera segura.",
+          "Text": "Obligarse a hacer el viaje al pozo para acceder a agua limpia, a pesar de que haya una mayor distancia."
+        }
+      ],
+      "Question": "Malai siempre ha sido pequeña para su edad debido al retraso en el crecimiento, especialmente antes de los 2 años. Las inundaciones extremas en Laos han interrumpido las cosechas. Además, los precios de los alimentos son muy elevados, lo que hace difícil que la familia de Malai tenga una dieta lo suficientemente variada. Debido al retraso en el crecimiento, le cuesta realizar actividades más agotadoras. Puede recolectar agua de un arroyo cercano de baja corriente o de un pozo a 2 km de distancia (a 30 minutos a pie de cada lado).\n\n¿Qué debería hacer Malai?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Considerando que la familia promedio en Laos puede vivir con menos de 100 $ al mes, es poco probable que la familia de Malai pueda permitirse las tarifas escolares. Sin embargo, completar su educación impacta enormemente en sus oportunidades futuras. Las niñas que permanecen más tiempo en la escuela se casan más tarde, tienen hijos más sanos y mejor salud y nutrición en general.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La educación impacta significativamente en las perspectivas futuras de Malai. Permanecer en la escuela conlleva matrimonios a edad más adulta, hijos más sanos y mejor salud y nutrición. A pesar de estos beneficios, las altas tarifas frente a un ingreso promedio de 100 $ mensuales dificultan que su familia continúe enviando a Malai a la escuela.",
+          "Text": "No"
+        }
+      ],
+      "Question": "La educación es muy importante para el futuro de Malai. A los 16 años, está preparándose para su examen superior de secundaria, mientras que más del 40 % de las chicas de su edad ya han abandonado la escuela. La educación secundaria tiene costes como el transporte y el material escolar.\n\n¿Puede su familia permitirse seguir enviando a Malai a la escuela?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El matrimonio infantil afecta a un tercio de las chicas en Laos. Malai debería expresar su deseo de permanecer en la escuela. Su crecimiento está incompleto y el embarazo podría llevar a complicaciones graves o incluso a la muerte. Los embarazos adolescentes, así como los abortos inseguros, son la principal causa de muerte en chicas de entre 15 y 19 años.",
+          "Text": "Malai debería decirles a sus padres que no quiere casarse ahora y pedirle a un profesor o líder religioso que discuta la importancia de su educación con ellos."
+        },
+        {
+          "Note": "Aceptar el matrimonio arriesga que nunca regrese a la escuela. El matrimonio infantil impacta a un tercio de las chicas en Laos. Dado que Malai no ha completado su crecimiento, el embarazo podría causar complicaciones graves, aumentando los riesgos para su salud. Las complicaciones del embarazo son la principal causa de muerte en chicas de entre 15 y 19 años.",
+          "Text": "Malai debería aceptar el matrimonio e intentar volver a la escuela más tarde."
+        }
+      ],
+      "Question": "Malai tiene 17 años, y sus padres quieren que deje la escuela y se case para aliviar la carga financiera de la familia. Se siente triste porque algunas chicas de su aldea ya están casadas y, por lo tanto han tenido que abandonar la escuela. Malai quiere seguir estudiando y casarse más tarde.\n\n¿Qué debería decirle a sus padres?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Malai considera comenzar un negocio tejiendo ropa tradicional para obtener ingresos adicionales, o piensa en contactar con sus familiares que viven en la ciudad en busca de oportunidades de trabajo, ya que su esposo trabaja allí. Sin embargo, las mujeres que trabajan suelen ganar menos que los hombres, alrededor 23 % menos a nivel mundial, y con el aumento de los costes de los alimentos, esto afectará a su capacidad para mantener una dieta nutritiva.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Aunque obtener ingresos podría ayudar, podría no cubrir el coste de alimentos nutritivos. No ha terminado su educación, lo que hace poco probable que consiga un trabajo bien remunerado. Malai podría contactar con parientes en la ciudad para obtener contactos de trabajo. Una cuarta parte de las chicas en Laos no estudia ni tiene un trabajo, y las mujeres suelen, por lo general, ganar menos que los hombres, lo que afecta aún más a su poder adquisitivo si tenemos en cuenta el elevado precio de los alimentos.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Malai ahora está casada y es responsable de los cultivos y la preparación de alimentos. Las inundaciones en Laos han devastado su cultivo de arroz y no puede permitirse comprar alimentos extra en el mercado. Su esposo le da dinero, pero solo el suficiente para comprar algunas alubias.\n\n¿Debería Malai comenzar un negocio para cubrir el déficit presupuestario?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Estadísticamente, aquellos que sufrieron desnutrición infantil ganan menos como adultos; en Laos, esto podría significar 557,90 $ menos por persona anualmente. La decisión de Malai de continuar trabajando refleja opciones limitadas, y acceder a alimentos nutritivos es difícil debido a los precios altos. Ella depende del favor de sus familiares para recibir apoyo.",
+          "Text": "Malai debería seguir en el trabajo."
+        },
+        {
+          "Note": "La desnutrición infantil a menudo resulta en menores ingresos en la adultez; en Laos, esto podría ser 557,90 $ menos anualmente. La búsqueda de Malai de un trabajo diferente hace que su vida sea inestable, ya que compagina esa búsqueda con su trabajo en la plantación 6 días a la semana. A pesar de su deseo por una dieta equilibrada, los altos costos de vida y los precios de los alimentos complican el acceso a productos frescos, dejándola dependiendo del favor de sus familiares.",
+          "Text": "Malai debería dejar el trabajo y buscar otro."
+        }
+      ],
+      "Question": "Malai, ahora de 17 años, trabaja 6 días a la semana en una plantación local de árboles de caucho. La desnutrición infantil (que provocó un retraso en su crecimiento) la hace ser más baja y pesar menos que otros empleados. El trabajo es agotador, el salario es bajo y extraña su aldea. ¿Debería seguir trabajando allí?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Malai carece de ahorros para comenzar un negocio, pero podría buscar una organización microfinanciera como VisionFund para un pequeño préstamo. Esto no es fácil, sin embargo. La desnutrición aumenta el riesgo de desempleo en un 12 %, y los efectos a largo plazo de la anemia pueden reducir la productividad y el coeficiente intelectual. La altura de las mujeres se correlaciona con los salarios: cada aumento de 1 cm de altura predice un aumento del 6 % en el salario.",
+          "Text": "Malai debería seguir buscando un préstamo."
+        },
+        {
+          "Note": "Si Malai se queda, podría arriesgarse a ser despedida debido a su desnutrición, lo que aumenta la probabilidad de desempleo en un 12 %, algo que afecta a su estabilidad económica.",
+          "Text": "Malai debería quedarse en su trabajo actual y dejar de considerar comenzar un negocio."
+        }
+      ],
+      "Question": "Malai, aún trabajando en la plantación de árboles de caucho, busca iniciar un negocio propio. Está considerando un puesto en el mercado, un préstamo para una máquina de coser para trabajar como costurera o un negocio de alimentos para los trabajadores. Sin embargo, no ha conseguido financiamiento para ninguna de sus ideas. ¿Qué debería hacer Malai?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las visitas de cuidado prenatal son cruciales ya que brindan servicios esenciales de salud y nutrición durante el embarazo. El tratamiento oportuno para la anemia puede reducir los riesgos para Malai y mejorar las posibilidades de su bebé de tener un peso saludable al nacer. Los servicios de salud deberían mejorar el apoyo prenatal para chicas adolescentes y mujeres jóvenes.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La atención prenatal es vital para proporcionar los servicios necesarios de salud y nutrición durante el embarazo. Abordar su anemia de manera oportuna puede reducir los riesgos de Malai y asegurar un nacimiento más saludable para su bebé. Malai requiere suplementos y atención continua de profesionales sanitarios para recibir orientación sobre fuentes de hierro asequibles. Mejorar los servicios prenatales para chicas jóvenes es esencial.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Malai está embarazada y espera su primer hijo. Está preocupada por no poder trabajar, se siente extremadamente cansada y ha sido diagnosticada con anemia. No le gusta ir a las visitas prenatales porque el centro de salud está bastante lejos, por lo que cuesta mucho llegar allí.\n\n¿Debería Malai seguir asistiendo a sus visitas prenatales en el centro de salud?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Malai puede tener dificultades para recibir apoyo familiar. El aumento de los precios de los alimentos debido a las inundaciones dificulta el acceso a alimentos nutritivos. Aunque su familia puede cultivar suficiente arroz para comidas básicas dos veces al día, carecen de fondos para alimentos ricos en proteína y hierro esenciales. Una de cada siete personas en Laos no puede satisfacer sus necesidades calóricas mínimas. Malai debería consultar a un agente de salud comunitaria para obtener alimentos asequibles, cultivados localmente y que mejoren su nutrición.",
+          "Text": "Malai puede pedir apoyo a su esposo y familiares para mantener un embarazo saludable."
+        },
+        {
+          "Note": "Aunque su familia puede preparar comidas con el arroz que cultivan, no pueden permitirse alimentos adicionales ricos en proteína y hierro para el embarazo de Malai. Los precios altos de los alimentos hacen que muchos artículos sean difíciles de encontrar. Una de cada siete personas en Laos tiene dificultades para satisfacer sus necesidades calóricas. Malai debería contactar con un trabajador de salud comunitario para obtener asesoramiento sobre alimentos asequibles cultivados localmente que mejoren su dieta.",
+          "Text": "Malai debería elegir alimentos más baratos e intentar asegurarse de obtener suficiente energía de sus comidas."
+        }
+      ],
+      "Question": "Malai fue al centro de salud, donde recibió un tratamiento con hierro y suplementos de ácido fólico que hizo que su anemia mejorara. Como adolescente embarazada, debe consumir lo suficiente para apoyar su crecimiento y el desarrollo de su bebé. Sin embargo, el aumento de los precios de los alimentos en Laos hace que sea difícil para ella comprar alimentos saludables y asequibles.\n\n¿Qué debería hacer Malai para garantizar un embarazo saludable para ella y su bebé?"
+    }
+  ]
+}

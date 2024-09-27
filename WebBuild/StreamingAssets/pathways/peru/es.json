@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La lactancia materna exclusiva es ideal. La leche materna proporciona toda la nutrición necesaria para los primeros seis meses de Luciana. El perfecto equilibrio de nutrientes, anticuerpos y enzimas es esencial para el desarrollo saludable de un bebé. El agua no potable y los líquidos que no sean leche materna pueden aumentar el riesgo de infecciones.",
+          "Text": "Seguir dándole el pecho a Luciana cada vez que parezca que tiene hambre."
+        },
+        {
+          "Note": "La leche de vaca y el azúcar en realidad son peores para Luciana. La lactancia materna exclusiva asegura que se cumplan todas sus necesidades nutricionales y previene posibles enfermedades de fuentes inseguras. Su cuerpo aún no está preparado para otros alimentos. Introducirlos no proporcionará suficientes nutrientes esenciales que son cruciales para el crecimiento y desarrollo de un bebé.",
+          "Text": "Empezar a darle la mezcla de leche y ver si ayuda."
+        }
+      ],
+      "Question": "Cuando Luciana nació, lloraba mucho, y su madre dudaba de que su leche materna fuera suficiente. Un miembro de la comunidad sugirió darle leche de vaca, mezclada con agua y azúcar.\n\n¿Qué debería hacer la madre de Luciana?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La lúcuma es baja en hierro, pero alta en Vitamina A y C, lo que ayuda a absorber el hierro de los alimentos de origen vegetal. Es un tentempié saludable, pero no aborda directamente el problema de hierro de Luciana.",
+          "Text": "Lúcuma:\n0,80 $ a 1,90 $ de media por kilogramo."
+        },
+        {
+          "Note": "Muchos cereales para el desayuno están fortificados con hierro, pero incluso las opciones más baratas tienen un alto coste para la madre de Luciana, lo que podría significar sacrificar la ingesta de proteínas durante unos días. También suelen tener mucho azúcar añadido.",
+          "Text": "Cereales de desayuno fortificados:\n1,35 $ a 5,40 $ de media por caja."
+        },
+        {
+          "Note": "Las lentejas son un alimento básico popular en Perú y una buena opción para la madre de Luciana. Proporcionan aproximadamente 6.6 mg de hierro por taza, lo que cumpliría la ingesta recomendada de 7 mg de hierro para niños de la edad de Luciana, y, además, supondrían una solución asequible y ampliamente disponible.",
+          "Text": "Lentejas:\n1,08 $ a 1,62 $ de media por kilogramo."
+        }
+      ],
+      "Question": "Luciana acaba de cumplir 1 año y su madre sabe que una dieta saludable es crucial para su desarrollo. Después de recibir asesoramiento de un sanitario comunitario, aprendió sobre la importancia del hierro en su dieta. Teniendo en cuenta el precio tan elevado de los alimentos ricos en hierro, debe tomar decisiones más asequibles.\n\nConsiderando que una cesta de la compra con alimentos nutritivos cuesta 21,97 $, ¿qué debería priorizar para mejorar sus niveles de hierro?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Luciana se siente mejor después de la solución de rehidratación oral, pero el agua de arroz del vendedor ambulante no ha sido preparada de un modo higiénico, y tiene que volver al centro médico. La mala higiene le provoca diarrea regular, lo que perjudica a su crecimiento, a la absorción de nutrientes, y eventualmente, le causa retraso en su crecimiento por infecciones frecuentes.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Luciana se siente mejor después de la solución de rehidratación oral, y está mejor sin haber tomado el agua de arroz del vendedor ambulante, que puede no haber sido preparada de manera higiénica. El agua de arroz puede ser una gran fuente de hidratación adicional si su madre la prepara en casa o la compra en una fuente de confianza.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Luciana ha tenido dolor de estómago y diarrea durante más de un día. Su madre visita un centro médico local y la enfermera enfatiza la importancia de una buena higiene, como lavarse las manos con jabón, y le da una solución de rehidratación oral para Luciana. La madre de Luciana pasa por un vendedor ambulante que vende agua de arroz, un remedio local.\n\n¿Debería su madre comprar el agua de arroz?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "La dedicación de Luciana en la escuela es importante, pero está teniendo dificultades.Pedir ayuda a un adulto de confianza es lo más sensato. Las lentejas, las alubias y la quinua son fuentes asequibles de hierro. Todas las niñas deberían permanecer en la escuela al menos hasta los 17 años, y aunque el trabajo es legal desde los 15 años en Perú con el permiso de sus padres, es importante asegurarse de que no interfiera con la escuela.",
+          "Text": "Seguir esforzándose en los exámenes y dar lo mejor de sí."
+        },
+        {
+          "Note": "Pedir ayuda a un adulto de confianza es una decisión sensata. Las lentejas, las alubias y la quinua son alimentos asequibles que pueden aumentar los niveles de hierro. Luciana, y todas las niñas, deberían poder permanecer en la escuela hasta los 17 años. Aunque el trabajo es legal para los mayores de 15 años en Perú, es importante asegurarse de que no interfiera con la escuela.",
+          "Text": "Pedir consejo a su madre o a una profesora."
+        },
+        {
+          "Note": "Aunque el trabajo es legal para los mayores de 15 años en Perú, es importante asegurarse de que no interfiera con la escuela, y su trabajo en la granja podría arriesgarse a la explotación. Pedir ayuda a un adulto de confianza es mejor. Las lentejas, las alubias y la quinua son fuentes asequibles de hierro. Todas las niñas deberían tener derecho a completar la escuela secundaria.",
+          "Text": "Comenzar a trabajar en una finca local para ayudar con la cosecha antes de la escuela y así apoyar a su familia para que puedan adquirir productos esenciales como más fuentes de proteínas."
+        }
+      ],
+      "Question": "Luciana no ha comido mucha carne durante su periodo de crecimiento y recientemente comenzó su menstruación, lo que hace que el hierro sea aún más crucial en su organismo. Está en riesgo de anemia, a menudo se siente cansada, le cuesta concentrarse en la escuela y olvida información en clase.\n\nCon los exámenes finales el próximo mes, ¿qué debería hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El agua superficial a menudo está contaminada y no ha pasado por ningún tratamiento, lo que representa un peligro de parásitos y gérmenes.. Esto podría enfermar a Luciana y a su familia, lo que resultaría en costes de atención médica y menos dinero para alimentos. Usar el grifo comunitario es más seguro; si la distancia es difícil, Luciana puede pedir ayuda a un hermano.",
+          "Text": "Recolectar agua del arroyo cercano. Así no tiene que caminar tanto ni cargar agua por las colinas."
+        },
+        {
+          "Note": "Ir al grifo comunitario implica un esfuerzo extra, pero asegura beneficios para la salud a largo plazo para Luciana y su familia. La contaminación del agua superficial aumenta los riesgos por enfermedades transmitidas por el agua y los costes de atención médica, lo que no ahorraría dinero para alimentos. El grifo comunitario proporciona una opción más saludable si el agua se recoge y almacena de manera segura, y un hermano podría ayudarle a transportarla.",
+          "Text": "Obligarse a hacer el viaje al grifo comunitario para acceder a agua limpia, a pesar de que esté más lejos y el camino sea más complicado."
+        }
+      ],
+      "Question": "Luciana siempre ha sido pequeña para su edad debido al retraso en el crecimiento antes de los 2 años. Por esta razón, le cuesta realizar actividades que requieran esfuerzo físico. Puede recolectar agua de un arroyo cercano de baja corriente y poco profundo, o tomar el camino abrupto y empinado hasta un grifo comunitario a 2 km de distancia (a 40 minutos a pie ida y 40 vuelta). \n\n¿Qué debería hacer Luciana?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Considerando que el salario mínimo en Perú es de 350 $ al mes, es fácil entender por qué la familia de Luciana necesita su ayuda en casa. Sin embargo, completar su educación impacta enormemente en sus futuras oportunidades. Las niñas que permanecen más tiempo en la escuela se casan más tarde, tienen hijos más sanos y mejor salud y nutrición.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La educación impacta significativamente en las perspectivas futuras de Luciana. Permanecer en la escuela conlleva matrimonios más tardíos, hijos más sanos y mejor salud y nutrición. A pesar de estos beneficios, es fácil entender por qué la familia de Luciana necesita su ayuda en casa.",
+          "Text": "No"
+        }
+      ],
+      "Question": "La educación es muy importante para el futuro de Luciana, pero a los 16 años, más del 10 % de las chicas con las que comenzó la escuela ya la han abandonado. El coste del transporte para ir a la escuela es alto, y el tiempo que pasa caminando a la escuela le quita tiempo de ayudar con las tareas de cocina y agricultura en casa. ¿Puede su familia permitirse seguir llevando a Luciana a la escuela?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Luciana podría tener más oportunidades, poder ganar más dinero en la ciudad y posiblemente tener acceso a una dieta más variada, pero es un movimiento peligroso y arriesgado. No conoce a nadie más allí, y no está segura de si la relación funcionará.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Luciana podría tener más oportunidades, poder ganar más dinero y posiblemente tener acceso a una dieta más variada en la ciudad, pero es un movimiento peligroso y arriesgado. Quedarse con sus padres, comer los productos que pueden producir, y tal vez, eventualmente, volver a la escuela es una elección más segura.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Los padres de Luciana deciden que no vale la pena quedarse en la escuela, y la hacen comenzar a trabajar en casa a tiempo completo. Ella se encuentra con el hijo mayor de un vecino cuando regresa a su aldea desde la ciudad, y comienzan una relación. Después de unas semanas, él regresa a la ciudad y deja de enviar mensajes a Luciana.\n\n¿Debería Luciana seguirlo a la ciudad?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las familias como la de Luciana a menudo dan mucha importancia a los valores tradicionales, y el embarazo adolescente, aunque común en la zona, sigue estando estigmatizado. Sea cual sea su decisión, es esencial que Luciana tenga acceso a atención médica. Las chicas que han sufrido retraso en el crecimiento son especialmente propensas a sufrir complicaciones de salud y parto, incluida la muerte.",
+          "Text": "Luciana debería pedirle a un amigo si puede quedarse con su familia por un tiempo, mientras trata de que sus padres acepten su embarazo."
+        },
+        {
+          "Note": "Aparte de otros problemas, el embarazo adolescente tiene altos riesgos para la salud tanto para la madre como para el bebé. Las chicas que alguna vez han sufrido retraso en el crecimiento son especialmente propensas a sufrir complicaciones de salud y parto, incluida la muerte. Si el novio de Luciana está dispuesto a apoyarla a ella y a su bebé, ir a vivir con él podría ser la mejor manera para que Luciana y su bebé obtengan el apoyo y la nutrición que necesitan.",
+          "Text": "Luciana debería seguir a su novio a la ciudad e intentar que la relación funcione."
+        }
+      ],
+      "Question": "Luciana se queda en casa, pero deja de tener la menstruación y se da cuenta de que podría estar embarazada. Camina al centro de salud local para pedir consejo, pero sus padres se enteran y se enfadan. Le dicen que se vaya de casa.\n\n¿Qué debería hacer Luciana?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Luciana y su novio necesitan poder permitirse alimentos nutritivos para ellos y para su bebé. Estadísticamente, aquellos que sufrieron desnutrición infantil ganan menos como adultos; en Perú, esto podría significar 296,16 $ menos por persona anualmente. Luciana siempre puede buscar otro trabajo más tarde, pero probablemente debería tomar este mientras tanto.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Un trabajo de escritorio probablemente sería mejor para Luciana y menos exigente físicamente, pero sin haber terminado la escuela será difícil para ella encontrar algo así. Para los niños que sufrieron retraso en el crecimiento a los 2 años, las probabilidades de dedicarse a trabajos que requieran una cualificación o a trabajos de oficina en la edad adulta son un 41 % mayores, y sus probabilidades de vivir por debajo del umbral de pobreza son 42 % más altas. Probablemente debería tomar el trabajo de cajera.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Luciana vive con su novio en Trujillo, una ciudad importante en la costa norte de Perú, con muchos trabajos en agricultura y manufactura. Están luchando por llegar a fin de mes solo con el salario de él y él la insta a encontrar un trabajo. Luciana finalmente consigue una oferta de trabajo en un mercado como cajera, pero su barriga está empezando a crecer y se siente cansada ante la perspectiva de estar de pie todo el día.\n\n¿Debería aceptar el trabajo?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Dado que Luciana sufrió retraso en el crecimiento cuando era niña, su bebé tiene más probabilidades de tener un bajo peso al nacer y mayor riesgo de desnutrición y muerte, lo que hace que las visitas de cuidado prenatal sean aún más cruciales en su caso. El tratamiento oportuno contra la anemia y el seguimiento de atención médica pueden reducir los riesgos para Luciana y mejorar las posibilidades de su bebé de tener un peso saludable al nacer.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Dado que Luciana sufrió retraso en el crecimiento cuando era niña, su bebé tiene más probabilidades de tener un bajo peso al nacer y mayor riesgo de desnutrición y muerte, lo que hace que las visitas de cuidado prenatal sean aún más cruciales en su caso. Abordar su anemia de manera oportuna con suplementos y atención continua puede reducir los riesgos y asegurar un nacimiento más saludable para su bebé.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Luciana acepta el trabajo, pero estar de pie todo el día es difícil y se siente extremadamente cansada. Ha sido diagnosticada de anemia. Es difícil encajar las visitas prenatales porque trabaja 45 horas a la semana.\n\n¿Debería Luciana seguir asistiendo a sus visitas prenatales en el centro de salud?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El 15 % de las chicas en Perú tienen dificultades para obtener la mínima diversidad de la dieta, ya sea debido a la pobreza, a la dependencia de alimentos ultraprocesados o una combinación de ambas. Ha habido un cambio reciente hacia los alimentos procesados con menor variedad de nutrientes. Aunque son rápidos y fáciles de preparar, estos alimentos no le darán a Luciana y a su bebé la nutrición que necesitan.",
+          "Text": "Luciana debería comprar comida preparada de los puestos y bocadillos de la tienda para poder pasar más tiempo trabajando."
+        },
+        {
+          "Note": "Más del 51 % de los peruanos sufren de inseguridad alimentaria, pero muchos alimentos nativos son altamente nutritivos. La enfermera del centro de salud debería poder darle a Luciana sugerencias para alimentos asequibles, cultivados localmente, que mejoren su nutrición.",
+          "Text": "Luciana debería centrarse en ingredientes como alubias, lentejas, tomates y papas, e intentar hacer sopas saludables y asequibles en casa."
+        }
+      ],
+      "Question": "Luciana fue al centro de salud, donde recibió un tratamiento con hierro y suplementos de ácido fólico que hizo que su anemia mejorara. Como adolescente embarazada, debe consumir lo suficiente para apoyar su crecimiento y el desarrollo de su bebé. Sin embargo, el aumento de los precios de los alimentos en Perú hace que sea difícil para ella comprar alimentos saludables y asequibles.\n\n¿Qué debería hacer Luciana para garantizar un embarazo saludable para ella y su bebé?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Luciana tiene derecho a licencia por maternidad de la Seguridad Social del Perú, que comienza 49 días antes de su fecha de parto. Podrá considerar esa oportunidad cuando vuelva al trabajo tras su baja de maternidad. La desnutrición aumenta los riesgos de desempleo en un 12 % y los efectos a largo plazo de la anemia pueden reducir la productividad y el coeficiente intelectual. La altura de las mujeres se correlaciona con los salarios: cada aumento de 1 cm repercute en un aumento del 6 % en el salario.",
+          "Text": "Luciana debería comenzar a trabajar como freelance."
+        },
+        {
+          "Note": "Si Luciana se queda, tiene derecho a la baja de maternidad de la Seguridad Social del Perú, que comienza 49 días antes de su fecha de parto. Podrá considerar esa oportunidad cuando vuelva al trabajo tras su baja de maternidad. La desnutrición aumenta los riesgos de desempleo en un 12 % y los efectos a largo plazo de la anemia pueden reducir la productividad y el coeficiente intelectual. La altura de las mujeres se correlaciona con los salarios: cada aumento de 1 cm repercute en un aumento del 6 % en el salario.",
+          "Text": "Luciana debería quedarse en su trabajo actual."
+        }
+      ],
+      "Question": "Luciana todavía trabaja como cajera, pero se está acercando a su tercer trimestre de embarazo y trabajar se está volviendo más difícil. Uno de sus clientes se ofrece a presentarle a un operador turístico local, cree que Luciana sería genial como guía turística independiente debido a sus habilidades de atención al cliente.\n\n¿Debería Luciana perseguir la oportunidad?"
+    }
+  ]
+}

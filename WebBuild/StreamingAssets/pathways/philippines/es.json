@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La lactancia materna exclusiva durante los primeros seis meses es ideal. La leche materna ofrece toda la nutrición necesaria para Issa: supone el equilibrio perfecto de nutrientes, anticuerpos y enzimas esenciales para el desarrollo saludable de un bebé. El agua sucia y los líquidos que no sean leche materna pueden aumentar el riesgo de infecciones.",
+          "Text": "Continuar dándole el pecho cada vez que parezca que Issa tiene hambre"
+        },
+        {
+          "Note": "Las gachas aguadas son en realidad peores para Issa. La lactancia materna exclusiva asegura que se satisfagan todas sus necesidades nutricionales y previene potenciales enfermedades de fuentes inseguras. Introducir otros alimentos antes de los 6 meses no proporcionará suficientes nutrientes esenciales, que son cruciales para el crecimiento y desarrollo de un bebé.",
+          "Text": "Comenzar a darle un poco de lugaw y ver si ayuda"
+        }
+      ],
+      "Question": "Cuando Issa nació, lloraba mucho y su madre dudaba que la leche materna fuera suficiente. Un miembro de la comunidad sugirió darle lugaw (gachas de arroz aguadas). \n\n¿Qué debería hacer la madre de Issa?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las papayas son bajas en hierro pero altas en Vitamina C, lo que ayuda a la absorción del hierro de alimentos de origen vegetal. Aunque son un tentempié saludable, no satisfacen directamente las necesidades de hierro de Issa.",
+          "Text": "Coste del papaya: \nPHP 45 - PHP 80 (0,80 $ a 1,42 $) por kilogramo de media."
+        },
+        {
+          "Note": "Muchos cereales de desayuno están fortificados con hierro, pero incluso las opciones más económicas resultan costosas para la madre de Issa, lo que podría significar sacrificar la ingesta de proteínas por algunos días. También suelen tener mucho azúcar añadido.",
+          "Text": "Coste de cereales de desayuno fortificados: \nPHP 115-250 (2,04 $ a 4,44 $) de media por una caja pequeña de 300g."
+        },
+        {
+          "Note": "Las anchoas son una excelente fuente local de hierro para la madre de Issa. Proporcionan alrededor de 4,6 mg de hierro por 100 g, ajustándose a la ingesta recomendada de 7 mg de hierro para niños de la edad de Issa y ofreciendo una solución asequible.",
+          "Text": "Costo del filete de anchoa: \nPHP 45 - PHP 60 (0,80 $ a $1,07 $) por 100 gramos."
+        }
+      ],
+      "Question": "Issa acaba de cumplir 1 año. Su madre sabe que una dieta saludable es crucial para su desarrollo. Un trabajador sanitario local le recomendó la importancia del hierro en su dieta. Teniendo en cuenta el precio tan elevado de los alimentos ricos en hierro, su madre debe tomar una decisión más asequible.El ingreso promedio que una familia de cinco personas necesita es PHP 13,797 (245 USD) por mes para cubrir las necesidades básicas y una cesta de alimentos nutritivos cuesta 22,55 $\n\n¿Qué debería priorizar para mejorar sus niveles de hierro?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Issa se siente mejor después de la solución de rehidratación oral, y la decisión de su madre de comprar jabón asegura una mejor higiene en el hogar. Un lavado de manos regular y minucioso con jabón elimina patógenos dañinos como virus y bacterias que pueden causar enfermedades diarreicas.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Issa se siente mejor después de la solución de rehidratación oral, pero la mala higiene en el hogar lleva a diarreas regulares, obstaculizando su crecimiento, la absorción de nutrientes y eventualmente causando retraso en el crecimiento por infecciones frecuentes.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Issa ha tenido malestar estomacal y diarrea durante más de un día. Su madre visita a un trabajador sanitario local, que enfatiza la importancia de una buena higiene, como lavarse las manos con jabón, y le da una solución de rehidratación oral para Issa. Un vendedor ambulante pasa por la casa de la madre de Issa vendiendo jabón.\n\n¿Debería su madre comprar jabón?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "La dedicación de Issa en la escuela es admirable, pero está teniendo dificultades. Pedir ayuda a un adulto de confianza es lo más sensato. La moringa, el hígado de animal y las alubias mungo son fuentes de hierro asequibles, y organizaciones como Visión Mundial pueden ayudar a combatir el estigma de la menstruación. Toda niña debería permanecer en la escuela hasta al menos los 18 años.",
+          "Text": "Seguir esforzándose en los exámenes y dar lo mejor de sí."
+        },
+        {
+          "Note": "Pedir ayuda a un adulto de confianza es lo más prudente. La moringa asequible, el hígado de animal y las alubias mungo pueden aumentar los niveles de hierro, y existen programas para apoyar a niñas con las necesidades menstruales y el estigma. Issa, y todas las niñas, deberían poder permanecer en la escuela hasta, al menos, los 18 años.",
+          "Text": "Pedirle consejo a su madre o a una maestra sobre cómo abordar sus síntomas."
+        },
+        {
+          "Note": "Aunque ganar dinero muestra iniciativa por su parte, podría arriesgarse a la explotación. Pedir ayuda a un adulto de confianza es mejor. La moringa, el hígado de animal y las alubias mungo son fuentes de hierro asequibles, y los programas pueden darle apoyo con las necesidades menstruales. Toda niña debería tener el derecho a completar la educación secundaria.",
+          "Text": "Empezar a vender bocadillos a la orilla de la carretera antes de la escuela para ayudar a su familia y comprar comida."
+        }
+      ],
+      "Question": "Debido a los desafíos económicos tras el COVID-19, la familia de Issa ha tenido dificultades para pagar alimentos nutritivos. Ya que Issa ha comenzado su menstruación recientemente, satisfacer sus crecientes necesidades de hierro se ha vuelto aún más difícil, poniéndola en riesgo de anemia. A menudo se siente cansada, tiene problemas para concentrarse en la escuela y olvida información en clase.\n\nCon los exámenes finales el próximo mes, ¿qué debería hacer ella?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El agua superficial como los ríos a menudo está contaminada, lo que supone un peligro de parásitos y gérmenes, sin tratamiento. lo que resultaría en costes de atención médica y menos dinero para alimentos.Usar el pozo es más seguro.",
+          "Text": "Recoger agua del río cercano. De esta manera, no tiene que caminar lejos y puede pasar más tiempo vendiendo bocadillos."
+        },
+        {
+          "Note": "Ir al pozo es un esfuerzo extra, pero asegura mayor protección para la salud de Issa y su familia. La contaminación del agua superficial aumenta los riesgos por enfermedades transmitidas por el agua y añade costes de atención médica, sin dinero extra para alimentos. El pozo es la opción más saludable si el agua se recoge y almacena de manera segura.",
+          "Text": "Esforzarse para hacer el viaje al pozo para acceder al agua limpia, a pesar de la mayor distancia."
+        }
+      ],
+      "Question": "La familia de Issa también enfrenta desafíos significativos con el acceso al agua. Tienen que recoger agua de un río cercano o de un pozo artesiano a 2 km de distancia (una caminata de 30 minutos en cada sentido). Debido a los efectos del retraso en el crecimiento que experimentó antes de los 2 años, Issa tiene dificultades con actividades extenuantes como la recolección diaria de agua.\n\nDadas estas dificultades, ¿qué debería elegir hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Teniendo en cuenta que el costo de vida en Filipinas es de 601 $ al mes, la familia de Issa podría necesitar ayuda extra en casa. Sacarla de la escuela también ahorraría los costes asociados. Sin embargo, completar su educación impacta enormemente en sus oportunidades futuras. Las niñas que permanecen más tiempo en la escuela se casan más tarde, tienen hijos más saludables y mejor salud y nutrición.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La educación afecta significativamente a las perspectivas futuras de Issa. Permanecer en la escuela lleva a un matrimonio más tardío, hijos más saludables y una mejor salud y nutrición. A pesar de estos beneficios, los costes asociados con ir a la escuela, frente al coste de vida de 601 $ al mes, hacen tentador para su familia mantenerla en casa para ayudar.",
+          "Text": "No"
+        }
+      ],
+      "Question": "La educación es muy importante para el futuro de Issa. A los 16 años, ella está emocionada por estar en la Escuela Preparatoria, pero algunos de los chicos y chicas con los que comenzó la escuela han empezado a abandonarla. La escuela secundaria es gratuita, pero su familia tiene dificultades para pagar los costes de los uniformes escolares, suministros y transporte.\n\n¿Debería su familia seguir enviando a Issa a la escuela?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Issa debería expresar su deseo de permanecer en la escuela. Los niños que experimentaron retraso en el crecimiento antes de los 2 años tienen un mayor riesgo de abandonar la escuela antes que aquellos que no lo hicieron. Sin embargo, continuar su educación mejorará sus futuras oportunidades laborales y su capacidad para mantenerse a sí misma más adelante.",
+          "Text": "Issa debería decirle a sus padres que quiere quedarse en la escuela y pedirle a un maestro o líder religioso que discuta la importancia de la educación con ellos."
+        },
+        {
+          "Note": "Un niño que experimentó retraso en el crecimiento antes de los 2 años tiene un mayor riesgo de abandonar la escuela antes que un niño que no lo hizo, pero Issa todavía tiene opciones. Dejar la escuela temprano disminuye sus oportunidades laborales y su capacidad para mantenerse a sí misma más adelante.",
+          "Text": "Issa debería aceptar el fin de su educación; probablemente no podría haber pagado la universidad de todos modos."
+        }
+      ],
+      "Question": "Issa tiene 17 años, y sus padres quieren que deje la escuela, como el 40 % de sus compañeros, y vaya a la ciudad a trabajar como empleada doméstica o dependienta para ayudar con los gastos familiares. Issa quiere quedarse en la escuela y concentrarse en su educación.\n\n¿Qué debería decirle a sus padres?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Issa considera iniciar un negocio vendiendo comida casera para obtener ingresos extra o mudarse a la ciudad para trabajar. Sin embargo, le será difícil encontrar un trabajo bien remunerado sin regresar a la escuela. Debería considerar la educación a tiempo parcial o la capacitación vocacional para mejorar sus posibilidades de un futuro mejor y asegurar el acceso a una dieta saludable.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Aunque ganar un ingreso podría ayudar, podría no ser suficiente para cubrir el coste de una dieta equilibrada. No ha terminado su educación, lo que hace improbable que consiga un trabajo bien remunerado. Debería buscar educación a tiempo parcial o capacitación vocacional para aumentar las posibilidades de acceder a una dieta nutritiva en el futuro.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Issa ahora trabaja y vive en casa, y es responsable de cocinar para su familia. Un ciclón tropical en Filipinas ha devastado su cultivo de arroz, y no puede permitirse comprar comida extra en el mercado. Su padre le da algo de dinero, pero no es suficiente para comprar verduras o carne. ¿Debería Issa iniciar un negocio adicional para cubrir el déficit presupuestario?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Estadísticamente, aquellos niños que experimentaron retraso en su crecimiento en la infancia ganan menos como adultos; en Filipinas, esto podría significar 493,81 $ menos per cápita anualmente. La decisión de Issa de seguir trabajando refleja las  limitadas opciones que tiene, pero los costes de vida en la ciudad son altos, y acceder a alimentos nutritivos es difícil debido a los precios. Depende de la buena voluntad de los familiares para obtener apoyo.",
+          "Text": "Issa debería quedarse en el trabajo."
+        },
+        {
+          "Note": "El retraso en el crecimiento infantil a menudo resulta en menores ingresos durante la  vida adulta; en Filipinas, esto podría ser 493,81 $ menos anualmente. La búsqueda de Issa de un trabajo diferente hace que la vida sea inestable, ya que equilibra su pesada carga de trabajo como empleada doméstica. A pesar de su deseo de una dieta equilibrada, los altos costes de vida en la ciudad y los precios de los alimentos complican el acceso a productos frescos, dejándola dependiente de la buena voluntad de los familiares.",
+          "Text": "Issa debería dejar el trabajo y buscar otro empleo."
+        }
+      ],
+      "Question": "Issa, ahora con 17 años, trabaja 6 días a la semana como empleada doméstica en la ciudad. Las consecuencias del retraso en su crecimiento durante la infancia le dificultan el trabajo físico del empleo. El trabajo es cansado, el salario es bajo y extraña su pueblo. \n\n¿Debería quedarse trabajando allí?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El tráfico de personas es un problema significativo en Filipinas. Aunque muchos filipinos trabajan con éxito en el extranjero, las niñas vulnerables como Issa corren el riesgo de ser forzadas a la trata sexual o la servidumbre doméstica. Sin educación, encontrar trabajo adecuado y seguro es difícil. La desnutrición aumenta el riesgo de desempleo en un 12 %, y los efectos a largo plazo de la anemia pueden reducir la productividad y el coeficiente intelectual. La altura de las mujeres se correlaciona con los salarios: cada aumento de 1 cm predice un aumento del 6% en el salario.",
+          "Text": "Issa debería tomar el nuevo trabajo con la agencia de reclutamiento."
+        },
+        {
+          "Note": "Si Issa se queda, podría arriesgarse a ser despedida debido a la desnutrición, lo que aumenta la probabilidad de desempleo en un 12 %, afectando su estabilidad económica. Sin embargo, es probablemente más segura, ya que el tráfico de personas es un problema significativo en Filipinas.",
+          "Text": "Issa debería quedarse en su trabajo actual y buscar una opción local."
+        }
+      ],
+      "Question": "Issa, aún trabajando como empleada doméstica, ve anuncios de agencias que ayudan a encontrar trabajo en el extranjero. Habla con la agencia de reclutamiento y le prometen un nuevo trabajo con una familia en el extranjero, pagándole más dinero y proporcionando los vuelos y las dietas. Su padre no quiere que ella acepte el trabajo.\n\n¿Qué debería hacer Issa?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las visitas de atención prenatal son cruciales ya que brindan servicios esenciales de salud y nutrición durante el embarazo. Un tratamiento oportuno para la anemia puede reducir los riesgos para Issa y mejorar las posibilidades de su bebé de tener un peso saludable al nacer. Necesita suplementos y un seguimiento por parte de personal sanitario que pueda ofrecerle consejos sobre fuentes de hierro asequibles.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La atención prenatal es vital para proporcionar servicios de salud y nutrición necesarios durante el embarazo. Abordar su anemia de manera oportuna puede reducir riesgos y asegurar un nacimiento más saludable para su bebé. Issa requiere suplementos y atención continua de proveedores de salud para orientación sobre fuentes de hierro asequibles.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Issa ha estado viendo a un chico en la ciudad, y ahora está embarazada y espera a su primer hijo. Está preocupada por ser despedida, se siente extremadamente cansada y ha sido diagnosticada de anemia. No le gusta asistir a visitas prenatales porque los horarios del centro de salud están limitados a los días laborables y, por lo tanto, a las horas en las que ella también está trabajando.\n\n¿Debería Issa continuar asistiendo a sus visitas prenatales en el centro de salud?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Issa puede tener dificultades para obtener apoyo familiar. El aumento de los precios de los alimentos debido al cambio climático dificulta el acceso a alimentos nutritivos. Aunque su familia puede permitirse fideos instantáneos, al ser este un alimento ultraprocesado, carece de los nutrientes esenciales para el embarazo de Issa. Más del 44 % de los filipinos experimentan inseguridad alimentaria moderada o severa. Issa debería contactar con un sanitario local para que le informe sobre cómo y dónde obtener alimentos de proximidad y asequibles que mejoren su nutrición.",
+          "Text": "Issa puede pedir apoyo a sus padres para mantener un embarazo saludable."
+        },
+        {
+          "Note": "Aunque su familia puede permitirse fideos instantáneos, al ser este un alimento ultraprocesado, carece de los nutrientes esenciales como proteínas adicionales y alimentos ricos en hierro para el embarazo de Issa. Más del 44 % de los filipinos experimentan inseguridad alimentaria moderada o severa. Issa debería contactar con un sanitario local para que le informe sobre cómo y dónde obtener alimentos de proximidad y asequibles que mejoren su nutrición.",
+          "Text": "Issa debería elegir alimentos más baratos y asegurarse de obtener suficiente energía de sus comidas."
+        }
+      ],
+      "Question": "Issa fue al centro de salud, donde recibió tratamiento con hierro y suplementos de ácido fólico después de que su anemia mejorara. Como adolescente embarazada, debe consumir lo suficiente para apoyar su crecimiento y el desarrollo de su bebé. Sin embargo, el aumento de los precios de los alimentos en Filipinas debido al cambio climático hace que sea difícil para ella comprar alimentos saludables y asequibles.\n\n¿Qué debería hacer Issa para asegurar un embarazo saludable para ella y su bebé?"
+    }
+  ]
+}

@@ -1,3 +1,4 @@
+html { font-size: 62.5%; }
 body { padding: 0; margin: 0; border: 0; height: 100vh; background-color: #161616; text-align: left; }
 #unity-canvas { background: #161616; width: 100%; height: 100%; position: fixed; }
 
@@ -34,9 +35,13 @@ body { padding: 0; margin: 0; border: 0; height: 100vh; background-color: #16161
 }
 
 .end-panel {
-    position: absolute;
+    position: fixed;
+    bottom: 0;
     width: 100%;
-    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 5vh;
 
     -webkit-user-select: none; /* Safari */
     -ms-user-select: none; /* IE 10 and IE 11 */
@@ -53,16 +58,12 @@ body { padding: 0; margin: 0; border: 0; height: 100vh; background-color: #16161
     font-style: italic;
     font-size: 3rem;
 
-    position: absolute;
-    width: 700px;
-    padding: 20px 0px;
+    border: none;
+    padding: 1.5rem 3rem;
 
     text-align: center;
-    vertical-align: middle;
+    margin-bottom: 2rem;
 
-    bottom: 0px;
-    left: 50%;
-    transform: translate(-50%, calc(-50% - 8vh));
     transition: all 0.3s ease;
     
     cursor: pointer;
@@ -74,26 +75,21 @@ body { padding: 0; margin: 0; border: 0; height: 100vh; background-color: #16161
 }
 
 .sharing-buttons {
-    position: absolute;
-    bottom: 0px;
-    left: 50%;
-    transform: translate(-50%, calc(-50% - 2vh));
-
     display: flex;
     justify-content: center;
-    gap: 2vw;
+    gap: 1.5rem;
 }
 
 .sharing-button {
-    width: 5vh;
-    height: 5vh;
+    width: 4rem;
+    height: 4rem;
     border-radius: 50%;
     background-color: #fff;
     display: flex;
     justify-content: center;
     align-items: center;
     text-decoration: none;
-    transition: background-color 0.3s ease;
+    transition: all 0.3s ease;
 
     cursor: pointer;
 }
@@ -108,15 +104,20 @@ body { padding: 0; margin: 0; border: 0; height: 100vh; background-color: #16161
 }
 
 @media only screen and (max-width: 800px) {
-    .cta-button {
+    .end-panel {
+        left: 50%;
+        transform: translateX(-50%);
         width: 90%;
-        font-size: 1.5rem;
+    }
+    .cta-button {
+        font-size: 2.5rem;
+        margin-bottom: 3rem;
     }
     .sharing-buttons {
-        gap: 10vw;
+        gap: 5rem;
     }
     .sharing-button {
-        width: 4vh;
-        height: 4vh;
+        width: 4rem;
+        height: 4rem;
     }
 }

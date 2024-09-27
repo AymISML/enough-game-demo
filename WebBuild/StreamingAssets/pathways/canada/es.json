@@ -1,0 +1,176 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La lactancia materna exclusiva es lo mejor para los primeros seis meses de Emma, proporcionando toda la nutrición necesaria que necesita.",
+          "Text": "Seguir dándole el pecho cada vez que parezca que Emma tiene hambre."
+        },
+        {
+          "Note": "La leche de vaca y el azúcar son perjudiciales para Emma; la lactancia materna exclusiva satisface todas sus necesidades nutricionales, ya que su cuerpo aún no está listo para otros alimentos.",
+          "Text": "Probar la mezcla de leche y ver si ayuda."
+        }
+      ],
+      "Question": "Cuando Emma nació, lloraba mucho y su madre dudaba de que su leche materna fuera suficiente. Un vecino sugirió darle leche de vaca, mezclada con agua y azúcar. ¿Qué debería hacer la madre de Emma?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las manzanas proporcionan fibra, vitaminas B6 y C, y antioxidantes que ayudan con la absorción de hierro, pero no abordan directamente la deficiencia de hierro de Emma.",
+          "Text": "Manzanas frescas: \n1,00 $ a 1,25 $ por manzana o 5,00 $ por bolsa de 1,36 kg"
+        },
+        {
+          "Note": "Muchos cereales de desayuno están fortificados con hierro pero tienen un alto contenido en azúcar añadido y son bastante caros, lo que tiene como resultado sacrificar la compra de proteínas ricas en hierro.",
+          "Text": "Cereal para el desayuno: \n5 $- 6 $ de media por caja."
+        },
+        {
+          "Note": "La espinaca es una excelente opción para el hierro, ofreciendo vitaminas y minerales esenciales. Una taza de espinacas cocidas contiene alrededor de 6,5 mg de hierro, lo que la convierte en una opción asequible y efectiva.",
+          "Text": "Bolsa pequeña de espinacas: \n3,50 $ - 4,50 $ de media"
+        }
+      ],
+      "Question": "Emma acaba de cumplir 1 año, y su madre sabe que una dieta saludable es crucial para su desarrollo. Después de recibir el consejo de una enfermera de salud pública sobre la importancia del hierro, necesita tomar decisiones rentables. Con 40 $ para alimentos nutritivos en una ciudad típica de Canadá, ¿qué debería priorizar para mejorar sus niveles de hierro?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Aunque el té de hierbas no dañará a Emma, no reemplaza las sales y nutrientes perdidos. La condición de Emma empeora, lo que lleva a su madre a tomar otro día libre no remunerado para visitar la clínica sin cita previa. Si la medicina de rehidratación es demasiado costosa, la mamá de Emma puede hacer una mezcla similar en casa usando agua del grifo, sal y azúcar.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La mamá de Emma sigue el consejo de la clínica, usando la solución de rehidratación oral y dándole el pecho con más frecuencia. Emma se recupera sin complicaciones. Más tarde, la madre de Emma descubre que, aunque algunos remedios caseros pueden ser útiles, deben provenir de fuentes seguras e higiénicas y ser recomendados por un profesional sanitario.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Emma ha tenido malestar estomacal y diarrea durante más de un día. Su madre visita una clínica sin cita previa, donde el médico le aconseja comprar una solución de rehidratación oral y continuar amamantando.\n\nEn la farmacia, a la madre de Emma le molesta el coste de la medicina de rehidratación, pero ve que hay un té de hierbas más económico. Su madre recuerda que su abuela bebía este té en casa para tratar los problemas estomacales.\n\n¿Debería la madre de Emma comprar este té y dárselo a Emma?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "La dedicación de Emma en la escuela es admirable, pero sus bajos niveles de hierro le están afectando. Buscar ayuda de un adulto de confianza sería mejor. Alimentos asequibles ricos en hierro como garbanzos, alubias y brócoli pueden mejorar su salud. Debería permanecer en la escuela para completar su educación, y aunque trabajar a los 15 años es legal, no debería interferir en su escolarización o llevar a la explotación.",
+          "Text": "Seguir esforzándose en los exámenes y dar lo mejor de sí."
+        },
+        {
+          "Note": "Buscar consejo de su madre o de una maestra de confianza es una decisión prudente. Alimentos asequibles ricos en hierro como garbanzos, alubias y brócoli pueden ayudar. Emma debería centrarse en completar su educación, y si decide trabajar a los 15 años, esto no debería interferir en sus estudios.",
+          "Text": "Pedirle consejo a su madre o a una maestra de la escuela."
+        },
+        {
+          "Note": "Aunque Emma quiera ayudar a su familia económicamente, tener un trabajo podría interferir en su educación y llevarla al agotamiento. Buscar orientación de un adulto de confianza y concentrarse en ingerir alimentos asequibles y ricos en hierro como garbanzos, alubias y brócoli sería un mejor enfoque, lo que la ayudaría a mantenerse saludable y centrada en sus estudios.",
+          "Text": "Conseguir un trabajo a tiempo parcial para ayudar a comprar alimentos ricos en proteínas."
+        }
+      ],
+      "Question": "Emma tiene acceso limitado a alimentos saludables ricos en proteínas y hierro debido a los desafíos financieros de su familia y los altos costes de vida, a menudo confiando en comida rápida y alimentos procesados. Esto la ha puesto en riesgo de anemia, lo que le causa fatiga, problemas de concentración y memoria. Ahora que ya tiene la menstruación, los productos de higiene femenina aumentan sus gastos mensuales provocando una bajada en el presupuesto para la alimentación, y con los exámenes a la vuelta de la esquina, su necesidad de hierro es aún más urgente.\n\n¿Qué debería hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La comida rápida se ajusta a su presupuesto, pero tiene altos niveles de grasas no saludables, azúcares y calorías vacías, lo que conlleva problemas de salud a largo plazo. Emma debería elegir alimentos densos en nutrientes como la opción C para obtener energía duradera y una mejor salud general.",
+          "Text": "Un combo pequeño de comida rápida por 5.50 $ (hamburguesa, papas fritas, refresco)."
+        },
+        {
+          "Note": "La ensalada es saludable, pero puede carecer de las calorías y nutrientes que Emma necesita para el día. La opción C, con proteínas y fibra añadidas, le ofrece más energía y capacidad de concentración a largo plazo. Los alimentos preparados también son más caros, por lo que hacer un almuerzo preparado es una mejor opción.",
+          "Text": "Una ensalada lista para llevar por 9.99 $ (verduras de hoja verde, vegetales y aliño)."
+        },
+        {
+          "Note": "Esta opción ofrece una mezcla equilibrada de proteínas, fibra y vitaminas para obtener energía sostenida para lograr mayor concentración. Los granos enteros y la fruta proporcionan energía de liberación lenta, lo que la convierte en la opción más nutritiva, incluso si requiere un poco más de esfuerzo y está ligeramente por encima del presupuesto.",
+          "Text": "Ingredientes para hacer un sándwich y una manzana por 7 $ (pan integral, embutido, manzana)."
+        }
+      ],
+      "Question": "Emma tiene 7 $ para el almuerzo de hoy. ¿Qué opción ofrece el mayor valor nutricional?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Aunque trabajar a tiempo completo ofrece apoyo financiero inmediato, limita las perspectivas laborales de Emma y podría atraparla en la pobreza. Los estudiantes de secundaria que abandonan la escuela a menudo enfrentan inestabilidad económica, problemas de salud y menos oportunidades. Emma debería considerar encontrar un trabajo a tiempo parcial o informarse sobre los recursos sociales para apoyar a su familia mientras termina su educación.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Abandonar la escuela secundaria puede impactar gravemente en el futuro de Emma. En general, los graduados de la escuela secundaria disfrutan de mejores perspectivas laborales, mayores ganancias y más oportunidades de carrera. En Canadá, las mujeres sin un título educativo ganan mucho menos y se enfrentan a peores resultados de salud y menor autoestima. Aunque el alivio financiero inmediato sea tentador, las desventajas a largo plazo de abandonar la escuela superan con creces los beneficios a corto plazo.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Emma, ahora una estudiante de 18 años en el último año de la educación secundaria, está considerando abandonar la escuela debido a las dificultades financieras de su familia, para trabajar a tiempo completo y ayudar a mantener a su madre y su hermana menor que tiene necesidades especiales y requiere atención no cubierta por el sistema sanitario. Sin embargo, reconoce los beneficios a largo plazo de completar su educación secundaria.\n\n¿Debería Emma abandonar la escuela secundaria para trabajar a tiempo completo y mantener a su familia?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las tiendas de conveniencia y los locales de comida rápida, aunque son más fáciles accesibles, ofrecen opciones saludables limitadas y, a menudo, tienen altos niveles de azúcares, grasas y sodio, lo que puede llevar a problemas de salud como obesidad y diabetes. Emma debería encontrar maneras alternativas de acceder a alimentos más saludables, aun si requiere un esfuerzo adicional.",
+          "Text": "Comprar en la tienda de conveniencia cercana y usar comida rápida como respaldo."
+        },
+        {
+          "Note": "Esta opción ayuda a Emma a acceder a alimentos más saludables a pesar de las barreras geográficas conocidas como \"desiertos alimentarios\". Los programas comunitarios, bancos de alimentos y cooperativas ofrecen productos frescos a costes más bajos. El transporte público o los servicios de entrega también pueden llegar a mejores tiendas de alimentación. Aunque requiere un esfuerzo extra, estas estrategias pueden ayudarle a mantener una dieta equilibrada y reducir el riesgo de malnutrición.",
+          "Text": "Explorar los programas sociales o cooperativas de alimentos para obtener productos frescos y usar el transporte público o servicios de entrega para opciones de alimentos más saludables."
+        }
+      ],
+      "Question": "Emma necesita comprar comestibles para su familia, pero la tienda más cercana ahora requiere un viaje en autobús de 30 minutos, lo que reduce su tiempo de estudio.\n\n¿Qué debería hacer?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Aquellos adultos que viven en inseguridad alimentaria severa a menudo experimentan problemas de salud mental como estrés, ansiedad y depresión, que pueden llevar a hábitos alimenticios poco saludables y afectar la salud física. El apoyo para la salud mental, incluyendo asesoramiento y programas sociales, es vital para romper este ciclo. Las clínicas de salud locales y los recursos en línea del Gobierno de Canadá ofrecen apoyo para personas con bajos ingresos.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La inseguridad alimentaria severa aumenta el riesgo de una mala salud mental, lo que también empeora la nutrición y el bienestar general. Ignorar los problemas de salud mental puede llevar a problemas de salud crónicos y afectar a la capacidad de Emma para cuidarse a sí misma y a su familia. Buscar apoyo es esencial para abordar los patrones alimenticios poco saludables. Las clínicas de salud locales y los recursos en línea del Gobierno de Canadá ofrecen ayuda para personas con bajos ingresos.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Ahora, a finales de sus veinte años, Emma está casada y tiene un hijo pequeño y trabaja largas horas en la industria de servicios; ella y su pareja tienen dificultades económicas. El estrés de equilibrar el trabajo, el cuidado infantil y las finanzas está afectando a su salud mental, haciéndole saltarse comidas o recurrir a alimentos poco saludables.\n\nPreocupada por su salud y el cuidado de su familia, ¿debería buscar apoyo para su salud mental?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Esta opción aconseja a Emma que busque información confiable y basada en la evidencia para una alimentación saludable y económica. Los programas de nutrición sociales, recursos como la Guía Alimentaria de Canadá y dietistas registrados pueden ofrecer consejos prácticos. Una buena nutrición beneficia los resultados académicos y de salud futuros de los niños.",
+          "Text": "Buscar programas de educación nutricional y recursos que enfaticen una alimentación saludable y asequible, incluyendo alimentos culturalmente significativos en una dieta equilibrada."
+        },
+        {
+          "Note": "Las redes sociales a menudo difunden desinformación y expectativas poco realistas sobre la alimentación saludable y la imagen corporal. Los influencers que promueven dietas costosas o restrictivas pueden causar confusión y mala nutrición. Emma debería confiar en fuentes confiables para obtener orientación precisa.",
+          "Text": "Confiar en las tendencias de redes sociales e influencers para obtener consejos sobre una alimentación saludable."
+        }
+      ],
+      "Question": "Emma se siente abrumada por los consejos contradictorios sobre dietas en línea y carece de experiencia con comidas caseras. Le preocupa que esas fuentes se centren en dietas para perder peso en lugar de fomentar hábitos alimenticios saludables para su hijo. ¿Qué debería hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La consistencia en ofrecer comidas saludables es clave para Emma para establecer hábitos alimenticios buenos y duraderos en su hijo. En países de altos ingresos como Canadá, los alimentos ultraprocesados representan alrededor del 50% de las calorías diarias. La agresiva comercialización puede influir en las preferencias de los niños, pero involucrar a su hijo en la preparación de las comidas y enseñarle qué alimentos son más nutritivos puede fomentar una relación positiva con la alimentación saludable. Los caprichos ocasionales están bien, pero los alimentos poco saludables no deberían volverse la norma.",
+          "Text": "No, Emma debería seguir ofreciendo comidas saludables y enseñarle a su hijo cuáles son las mejores elecciones alimenticias, aunque eso signifique enfrentarse a la resistencia de su hijo."
+        },
+        {
+          "Note": "Los caprichos ocasionales están bien, pero ceder regularmente a las solicitudes de alimentos poco saludables puede llevar a malos hábitos alimenticios y problemas de salud a largo plazo como obesidad y diabetes. En países como Canadá, los alimentos ultraprocesados representan alrededor del 50% de las calorías diarias. El papel de Emma al establecer límites alimenticios es crucial para el bienestar de su hijo.",
+          "Text": "Sí, un capricho ocasional está bien para mantener las comidas felices y evitar conflictos."
+        }
+      ],
+      "Question": "El hijo de 5 años de Emma prefiere snacks poco saludables y comida rápida debido a la influencia de la publicidad. A pesar de sus esfuerzos por proporcionarle comidas nutritivas, su hijo pide constantemente cereales azucarados, papas fritas y comida rápida. \n\nEmma está preocupada por el impacto en la del niño salud y se pregunta si debería ceder a estas demandas para simplificar las horas de comida."
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las citas prenatales son vitales para manejar la anemia de Emma y monitorear la salud de ambos, ella y su bebé. Un manejo adecuado es necesario para evitar complicaciones como un parto prematuro y bajo peso al nacer, que los suplementos de venta libre solos no pueden prevenir.",
+          "Text": "Sí, asistir a citas prenatales es crucial para manejar su anemia y asegurar un embarazo saludable."
+        },
+        {
+          "Note": "Confiar en suplementos de venta libre en lugar de en la atención prenatal puede empeorar la anemia y llevar a complicaciones como el parto prematuro y el bajo peso al nacer, aumentando los costes médicos futuros y los riesgos. La atención prenatal es esencial.",
+          "Text": "No, debería seguir trabajando y manejar su anemia con suplementos de venta libre hasta que pueda permitirse tomar tiempo libre."
+        }
+      ],
+      "Question": "Emma, embarazada de su segundo hijo y diagnosticada de anemia (una condición que puede llevar a complicaciones para ella y para el bebé), se enfrenta a un dilema entre tomarse unas horas libres no remuneradas en el trabajo para asistir a citas prenatales y satisfacer sus necesidades financieras.\n\n¿Debería priorizar su atención prenatal para asegurar un embarazo saludable?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Votar permite a Emma influir en las políticas que impactan en su vida diaria y el futuro de su comunidad. Al apoyar a candidatos que abogan por tiendas de alimentación asequibles en barrios con bajos ingresos, regulan la comercialización de alimentos no saludables y aumentan la ayuda extranjera para ayudar a los niños vulnerables en el extranjero, puede ayudar a crear un sistema alimentario global equitativo y mejorar el acceso a alimentos saludables para su familia.",
+          "Text": "Sí, votar por candidatos que prioricen la seguridad alimentaria y el acceso equitativo puede conducir a cambios políticos beneficiosos para Emma y apoyar a poblaciones vulnerables a través de la ayuda extranjera."
+        },
+        {
+          "Note": "Aunque manejar su propia situación es importante, ignorar el poder de votar significa perder la oportunidad de influir en las políticas que afectan el acceso a alimentos saludables, atención médica y educación. Votar en todos los niveles de gobierno es crucial para abogar por mejoras que beneficien a su familia y apoyen a los niños vulnerables a nivel mundial. Los cambios políticos a menudo comienzan con movimientos de base y el apoyo de los votantes, haciendo que el voto de Emma sea esencial.",
+          "Text": "No, votar no cambiará mucho, y Emma debería centrarse en manejar su situación actual en lugar de confiar en cambios políticos."
+        }
+      ],
+      "Question": "Emma ahora es consciente de los desafíos para acceder a alimentos saludables para su familia, desde la falta de tiendas de comestibles asequibles hasta la agresiva comercialización de alimentos poco saludables. También está aprendiendo sobre cómo las políticas gubernamentales podrían mejorar el acceso a alimentos saludables en su comunidad y apoyar a los niños vulnerables en el extranjero que enfrentan hambre a través de la ayuda extranjera. Con las elecciones acercándose, Emma se pregunta si votar podría ayudar a abordar estos problemas.\n\n¿Debería Emma votar en las próximas elecciones para apoyar políticas que mejoren el acceso a alimentos saludables y aborden los problemas del sistema alimentario tanto en Canadá como en el extranjero?"
+    }
+  ]
+}

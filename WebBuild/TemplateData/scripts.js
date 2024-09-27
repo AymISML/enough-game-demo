@@ -3,7 +3,7 @@ function ShowEndPanel (ctaText) {
     const searchParams = new URLSearchParams(window.location.search);
 
     const endPanel = document.querySelector('.end-panel');
-    endPanel.style.display = 'block';
+    endPanel.style.display = 'flex';
 
     const ctaButton = endPanel.querySelector('.cta-button');
     ctaButton.innerText = ctaText;

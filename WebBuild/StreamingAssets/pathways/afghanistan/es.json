@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La lactancia materna exclusiva es ideal. La leche materna proporciona toda la nutrición necesaria para los primeros seis meses de vida de Maryam porque ofrece el equilibrio perfecto de nutrientes, anticuerpos y enzimas esenciales para el desarrollo saludable de un bebé. El agua sucia y los líquidos que no sean leche materna pueden aumentar el riesgo de infecciones.",
+          "Text": "Seguir amamantándola cada vez que Maryam parezca hambrienta."
+        },
+        {
+          "Note": "Las gachas aguadas son en realidad peores para Maryam. La lactancia materna exclusiva asegura que se satisfagan todas sus necesidades nutricionales y previene enfermedades potenciales de fuentes no seguras. Su cuerpo aún no está preparado para otros alimentos. Introducir otros alimentos antes de los 6 meses, como las gachas aguadas, no proporciona suficientes nutrientes esenciales que son cruciales para el crecimiento y desarrollo de un bebé.",
+          "Text": "Comenzar a darle algunas gachas aguadas y ver si ayuda."
+        }
+      ],
+      "Question": "Cuando Maryam nació, lloró mucho, y su madre, Sadaf, dudaba de que su leche materna fuera suficiente para satisfacer su hambre. Un miembro de la comunidad sugirió darle gachas aguadas.\n\n¿Qué debería hacer Sadaf?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las manzanas son bajas en hierro pero tienen algo de vitamina C, lo que ayuda en la absorción de hierro de alimentos de origen vegetal. Son un snack saludable, pero no abordan directamente el problema de hierro de Sadaf.",
+          "Text": "Costo de la manzana: \n$2 por kilogramo"
+        },
+        {
+          "Note": "Muchos cereales de desayuno están fortificados con hierro, pero son difíciles de encontrar en Afganistán, y hasta las opciones más baratas son costosas para la madre de Maryam, lo que podría significar sacrificar la ingesta de proteínas por unos días. Normalmente también tienen un alto contenido de azúcar añadido.",
+          "Text": "Costo de cereales de desayuno fortificados: \n$1.25-$3.13 (100-250 AFN) por caja"
+        },
+        {
+          "Note": "Las lentejas cocidas son una buena opción para la madre de Maryam. Proporcionan alrededor de 6.6 mg de hierro por taza, ajustándose a la ingesta recomendada de 7 mg de hierro para niños de la edad de Maryam y ofreciendo una solución rentable.",
+          "Text": "Costo de lentejas para cocinar: \n$0.63-$1 (50-80 AFN) por kilogramo"
+        }
+      ],
+      "Question": "Maryam acaba de cumplir 1 año, y su madre sabe que una dieta saludable es crucial para su desarrollo. Después de recibir el consejo de un trabajador de salud comunitaria, aprendió sobre la importancia del hierro en su dieta. Con los alimentos ricos en hierro siendo costosos, debe tomar decisiones rentables.\n\nCon un costo de vida promedio de $354 al mes, y una canasta de alimentos nutritivos que cuesta $11.94, ¿qué debería priorizar para mejorar sus niveles de hierro?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Maryam se siente mejor después de la solución de rehidratación oral, y la decisión de su madre de comprar jabón y lavar las manos asegura una mejor higiene en el hogar. El lavado de manos regular y minucioso elimina patógenos dañinos como virus y bacterias que pueden causar enfermedades diarreicas.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "Maryam se siente mejor después de la solución de rehidratación oral, pero la mala higiene en el hogar lleva a diarreas regulares, obstaculizando su crecimiento, la absorción de nutrientes y eventualmente causando retraso en el crecimiento por infecciones frecuentes.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Maryam ha tenido malestar estomacal y diarrea durante más de un día. Su madre visita a un trabajador de salud local, quien enfatiza la buena higiene, como lavarse las manos con jabón, y le da una solución de rehidratación oral para Maryam.\n\nLa madre de Maryam pasa por un vendedor ambulante que vende jabón. ¿Debería su madre comprar jabón?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "El agua superficial a menudo está contaminada, suponiendo un peligro de parásitos y gérmenes, sin tratamiento. Esto podría enfermar a Maryam y su familia, resultando en costos de atención médica y sin dinero extra para comida. Usar el pozo entubado es más seguro.",
+          "Text": "Recoger agua del arroyo cercano. De esta manera, no tiene que caminar lejos, y la pequeña tarifa para usar el pozo entubado se puede gastar en comida."
+        },
+        {
+          "Note": "Ir al pozo entubado es un esfuerzo adicional, pero asegura beneficios de salud a largo plazo para Maryam y su familia. La contaminación del agua superficial aumenta el riesgo de enfermedades transmitidas por el agua y añade costos de atención médica, lo que no ahorraría dinero para comida. El pozo entubado proporciona una opción más saludable si el agua se recoge y almacena de manera segura.",
+          "Text": "Forzarse a realizar el viaje al pozo entubado para acceder a agua limpia, a pesar de la mayor distancia."
+        }
+      ],
+      "Question": "Maryam siempre ha sido pequeña para su edad debido al retraso en el crecimiento, especialmente antes de los 2 años. El conflicto en curso ha resultado en altos precios de los alimentos, haciendo difícil para la familia de Maryam tener suficiente variedad en sus dietas. Debido al retraso en el crecimiento, le cuesta realizar actividades extenuantes, como la recolección diaria de agua. Puede recoger agua de un arroyo cercano de movimiento lento o de un pozo entubado a 15 km de distancia (una caminata de 3 horas en cada sentido).\n\n¿Qué debería elegir hacer Maryam?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El enfoque de Maryam en la escuela es importante, pero está teniendo dificultades. Pedir ayuda a un adulto de confianza es sensato. Las lentejas y los garbanzos son fuentes de hierro asequibles. Organizaciones como Visión Mundial apoyan a que las niñas sean incluidas en la escuela secundaria y ofrecen sesiones sobre higiene menstrual y tratamiento de la anemia para adolescentes en instalaciones de salud.",
+          "Text": "Seguir esforzándose en los exámenes y dar lo mejor de sí."
+        },
+        {
+          "Note": "Pedir ayuda a un adulto de confianza es sensato. Las lentejas y los garbanzos pueden aumentar los niveles de hierro. Organizaciones como Visión Mundial apoyan a que las niñas sean incluidas en la escuela secundaria y ofrecen sesiones sobre higiene menstrual y tratamiento de la anemia para adolescentes en instalaciones de salud.",
+          "Text": "Pedirle consejo a su madre o a una maestra de la escuela."
+        },
+        {
+          "Note": "Aunque ganar dinero muestra iniciativa, podría arriesgar la explotación. Pedir ayuda a un adulto de confianza es mejor. Las lentejas y los garbanzos son fuentes de hierro asequibles. Las organizaciones como Visión Mundial apoyan a que las niñas sean incluidas en la escuela secundaria y ofrecen sesiones sobre higiene menstrual y tratamiento de la anemia para adolescentes en instalaciones de salud.",
+          "Text": "Comenzar a vender pañuelos o snacks al costado de la carretera antes de la escuela para ayudar a mantener a su familia y ganar suficiente dinero para pagar lo esencial, como compresas sanitarias y más fuentes de proteínas."
+        }
+      ],
+      "Question": "Debido a la prohibición general para que las niñas asistan a la escuela secundaria, tan solo el 20% de las niñas afganas asisten a la escuela. Sin embargo, Maryam vive en un área donde ha podido continuar su educación ahora que su escuela ha agregado clases islámicas adicionales. Sin embargo, el presupuesto reducido para alimentos de su familia la ha dejado en riesgo de anemia, a menudo sintiéndose cansada, teniendo dificultades para concentrarse en la escuela y olvidando información en clase. Habiendo comenzado a menstruar recientemente, el hierro es aún más crucial.\n\nCon los exámenes finales el próximo mes, ¿qué debería hacer ella?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "El matrimonio infantil afecta al 28% de las niñas en Afganistán. Las complicaciones del embarazo y el parto son las principales causas de muerte para las niñas afganas de 15 a 19 años, debido a factores como el acceso inadecuado a la atención médica, la malnutrición y los riesgos físicos asociados con los cuerpos jóvenes y subdesarrollados. Maryam debería intentar hablar con sus padres.",
+          "Text": "Maryam debería decirle a sus padres que no quiere casarse ahora y pedirle a un maestro que discuta con su madre la importancia de retrasar el matrimonio hasta que sea mayor."
+        },
+        {
+          "Note": "Aceptar el matrimonio temprano puede llevar a la interrupción de la educación y oportunidades económicas limitadas para Maryam, atrapándola en un ciclo de pobreza. También plantea riesgos significativos para la salud, incluidas complicaciones del embarazo y parto temprano, que son las principales causas de muerte entre las adolescentes. El matrimonio temprano también puede perpetuar la desigualdad de género y aumentar el riesgo de violencia doméstica.",
+          "Text": "Maryam debería aceptar el matrimonio, de todas formas, no podría ir a la universidad."
+        }
+      ],
+      "Question": "Maryam tiene 15 años y todavía está en la escuela, pero sus padres quieren que se case para aliviar la carga financiera. Ella se siente triste por su futuro y algunas niñas de su aldea ya están casadas.\n\n¿Qué debería decirles a sus padres?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Esta es una opción razonable, pero culturalmente su nuevo esposo probablemente priorizará a su madre y padre sobre Maryam. Maryam podría intentar hablar con un amigo, que podría tener ideas para ayudar o formas de ganar más dinero.",
+          "Text": "Hablar con su esposo para tratar de conseguir que mejore la situación"
+        },
+        {
+          "Note": "Los padres de Maryam probablemente no la recibirán de vuelta. Ahora está casada, recibirla de vuelta dañaría su reputación, y no pueden permitirse cuidarla. Maryam podría intentar hablar con un amigo, que podría tener ideas para ayudar o formas de ganar más dinero.",
+          "Text": "Ir a sus padres y ver si la reciben de vuelta"
+        }
+      ],
+      "Question": "Maryam ahora está casada y es responsable de preparar los alimentos. Le cuesta cocinar lo suficiente para todos con su presupuesto limitado, y su suegra a menudo la golpea si no ha completado todas las tareas del hogar. Su esposo le da dinero; suficiente para comprar algo de arroz.\n\n¿Qué debería hacer Maryam?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Estadísticamente, aquellos que experimentaron retraso en el crecimiento en la infancia ganan menos como adultos; en Afganistán, esto podría significar $143.55 menos per cápita anualmente. Aunque ganar un ingreso podría ayudar, podría no cubrir el costo de los alimentos nutritivos. Como niña afgana, Maryam también tiene opciones limitadas para trabajar; comenzar un trabajo de cocina es probable una de sus únicas opciones. Incluso antes del cambio de gobierno, el 66% de las niñas afganas no estaban en la escuela ni empleadas.",
+          "Text": "Maryam debería comenzar un negocio de cocina."
+        },
+        {
+          "Note": "Estadísticamente, aquellos que experimentaron retraso en el crecimiento en la infancia ganan menos como adultos; en Afganistán, esto podría significar $143.55 menos per cápita anualmente. Aunque ganar un ingreso podría ayudar, podría no cubrir el costo de los alimentos nutritivos. Como niña afgana, Maryam también tiene opciones limitadas para trabajar; comenzar un trabajo de costura es probablemente una de sus únicas opciones. Incluso antes del cambio de gobierno, el 66% de las niñas afganas no estaban en la escuela ni empleadas.",
+          "Text": "Maryam debería encontrar trabajo como costurera."
+        }
+      ],
+      "Question": "La amiga de Maryam le ha dado una idea sobre comenzar un negocio; cocinar platos caseros y venderlos, o coser vestidos para la venta. La malnutrición infantil (retraso en el crecimiento) la hace más baja y las tareas físicas son un desafío.\n\n¿Qué debería hacer ella?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Ayudar a su suegra en casa y obedecer a su esposo es la opción culturalmente aceptada, pero aún no resuelve los desafíos alimentarios de Maryam. Sin embargo, incluso si persistiera con su negocio, la malnutrición aumenta el riesgo de desempleo en un 12%, y los efectos a largo plazo de la anemia pueden reducir la productividad y el CI.",
+          "Text": "Maryam debería centrarse en las tareas domésticas en casa y ayudar más a su suegra."
+        },
+        {
+          "Note": "Convencer a su esposo es un logro positivo, pero incluso si Maryam persistiera con su negocio, la malnutrición aumenta el riesgo de desempleo en un 12%, y los efectos a largo plazo de la anemia pueden reducir la productividad y el CI. Ayudar a su suegra en casa, y obedecer a su esposo, es la opción culturalmente aceptada, pero no resolvería los desafíos alimentarios de Maryam.",
+          "Text": "Maryam debería convencer a su esposo de que su negocio de cocina ayudará a mejorar sus vidas; no hay suficiente comida en casa."
+        }
+      ],
+      "Question": "Maryam intenta comenzar un negocio de cocina, pero su esposo se molesta y dice que su trabajo dañará la reputación de su familia, y no da su permiso.\n\nSin embargo, aún no tienen mucho dinero para comida, ¿qué debería hacer ella?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Las visitas de atención prenatal son cruciales ya que brindan servicios esenciales de salud y nutrición durante el embarazo. Un tratamiento oportuno para la anemia puede reducir el riesgo para la salud de Maryam y mejorar las posibilidades de su bebé de un peso saludable al nacer. Visión Mundial trabaja para proporcionar servicios de atención médica móvil y controles prenatales a niñas y mujeres en Afganistán que no tienen centros de salud cercanos.",
+          "Text": "Sí"
+        },
+        {
+          "Note": "La atención prenatal es vital para proporcionar servicios de salud y nutrición necesarios durante el embarazo. Abordar su anemia de manera oportuna puede reducir los riesgos para la salud y asegurar un nacimiento más saludable para su bebé. Visión Mundial trabaja para proporcionar servicios de atención médica móvil y controles prenatales a niñas y mujeres en Afganistán que no tienen centros de salud cercanos.",
+          "Text": "No"
+        }
+      ],
+      "Question": "Maryam tiene 17 años, está embarazada y esperando su primer hijo. Se siente extremadamente cansada y ha sido diagnosticada con anemia. La clínica de salud está lejos de su aldea y requiere contratar a un conductor de motocicleta para viajar 2 horas para llegar, con un costo de $3 ida y vuelta que es una parte significativa de su presupuesto de $50/semana para alimentos.\n\n¿Debería Maryam hacer el esfuerzo de ir a sus visitas prenatales en el centro de salud?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La familia de Maryam le da más comida mientras está embarazada, especialmente con la esperanza de que sea un niño. Sin embargo, la familia aún tiene dificultades para comprar suficientes alimentos nutritivos. Aunque su familia puede cultivar suficiente trigo para comidas básicas dos veces al día, carecen de fondos para alimentos esenciales ricos en proteínas y hierro. Más del 36% de los afganos experimentan inseguridad alimentaria. Maryam debería consultar a un trabajador de salud comunitaria para encontrar alimentos asequibles y cultivados localmente que mejoren su nutrición.",
+          "Text": "Maryam puede pedir a su esposo y familiares apoyo para mantener un embarazo saludable."
+        },
+        {
+          "Note": "Aunque su familia puede hacer comidas con el trigo que cultivan, no pueden pagar alimentos adicionales ricos en proteínas y hierro para el embarazo de Maryam. El aumento de los precios de los alimentos significa que muchos artículos son más difíciles de encontrar. Más del 36% de los afganos experimentan inseguridad alimentaria. Maryam debería acudir a un trabajador de salud comunitaria para obtener asesoramiento sobre alimentos asequibles y cultivados localmente para mejorar su dieta.",
+          "Text": "Maryam debería elegir alimentos más baratos e intentar asegurarse de obtener suficiente energía de sus comidas."
+        }
+      ],
+      "Question": "Maryam fue al centro de salud, donde recibió un tratamiento con hierro y suplementos de ácido fólico que hizo que su anemia mejorara. Como adolescente embarazada, debe consumir lo suficiente para apoyar su crecimiento y el desarrollo de su bebé. Sin embargo, el aumento de los precios de los alimentos en Afganistán debido a la sequía hace que sea difícil para ella comprar alimentos saludables y asequibles.\n\n¿Qué debería hacer Maryam para asegurar un embarazo saludable para ella y su bebé?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Respuestas: Maryam necesita mejorar su propia nutrición para poder ser fuerte para su hija (y también proporcionar leche materna). Debería hablar con una ONG, como Visión Mundial, para obtener apoyo con asesoramiento nutricional, o ayudarla a inscribirse en programas para criar ganado y cultivar más vegetales por sí misma.",
+          "Text": "Buscar asesoramiento nutricional de una ONG como Visión Mundial para tratar de encontrar mejores alimentos."
+        },
+        {
+          "Note": "Maryam necesita mejorar su propia nutrición primero para poder ser fuerte para su hija (y también proporcionar leche materna). Debería hablar con una ONG como Visión Mundial para obtener apoyo con asesoramiento nutricional, o ayudarla a inscribirse en programas para criar ganado y cultivar más vegetales por sí misma.",
+          "Text": "Centrarse en reiniciar su negocio para ganar más dinero para otras cosas."
+        }
+      ],
+      "Question": "Después del parto, Maryam está muy débil y tiene dificultades para recuperarse y reanudar sus tareas en casa y su negocio de cocina. Ella desea desesperadamente un futuro mejor para su nueva hija.\n\n¿Qué debería hacer Maryam?"
+    }
+  ]
+}
