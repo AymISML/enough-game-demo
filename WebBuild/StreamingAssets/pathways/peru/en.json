@@ -4,11 +4,11 @@
       "Answers": [
         {
           "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Luciana’s first six months. The perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections.",
-          "Text": "Keep breastfeeding every time Luciana seems hungry"
+          "Text": "Keep breastfeeding every time Luciana seems hungry."
         },
         {
           "Note": "Cow’s milk and sugar is actually worse for Luciana. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Introducing them won't provide enough essential nutrients that are crucial for a baby's growth and development.",
-          "Text": "Start giving her the milk mixture and see if it helps"
+          "Text": "Start giving her the milk mixture and see if it helps."
         }
       ],
       "Question": "When Luciana was born, she cried a lot, and her mother doubted her breast milk was enough. A community member suggested giving her cow’s milk, mixed with water and sugar. \n\nWhat should Luciana’s mum do?"
@@ -65,11 +65,11 @@
     {
       "Answers": [
         {
-          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Luciana and her family sick, resulting in healthcare costs and less money for food. Using the community tap is safer; if the distance is tough, Luciana can ask a sibling for help.",
+          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Luciana and her family sick, resulting in healthcare costs and less money for food. Using the community tap is safer.",
           "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk as far, or carry water through the hills."
         },
         {
-          "Note": "Going to the community tap is extra effort but ensures long-term health benefits for Luciana and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The community tap provides a healthier option if the water is safely collected and stored, and a sibling could help her carry the water.",
+          "Note": "Going to the community tap is extra effort but ensures long-term health benefits for Luciana and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The community tap provides a healthier option if the water is safely collected and stored.",
           "Text": "Force herself to make the journey to the community tap to access clean water, despite the longer distance and difficult path."
         }
       ],
@@ -117,7 +117,7 @@
     {
       "Answers": [
         {
-          "Note": "Luciana and her boyfriend need to be able to afford nutritious food for themselves, and for their forthcoming baby. Statistically, those stunted in childhood earn less as adults; in Peru, this might mean $296.16 less per capita annually. Luciana can always look for another job later, but she should probably take this one in the meantime.",
+          "Note": "Luciana and her boyfriend need to be able to afford nutritious food for themselves, and for their forthcoming baby. Statistically, those stunted in childhood earn less as adults. in Peru, this might mean $296.16 less per capita annually. Luciana can always look for another job later, but she should probably take this one in the meantime.",
           "Text": "Yes"
         },
         {
@@ -151,7 +151,7 @@
           "Text": "Luciana should focus on ingredients like beans, lentils, tomatoes and potatoes, and try to make healthy and affordable soups at home."
         }
       ],
-      "Question": "Luciana went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough to support her growth and her baby's development. However, rising food prices in Peru make it difficult for her to buy healthy, affordable food. \n\nWhat should Luciana do to ensure a healthy pregnancy for herself and her baby?"
+      "Question": "Luciana went to the health centre, where she received iron treatment and folic acid supplements which helped her anaemia improve. As a pregnant adolescent, she must consume enough to support her growth and her baby's development. However, rising food prices in Peru make it difficult for her to buy healthy, affordable food. \n\nWhat should Luciana do to ensure a healthy pregnancy for herself and her baby?"
     }
   ],
   "stage03": [

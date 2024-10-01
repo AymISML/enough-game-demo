@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La solution idéale est l’allaitement maternel exclusif. Le lait maternel fournit toute l'alimentation nécessaire pour les six premiers mois de Maryam car il contient bon dosage des nutriments, des anticorps et des enzymes essentiels au bon développement du bébé. L'eau impropre à la consommation et les liquides autres que le lait maternel peuvent augmenter le risque d'infections.",
+          "Text": "Continuer à allaiter chaque fois que Maryam semble avoir faim."
+        },
+        {
+          "Note": "La bouillie liquide est en réalité pire pour Maryam. L'allaitement maternel exclusif garantit que tous ses besoins nutritionnels sont satisfaits et prévient les risques de maladie potentielle en provenance de sources non sûres. Son corps n'est pas encore prêt à recevoir d'autres aliments. Introduire d’autres nourritures, comme la bouillie, dans son alimentation avant six mois, n’apportera pas suffisamment de nutriments essentiels pour la croissance et le développement du bébé.",
+          "Text": "Commencer à lui donner de la bouillie liquide pour voir si ça aide."
+        }
+      ],
+      "Question": "Quand Maryam est née, elle pleurait beaucoup, et sa mère, Sadaf, craignait que son lait maternel ne suffise pas à la rassasier. Un membre de la communauté a suggéré de lui donner de la bouillie liquide.\n\nQue devrait faire Sadaf?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La pomme est pauvre en fer mais contient de la vitamine C qui facilite l'absorption du fer contenu dans les aliments d'origine végétale. Elle constitue un en-cas sain mais ne répond pas directement au besoin en fer de Maryam.",
+          "Text": "Les pommes coûtent : \n2 $ le kilogramme"
+        },
+        {
+          "Note": "De nombreuses céréales pour petit-déjeuner sont enrichies en fer, mais sont difficiles à trouver en Afghanistan, et même les options les moins chères représentent un coût élevé pour la mère de Maryam, ce qui pourrait signifier un sacrifice de l'apport en protéines pendant quelques jours. Elles ont aussi tendance à contenir beaucoup de sucre ajouté.",
+          "Text": "Les céréales enrichies pour le petit-déjeuner coûtent: \nEntre 1,25$ et 3,13 $ (100-250 AFN) par boîte\n"
+        },
+        {
+          "Note": "Les lentilles constituent un bon choix pour la mère de Maryam. Elles fournissent environ 6,6 mg de fer par tasse, ce qui s’approche des 7 mg d'apport quotidien en fer recommandé pour les enfants de l'âge de Maryam et en fait une solution économique et efficace.",
+          "Text": "Les lentilles coûtent:\nEntre 0.63$ et 1$ (50-80 AFN) le kilogramme"
+        }
+      ],
+      "Question": "Maryam vient d'avoir un an. Sa mère sait qu'une alimentation saine est essentielle à son développement. Un travailleur sanitaire de la communauté l'a informée de l'importance du fer dans son régime alimentaire. Les aliments riches en fer étant chers, elle doit faire des choix efficaces. \n\nSachant que le coût de la vie moyen est de 354$ par mois et qu’un panier de provisions nutritif coûte 11,94$,  que doit-elle privilégier pour améliorer leur taux de fer ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Maryam se sent mieux après avoir pris la solution de réhydratation orale, et la décision de sa mère d'acheter du savon garantit une meilleure hygiène à la maison. Un lavage régulier et soigneux des mains permet d'éliminer les agents pathogènes nocifs, tels que les virus et les bactéries, qui peuvent provoquer des maladies diarrhéiques.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Maryam se sent mieux après avoir pris la solution de réhydratation orale, mais le manque d'hygiène à la maison entraîne des diarrhées régulières, ce qui entrave sa croissance, l'absorption des nutriments et finit par provoquer un retard de croissance dû à des infections fréquentes.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Maryam souffre de maux d'estomac et de diarrhées depuis plus d'un jour. Sa mère rend visite à un travailleur de santé local, qui insiste sur une bonne hygiène, comme le lavage des mains avec du savon, et lui donne une solution de réhydratation orale pour Maryam. \n\nLa mère de Maryam passe devant un vendeur ambulant qui vend du savon. Devrait-elle acheter du savon ?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "L'eau de surface est souvent contaminée et présente un risque de parasites et de microbes lorsqu’elle n’est pas traitée. Maryam et sa famille pourraient tomber malades, ce qui signifierait davantage de frais de santé et moins d'argent pour la nourriture. L'utilisation d’un puits est plus sûre.",
+          "Text": "Aller chercher de l'eau dans le ruisseau voisin. De cette façon, elle n'aura pas besoin de marcher loin, et le petit montant versé pour l'utilisation du puits peut être utilisé pour acheter de la nourriture."
+        },
+        {
+          "Note": "Aller au puits représente un effort supplémentaire, mais garantit des avantages sanitaires à long terme pour Maryam et sa famille. La contamination des eaux de surfaces augmente le risque de maladies d'origine hydrique, entraîne des frais de santé et réduit l’argent disponible pour la nourriture. Le puits est une option plus saine si l'eau est recueillie et stockée en toute sécurité.",
+          "Text": "Se forcer à aller jusqu’au puits pour avoir accès à de l'eau propre, malgré la plus grande distance."
+        }
+      ],
+      "Question": "Maryam a toujours été petite pour son âge à cause d’un retard de croissance, surtout avant ses 2 ans.  Le conflit en cours a entraîné une hausse des prix des denrées alimentaires, ce qui empêche la famille de Maryam d'avoir un régime alimentaire suffisamment varié. En raison de son retard de croissance, elle a du mal à accomplir des tâches pénibles, comme la collecte quotidienne de l'eau. Elle peut soit aller chercher de l'eau dans un ruisseau proche, à faible débit, soit dans un puits situé à 15 km (3 heures de marche à l’aller et au retour).\n\n\nQuelle solution devrait choisir Maryam ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Il est important que Maryam se concentre sur ses études mais elle a du mal. Il est donc sage de demander de l'aide à un adulte de confiance. Les lentilles et les pois chiches sont des sources de fer abordables. Des organisations comme World Vision soutiennent l'intégration des filles dans l'enseignement secondaire et organisent des sessions sur l'hygiène menstruelle et le traitement de l'anémie pour les adolescentes dans les centres de santé.",
+          "Text": "Continuer les efforts pour les examens et faire de son mieux."
+        },
+        {
+          "Note": "Il est sage de demander de l'aide à un adulte de confiance. Les lentilles et les pois chiches peuvent augmenter les niveaux de fer. Des organisations comme World Vision soutiennent l'intégration des filles dans l'enseignement secondaire et organisent des sessions sur l'hygiène menstruelle et le traitement de l'anémie pour les adolescentes dans les centres de santé.",
+          "Text": "Demander conseil à sa mère ou à une enseignante."
+        },
+        {
+          "Note": "Gagner sa vie c’est faire preuve d'initiative, mais c'est aussi courir le risque de se faire exploiter. Il est préférable de demander de l'aide à un adulte de confiance. Les lentilles et les pois chiches sont des sources de fer abordables. Des organisations comme World Vision soutiennent l'intégration des filles dans l'enseignement secondaire et organisent des sessions sur l'hygiène menstruelle et le traitement de l'anémie pour les adolescentes dans les centres de santé.",
+          "Text": "Se mettre à vendre des mouchoirs ou des snacks sur le bord de la route avant l'école pour aider sa famille et couvrir leurs besoins essentiels, comme les serviettes hygiéniques et davantage de sources de protéines."
+        }
+      ],
+      "Question": "En raison de l'interdiction générale faite aux filles de fréquenter l'école secondaire, 20 % seulement des filles afghanes vont à l'école. Cependant, Maryam vit dans une zone où elle a pu poursuivre ses études depuis que son école a ajouté des cours islamiques supplémentaires. Mais le budget réduit de sa famille pour la nourriture l'a exposée au risque d'anémie. Elle se sent souvent fatiguée, a du mal à se concentrer à l'école et oublie des informations en classe. Depuis qu'elle a commencé à avoir ses règles, l'apport en fer est encore plus crucial.\n\nElle a ses examens de fin d'année le mois prochain. Que doit-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Le mariage des enfants concerne 28 % des filles en Afghanistan. Les complications liées à la grossesse et à l’accouchement sont les principales causes de décès chez les filles âgées de 15 à 19 ans, en raison de facteurs tels que l'accès insuffisant aux soins de santé, la malnutrition et les risques physiques associés au fait de porter des enfants dans un corps jeune et sous-développé. Maryam devrait essayer de parler à ses parents.",
+          "Text": "Maryam devrait dire à ses parents qu'elle ne veut pas se marier tout de suite et demander à un enseignant de discuter avec sa mère de l’importance d’attendre qu’elle soit plus âgée pour le mariage."
+        },
+        {
+          "Note": "Accepter un mariage précoce peut mener à l'interruption de l'éducation et à des opportunités économiques limitées pour Maryam, l'enfermant dans un cycle de la pauvreté. Il présente également des risques importants pour la santé, notamment des complications liées à une grossesse et à un accouchement précoces, qui sont les principales causes de décès chez les adolescentes. Le mariage précoce peut également perpétuer l'inégalité entre les sexes et accroître le risque de violence domestique.",
+          "Text": "Maryam devrait accepter le mariage, elle ne pourra pas aller à l’université de toutes les façons."
+        }
+      ],
+      "Question": "Maryam a 15 ans et fréquente toujours l’école mais ses parents veulent qu’elle se marie pour alléger le fardeau financier qu’elle représente. Cela l’attriste par rapport à son futur et certaines des filles du village sont déjà mariées. \n\nQue doit-elle dire à ses parents ?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "C'est une option raisonnable, mais culturellement, son nouveau mari va probablement prendre le parti de sa mère et de son père plutôt que celui de Maryam. Maryam pourrait essayer de parler à un ami, qui pourrait avoir des idées pour l'aider ou lui permettre de gagner plus d'argent.",
+          "Text": "Parler à son mari et lui demander d’améliorer la situation."
+        },
+        {
+          "Note": "Les parents de Maryam n’accepteront probablement pas de la reprendre. Elle est maintenant mariée, la reprendre nuirait à leur réputation et ils n'ont pas les moyens de s'occuper d'elle. Maryam pourrait essayer de parler à un ami, qui pourrait avoir des idées pour l'aider ou pour gagner plus d'argent.",
+          "Text": "Demander à ses parents de la reprendre."
+        }
+      ],
+      "Question": "Maryam est maintenant mariée et gère la préparation de la nourriture. Elle peine à nourrir tout le monde à cause de leur budget limité et sa belle-mère la bat souvent si elle n’a pas terminé toutes les tâches ménagères. Son mari lui donne de l'argent; assez pour acheter du riz. \n \nQue devrait faire Maryam?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Statistiquement, les personnes ayant souffert d'un retard de croissance pendant l'enfance gagnent moins à l'âge adulte ; en Afghanistan, cela pourrait représenter 143,55$ de moins par personne et par an. Bien qu'un revenu puisse aider, il pourrait ne pas suffire à couvrir le coût des aliments nutritifs. En tant que jeune fille afghane, Maryam a également peu d'options pour travailler ; commencer un travail de cuisine est probablement l'une des seules options qui s'offrent à elle. Même avant le changement de gouvernement, 66 % des filles afghanes n'étaient ni scolarisées ni employées.",
+          "Text": "Maryam devrait créer une petite entreprise de cuisine."
+        },
+        {
+          "Note": "Statistiquement, les personnes souffrant d'un retard de croissance pendant l'enfance gagnent moins à l'âge adulte ; en Afghanistan, cela représente 143,55$ de moins par personne et par an. Bien qu'un revenu puisse aider, il pourrait ne pas suffire à couvrir le coût des aliments nutritifs. En tant que jeune fille afghane, Maryam a également peu d'options pour travailler; commencer un travail de couture est probablement l'une de ses seules options. Même avant le changement de gouvernement, 66 % des filles afghanes n'étaient ni scolarisées ni employées.",
+          "Text": "Maryam devrait trouver un emploi de couturière."
+        }
+      ],
+      "Question": "L'amie de Maryam lui a donné l'idée d’ouvrir un commerce : cuisiner des plats faits-maison et les vendre, ou coudre des robes pour les vendre. La malnutrition infantile (retard de croissance) la rend plus petite et les tâches physiques constituent un défi. \n\nQue devrait-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Aider sa belle-mère à la maison et obéir à son mari est l'option culturellement acceptée, mais cela ne résout pas les problèmes alimentaires de Maryam. Cependant, même si elle continuait à exercer son activité, la malnutrition augmente le risque d’être sans-emploi 12 %, et les effets à long terme de l'anémie peuvent réduire la productivité et le QI.",
+          "Text": "Maryam devrait se concentrer sur les tâches ménagères et aider davantage sa belle-mère."
+        },
+        {
+          "Note": "Convaincre son mari serait une réussite, mais même si Maryam continuait à exercer son activité, la malnutrition augmente le risque d’être sans-emploi 12 %, et les effets à long terme de l'anémie peuvent réduire la productivité et le QI. Aider sa belle-mère à la maison et obéir à son mari est l'option culturellement acceptée, mais cela ne résoudrait pas les problèmes alimentaires de Maryam.",
+          "Text": "Maryam devrait convaincre son mari que son activité de cuisinière contribuera à améliorer leur vie ; il n'y a pas assez de nourriture à la maison."
+        }
+      ],
+      "Question": "Maryam essaie de se lancer dans la cuisine, mais son mari est contrarié et dit que si elle travail, cela nuira à la réputation de leur famille ; il lui interdit.  \n\nCependant, ils n'ont toujours pas beaucoup d'argent pour la nourriture, que doit-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les visites prénatales sont primordiales car elles fournissent des services sanitaires et de nutrition essentiels pendant la grossesse. Un traitement ponctuel contre l'anémie peut réduire les risques liés à la grossesse pour Maryam et améliorer les chances que son bébé ait un poids sain à la naissance. World Vision travaille pour fournir des services de santé mobiles et des contrôles prénataux aux filles et aux femmes d'Afghanistan qui n'ont pas de centre de santé à proximité.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Les soins prénataux sont essentiels pour fournir les services de santé et de nutrition nécessaires pendant la grossesse. Une prise en charge rapide de son anémie peut réduire les risques liés à la grossesse et garantir une meilleure santé à son bébé. World Vision travaille pour fournir des services de santé mobiles et des contrôles prénataux aux filles et aux femmes d'Afghanistan qui n'ont pas de centre de santé à proximité.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Maryam a 17 ans, elle est enceinte et attend son premier enfant. Elle se sent extrêmement fatiguée et on lui a diagnostiqué de l’anémie. La clinique est loin de son village et il lui faut louer les services d'un conducteur de moto pour faire deux heures de trajet, ce qui lui coûte 3 dollars par trajet, soit une part importante de son budget alimentaire, qui s'élève à 50$ par semaine.\n\n\nMaryam devrait-elle faire l'effort de se rendre à ses visites prénatales au centre de santé ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La famille de Maryam lui donne plus de nourriture pendant sa grossesse, surtout dans l'espoir qu'elle aura un garçon. Cependant, la famille a toujours du mal à acheter suffisamment d'aliments nutritifs. Bien que sa famille puisse cultiver suffisamment de blé pour assurer des repas de base deux fois par jour, elle n’a pas assez pour acheter des aliments essentiels riches en protéines et en fer. Plus de 36 % des Afghans souffrent d'insécurité alimentaire. Maryam devrait consulter un travailleur de santé de la communauté pour trouver des aliments abordables et cultivés localement afin d'améliorer sa nutrition.",
+          "Text": "Maryam peut demander à son mari et à sa famille de l'aider à maintenir une grossesse saine."
+        },
+        {
+          "Note": "Bien que sa famille puisse préparer des repas avec le blé qu'elle cultive, elle n'a pas les moyens d'acheter des aliments supplémentaires riches en protéines et en fer pour la grossesse de Maryam. L'augmentation des prix de la nourriture rend de nombreux produits plus difficiles à trouver. Plus de 36 % des Afghans souffrent d'insécurité alimentaire. Maryam devrait contacter un travailleur de santé de la communauté pour obtenir des conseils pour trouver des aliments abordables et cultivés localement afin d'améliorer sa nutrition.",
+          "Text": "Maryam devrait choisir des aliments moins chers et essayer de s'assurer que ses repas lui apportent suffisamment d'énergie."
+        }
+      ],
+      "Question": "Maryam s'est rendue au centre de santé, où elle a reçu un traitement à base de fer et de vitamine B9 après que son anémie ait été traitée. Ils lui ont conseillé de bien manger, de prendre un repas supplémentaire et de se reposer pendant sa grossesse. En tant qu'adolescente enceinte, elle doit s’alimenter suffisamment pour assurer son propre développement et celui de son bébé. Cependant, l'augmentation des prix de la nourriture en Afghanistan en raison d’une sécheresse, fait qu'il lui est difficile d'acheter des aliments sains et abordables.\n\nQue doit faire Maryam pour que sa grossesse se déroule dans de bonnes conditions, pour elle et pour son bébé ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Maryam doit améliorer sa propre nutrition afin d'être forte pour sa fille (et de fournir du lait maternel). Elle devrait s'adresser à une ONG, comme World Vision, pour obtenir des conseils en matière de nutrition, ou l'aider à s'inscrire à des programmes d'élevage de bétail et de culture de légumes pour son propre compte.",
+          "Text": "Demander des conseils en matière de nutrition à une ONG comme World Vision pour essayer de trouver de meilleurs aliments."
+        },
+        {
+          "Note": "Maryam doit d'abord améliorer sa propre nutrition pour pouvoir être forte pour sa fille (et lui fournir du lait maternel). Elle devrait s'adresser à une ONG comme World Vision pour obtenir des conseils en matière de nutrition, ou l'aider à s'inscrire à des programmes visant à élever du bétail et à cultiver davantage de légumes soi-même.",
+          "Text": "Se concentrer sur le redémarrage de son entreprise afin de gagner plus d'argent pour les autres choses."
+        }
+      ],
+      "Question": "Après l'accouchement, Maryam est très affaiblie et peine à se rétablir et reprendre ses fonctions à la maison et son commerce de cuisine. Elle souhaite désespérément un meilleur avenir pour sa petite fille. \n\nQue doit faire Maryam ?"
+    }
+  ]
+}

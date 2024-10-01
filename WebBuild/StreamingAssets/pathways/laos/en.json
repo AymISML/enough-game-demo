@@ -1,172 +1,172 @@
 {
   "stage01": [
     {
-      "Question": "When Malai was born, she cried a lot, and her mother doubted her breast milk was enough. A community member suggested giving her chewed sticky rice. \n\nWhat should Malai’s mother do?",
       "Answers": [
         {
-          "Text": "Keep breastfeeding every time Malai seems hungry.",
-          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Malai’s first six months. The perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections."
+          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Malai’s first six months. The perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections.",
+          "Text": "Keep breastfeeding every time Malai seems hungry."
         },
         {
-          "Text": "Start giving her some sticky rice and see if it helps.",
-          "Note": "Sticky rice is actually worse for Malai. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Her body isn't prepared for other foods yet like sticky rice. Introducing them won't provide enough essential nutrients that are crucial for a baby's growth and development."
+          "Note": "Sticky rice is actually worse for Malai. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Her body isn't prepared for other foods yet like sticky rice. Introducing them won't provide enough essential nutrients that are crucial for a baby's growth and development.",
+          "Text": "Start giving her some sticky rice and see if it helps."
         }
-      ]
+      ],
+      "Question": "When Malai was born, she cried a lot, and her mother doubted her breast milk was enough. A community member suggested giving her chewed sticky rice. \n\nWhat should Malai’s mother do?"
     },
     {
-      "Question": "Malai has just turned 1, and her mother knows a healthy diet is crucial for her development. After receiving advice from a village health volunteer, she learned about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. \n\nWith an average cost of living of $888 per month and a nutritious food basket costing $17.19, what should she prioritise to improve their iron levels?",
       "Answers": [
         {
-          "Text": "Sweet potato cost:\n$.43-.81 per kilogramme.",
-          "Note": "Sweet potatoes are low in iron but have some Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Malai’s iron issue."
+          "Note": "Sweet potatoes are low in iron but have some Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Malai’s iron issue.",
+          "Text": "Sweet potato cost:\n$.43-.81 per kilogramme."
         },
         {
-          "Text": "Fortified breakfast cereals cost: \n$1.30-2.60 average per box.",
-          "Note": "Many breakfast cereals are fortified with iron, but even the cheapest options come at a high cost to Malai’s mother, which could mean sacrificing protein intake for a few days. The cereals also have a lot of added sugar."
+          "Note": "Many breakfast cereals are fortified with iron, but even the cheapest options come at a high cost to Malai’s mother, which could mean sacrificing protein intake for a few days. The cereals also have a lot of added sugar.",
+          "Text": "Fortified breakfast cereals cost: \n$1.30-2.60 average per box."
         },
         {
-          "Text": "Dried fish cost:\n$1.05 to 1.58 average per kilogram.",
-          "Note": "Dried fish are a good choice for Malai’s mother. They provide about 6-12 mg of iron per 100g, offering a cost-effective and nutritious solution."
+          "Note": "Dried fish are a good choice for Malai’s mother. They provide about 6-12 mg of iron per 100g, offering a cost-effective and nutritious solution.",
+          "Text": "Dried fish cost:\n$1.05 to 1.58 average per kilogram."
         }
-      ]
+      ],
+      "Question": "Malai has just turned 1, and her mother knows a healthy diet is crucial for her development. After receiving advice from a village health volunteer, she learned about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. \n\nWith an average cost of living of $888 per month and a nutritious food basket costing $17.19, what should she prioritise to improve their iron levels?"
     },
     {
-      "Question": "Malai has had an upset stomach and diarrhoea for more than a day. Her mother visits a health worker in the health centre, who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution for Malai. Malai’s mother passes by a small shop near the health centre who is selling soap. \n\nShould her mother buy soap?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Malai feels better after the oral rehydration solution, and her mother's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing removes harmful pathogens such as viruses and bacteria that can cause diarrheal illnesses."
+          "Note": "Malai feels better after the oral rehydration solution, and her mother's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing removes harmful pathogens such as viruses and bacteria that can cause diarrheal illnesses.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Malai feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections."
+          "Note": "Malai feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Malai has had an upset stomach and diarrhoea for more than a day. Her mother visits a health worker in the health centre, who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution for Malai. Malai’s mother passes by a small shop near the health centre who is selling soap. \n\nShould her mother buy soap?"
     }
   ],
   "stage02": [
     {
-      "Question": "Malai has not eaten much meat growing up, and has recently started menstruating making iron even more crucial. She's at risk of anaemia, often feeling tired, struggling to focus at school, and forgetting information in class. She frequently misses school due to lack of private washroom facilities for girls and proper water supply. \n\nWith final exams next month, what should she do?",
       "Answers": [
         {
-          "Text": "Keep pushing through exams and try her best.",
-          "Note": "Malai’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Dark green, leafy vegetables, fish and lentils are affordable iron sources. World Vision also helps girls learn to make sanitary napkins and supports schools to set up private washroom facilities and provide a consistent water supply. Every girl should stay in school until they are at least 18 years old."
+          "Note": "Malai’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Dark green, leafy vegetables, fish and lentils are affordable iron sources. World Vision also helps girls learn to make sanitary napkins and supports schools to set up private washroom facilities and provide a consistent water supply. Every girl should stay in school until they are at least 18 years old.",
+          "Text": "Keep pushing through exams and try her best."
         },
         {
-          "Text": "Ask her mother or a female school teacher for advice.",
-          "Note": "Asking a trusted adult for help is wise. Dark green, leafy vegetables, fish and lentils are affordable and can boost iron levels, and programmes by established NGOs, like World Vision, do exist to support girls with menstrual needs. Malai, and every girl, should be able to stay in school until age 18."
+          "Note": "Asking a trusted adult for help is wise. Dark green, leafy vegetables, fish and lentils are affordable and can boost iron levels, and programmes by established NGOs, like World Vision, do exist to support girls with menstrual needs. Malai, and every girl, should be able to stay in school until age 18.",
+          "Text": "Ask her mother or a female school teacher for advice."
         },
         {
-          "Text": "Start working on a cassava farm or migrate to a nearby town/city to look for casual work to support her family and cover essentials like sanitary pads and more protein sources to eat.",
-          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Dark green, leafy vegetables, fish and lentils are affordable iron sources, and existing programmes by established NGOs like World Vision can assist with menstrual needs. Every girl should have the right to complete secondary school."
+          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Dark green, leafy vegetables, fish and lentils are affordable iron sources, and existing programmes by established NGOs like World Vision can assist with menstrual needs. Every girl should have the right to complete secondary school.",
+          "Text": "Start working on a cassava farm or migrate to a nearby town/city to look for casual work to support her family and cover essentials like sanitary pads and more protein sources to eat."
         }
-      ]
+      ],
+      "Question": "Malai has not eaten much meat growing up, and has recently started menstruating making iron even more crucial. She's at risk of anaemia, often feeling tired, struggling to focus at school, and forgetting information in class. She frequently misses school due to lack of private washroom facilities for girls and proper water supply. \n\nWith final exams next month, what should she do?"
     },
     {
-      "Question": "Malai has always been small for her age due to stunting, especially before age 2. Extreme flooding in Laos has disrupted crops. Food prices are high making it hard for Malai’s family to have enough variety in their diets. Because of stunting, she struggles with strenuous activities. She can either collect water from a nearby slow-moving stream or a borehole 2 km away (a 30-minute walk each way). \n\nWhat should Malai choose to do?",
       "Answers": [
         {
-          "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk far, and the small fee to use the borehole can be spent on food.",
-          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Malai and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer; if the distance is tough, Malai can ask a sibling for help."
+          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Malai and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer.",
+          "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk far, and the small fee to use the borehole can be spent on food."
         },
         {
-          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance.",
-          "Note": "Going to the borehole is extra effort, but ensures long-term health benefits for Malai and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored."
+          "Note": "Going to the borehole is extra effort, but ensures long-term health benefits for Malai and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored.",
+          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance."
         }
-      ]
+      ],
+      "Question": "Malai has always been small for her age due to stunting, especially before age 2. Extreme flooding in Laos has disrupted crops. Food prices are high making it hard for Malai’s family to have enough variety in their diets. Because of stunting, she struggles with strenuous activities. She can either collect water from a nearby slow-moving stream or a borehole 2 km away (a 30-minute walk each way). \n\nWhat should Malai choose to do?"
     },
     {
-      "Question": "Education is very important for Malai’s future. At 16, she is preparing for her upper secondary exam, while more than 40% percent of girls her age have already dropped out. Secondary education has costs like transportation and supplies. \n\nCan her family afford to keep sending Malai to school?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Considering that the average family in Laos may be living on less than $100 per month, it's unlikely Malai’s family can afford her school fees. However, completing her education greatly impacts her future opportunities. Girls who stay in school longer marry later, have healthier children, and better overall health and nutrition."
+          "Note": "Considering that the average family in Laos may be living on less than $100 per month, it's unlikely Malai’s family can afford her school fees. However, completing her education greatly impacts her future opportunities. Girls who stay in school longer marry later, have healthier children, and better overall health and nutrition.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Education significantly affects Malai’s future prospects. Staying in school leads to delayed marriage, healthier children, and better health and nutrition. Despite these benefits, the high fees against an average income of $100 per month make it difficult for her family to continue paying school fees."
+          "Note": "Education significantly affects Malai’s future prospects. Staying in school leads to delayed marriage, healthier children, and better health and nutrition. Despite these benefits, the high fees against an average income of $100 per month make it difficult for her family to continue paying school fees.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Education is very important for Malai’s future. At 16, she is preparing for her upper secondary exam, while more than 40% percent of girls her age have already dropped out. Secondary education has costs like transportation and supplies. \n\nCan her family afford to keep sending Malai to school?"
     },
     {
-      "Question": "Malai is 17, and her parents want her to leave school and get married to relieve financial strain. She feels sad as some girls in her village are already married and have had to drop out of school as a result. Malai wants to stay in school and marry later. \n\nWhat should she tell her parents?",
       "Answers": [
         {
-          "Text": "Malai should tell her parents she doesn’t want to get married now, and ask a teacher or faith leader to discuss the importance of education with them.",
-          "Note": "Child marriage affects one third of girls in Laos. Malai should express her desire to stay in school. Her growth is incomplete, and pregnancy could lead to severe complications or death. Adolescent pregnancies, including unsafe abortions, are the leading cause of death for girls aged 15-19."
+          "Note": "Child marriage affects one third of girls in Laos. Malai should express her desire to stay in school. Her growth is incomplete, and pregnancy could lead to severe complications or death. Adolescent pregnancies, including unsafe abortions, are the leading cause of death for girls aged 15-19.",
+          "Text": "Malai should tell her parents she doesn’t want to get married now, and ask a teacher or faith leader to discuss the importance of education with them."
         },
         {
-          "Text": "Malai should accept the marriage and try to return to school later.",
-          "Note": "Accepting marriage risks her never returning to school. Child marriage impacts one third of girls in Laos. As Malai hasn’t completed growing, pregnancy could cause severe complications, increasing health risks. Pregnancy complications are the leading cause of death for girls aged 15-19."
+          "Note": "Accepting marriage risks her never returning to school. Child marriage impacts one third of girls in Laos. As Malai hasn’t completed growing, pregnancy could cause severe complications, increasing health risks. Pregnancy complications are the leading cause of death for girls aged 15-19.",
+          "Text": "Malai should accept the marriage and try to return to school later."
         }
-      ]
+      ],
+      "Question": "Malai is 17, and her parents want her to leave school and get married to relieve financial strain. She feels sad as some girls in her village are already married and have had to drop out of school as a result. Malai wants to stay in school and marry later. \n\nWhat should she tell her parents?"
     }
   ],
   "stage03": [
     {
-      "Question": "Malai is now married and responsible for crops and food preparation. Floods in Laos have devastated their rice crop, and she can't afford extra food from the market. Her husband gives her money, but only enough to buy some beans.\n\nShould Malai start a business to cover the budget gap?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Malai considers starting a business weaving traditional clothes for additional income, or thinks of reaching out to relatives living in the city for job opportunities, as her husband works there. However, women who work often earn less than men, about 23% less globally, and with rising food costs, this will impact her ability to maintain a nutritious diet."
+          "Note": "Malai considers starting a business weaving traditional clothes for additional income, or thinks of reaching out to relatives living in the city for job opportunities, as her husband works there. However, women who work often earn less than men, about 23% less globally. With rising food costs, this will impact her ability to maintain a nutritious diet.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "While earning an income could help, it might not cover the cost of nutritious foods. She hasn’t finished her education, making a well-paying job unlikely. Malai could contact  relatives in the city for job leads. A quarter of girls in Laos are not in school or employed, and women typically earn less than men, impacting their ability further amid high food prices."
+          "Note": "While earning an income could help, it might not cover the cost of nutritious foods. She hasn’t finished her education, making a well-paying job unlikely. Malai could contact  relatives in the city for job leads. A quarter of girls in Laos are not in school or employed, and women typically earn less than men, impacting their ability further amid high food prices.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Malai is now married and responsible for crops and food preparation. Floods in Laos have devastated their rice crop, and she can't afford extra food from the market. Her husband gives her money, but only enough to buy some beans.\n\nShould Malai start a business to cover the budget gap?"
     },
     {
-      "Question": "Malai, now 17, works 6 days a week at a local rubber tree plantation. Childhood malnutrition (stunting) makes her shorter and lighter than other employees. The work is tiring, pay is low, and she misses her village.\n\nShould she stay working there?",
       "Answers": [
         {
-          "Text": "Malai should stay at the job.",
-          "Note": "Statistically, those stunted in childhood earn less as adults; in Laos, this might mean $557.90 less per capita annually. Malai’s choice to continue working reflects limited options, and accessing nutritious food is difficult due to high prices. She depends on relatives' goodwill for support."
+          "Note": "Statistically, those stunted in childhood earn less as adults; in Laos, this might mean $557.90 less per capita annually. Malai’s choice to continue working reflects limited options, and accessing nutritious food is difficult due to high prices. She depends on relatives' goodwill for support.",
+          "Text": "Malai should stay at the job."
         },
         {
-          "Text": "Malai should leave the job and find other work.",
-          "Note": "Childhood stunting often results in lower adult earnings; in Laos, this could be $557.90 less annually. Malai's search for different work makes life unstable, as she balances work on the plantation 6 days a week. Despite her desire for a balanced diet, high living costs and food prices complicate accessing fresh produce, leaving her reliant on relatives' goodwill."
+          "Note": "Childhood stunting often results in lower adult earnings; in Laos, this could be $557.90 less annually. Malai's search for different work makes life unstable, as she balances work on the plantation 6 days a week. Despite her desire for a balanced diet, high living costs and food prices complicate accessing fresh produce, leaving her reliant on relatives' goodwill.",
+          "Text": "Malai should leave the job and find other work."
         }
-      ]
+      ],
+      "Question": "Malai, now 17, works 6 days a week at a local rubber tree plantation. Childhood malnutrition (stunting) makes her shorter and lighter than other employees. The work is tiring, pay is low, and she misses her village.\n\nShould she stay working there?"
     },
     {
-      "Question": "Malai, still working at the rubber tree plantation, seeks to start a business of her own. She's considering a market stall, a loan for a sewing machine to work as a seamstress, or a food business for labourers. However, she hasn't secured funding for any of her ideas.\n\nWhat should Malai do?",
       "Answers": [
         {
-          "Text": "Malai should keep looking for a loan.",
-          "Note": "Malai lacks savings to start a business, but could seek a microfinance organisation like Vision Fund for a small loan. This isn't easy, though. Malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ. Women's height correlates to wages: every 1 cm increase predicts a 6% wage increase."
+          "Note": "Malai lacks savings to start a business, but could seek a microfinance organisation like VisionFund for a small loan. This isn't easy, though. Malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ. Women's height correlates to wages: every 1 cm increase predicts a 6% wage increase.",
+          "Text": "Malai should keep looking for a loan."
         },
         {
-          "Text": "Malai should stay at her current job and stop considering starting a business.",
-          "Note": "If Malai stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability."
+          "Note": "If Malai stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability.",
+          "Text": "Malai should stay at her current job and stop considering starting a business."
         }
-      ]
+      ],
+      "Question": "Malai, still working at the rubber tree plantation, seeks to start a business of her own. She's considering a market stall, a loan for a sewing machine to work as a seamstress, or a food business for labourers. However, she hasn't secured funding for any of her ideas.\n\nWhat should Malai do?"
     },
     {
-      "Question": "Malai is pregnant and expecting her first child. She’s worried about not being able to work, feels extremely tired, and has been diagnosed with anaemia. She dislikes going to antenatal visits because the health centre is quite far away, so it costs a lot to get there. \n\nShould Malai continue attending her antenatal visits at the health centre?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Antenatal care visits are crucial as they provide essential health and nutrition services during pregnancy. Timely treatment for anaemia can reduce risks for Malai and improve her baby's chances of a healthy birth weight. Health services should enhance antenatal support for adolescent girls and young women."
+          "Note": "Antenatal care visits are crucial as they provide essential health and nutrition services during pregnancy. Timely treatment for anaemia can reduce risks for Malai and improve her baby's chances of a healthy birth weight. Health services should enhance antenatal support for adolescent girls and young women.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Antenatal care is vital for providing necessary health and nutrition services during pregnancy. Addressing her anaemia promptly can lower Malai’s risks and ensure a healthier birth for her baby. Malai requires supplements and ongoing care from healthcare providers for guidance on affordable iron sources. Improving antenatal services for young women is essential."
+          "Note": "Antenatal care is vital for providing necessary health and nutrition services during pregnancy. Addressing her anaemia promptly can lower Malai’s risks and ensure a healthier birth for her baby. Malai requires supplements and ongoing care from healthcare providers for guidance on affordable iron sources. Improving antenatal services for young women is essential.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Malai is pregnant and expecting her first child. She’s worried about not being able to work, feels extremely tired, and has been diagnosed with anaemia. She dislikes going to antenatal visits because the health centre is quite far away, so it costs a lot to get there. \n\nShould Malai continue attending her antenatal visits at the health centre?"
     },
     {
-      "Question": "Malai went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough to support her growth and her baby's development. However, rising food prices in Laos make it difficult for her to buy healthy, affordable food. \n\nWhat should Malai do to ensure a healthy pregnancy for herself and her baby?",
       "Answers": [
         {
-          "Text": "Malai can ask her husband and relatives for support to maintain a healthy pregnancy.",
-          "Note": "Malai may struggle to get family support. Rising food prices from flooding make it hard to access nutritious foods. Although her family can grow enough rice for basic meals twice daily, they lack funds for essential protein and iron-rich foods. One in seven people in Laos can't meet their minimum caloric needs. Malai should consult a community health worker for affordable, locally grown foods to enhance her nutrition."
+          "Note": "Malai may struggle to get family support. Rising food prices from flooding make it hard to access nutritious foods. Although her family can grow enough rice for basic meals twice daily, they lack funds for essential protein and iron-rich foods. One in seven people in Laos can't meet their minimum caloric needs. Malai should consult a community health worker for affordable, locally grown foods to enhance her nutrition.",
+          "Text": "Malai can ask her husband and relatives for support to maintain a healthy pregnancy."
         },
         {
-          "Text": "Malai should choose cheaper food and try to ensure she gets enough energy from her meals.",
-          "Note": "While her family can make meals with the rice they grow, they can't afford additional protein and iron-rich foods for Malai's pregnancy. Increased food prices mean many items are harder to find. One in seven people in Laos struggle to meet caloric needs. Malai should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet."
+          "Note": "While her family can make meals with the rice they grow, they can't afford additional protein and iron-rich foods for Malai's pregnancy. Increased food prices mean many items are harder to find. One in seven people in Laos struggle to meet caloric needs. Malai should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet.",
+          "Text": "Malai should choose cheaper food and try to ensure she gets enough energy from her meals."
         }
-      ]
+      ],
+      "Question": "Malai went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough to support her growth and her baby's development. However, rising food prices in Laos make it difficult for her to buy healthy, affordable food. \n\nWhat should Malai do to ensure a healthy pregnancy for herself and her baby?"
     }
   ]
 }

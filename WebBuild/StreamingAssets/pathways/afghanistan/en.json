@@ -1,172 +1,172 @@
 {
   "stage01": [
     {
-      "Question": "When Maryam was born, she cried a lot, and her mother, Sadaf, doubted her breast milk was enough to satisfy her hunger. A community member suggested giving her watery porridge.\n\nWhat should Maryam do?",
       "Answers": [
         {
-          "Text": "Keep breastfeeding every time Maryam seems hungry.",
-          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Maryam’s first six months of life because it provides the perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections."
+          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Maryam’s first six months of life. Unclean water and liquids other than breastmilk can increase the risk of infections.",
+          "Text": "Keep breastfeeding"
         },
         {
-          "Text": "Start giving her some watery porridge and see if it helps.",
-          "Note": "Watery porridge is actually worse for Maryam. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Introducing other foods before 6 months, such as watery porridge, doesn't provide enough essential nutrients that are crucial for a baby's growth and development."
+          "Note": "Watery porridge is actually worse for Maryam. Exclusive breastfeeding meets all her nutritional needs and prevents potential sickness from unsafe sources.",
+          "Text": "Try the watery porridge."
         }
-      ]
+      ],
+      "Question": "When Maryam was born, she cried a lot, and her mother doubted her breast milk was enough to satisfy her hunger. A community member suggested giving her watery porridge.\n\nWhat should Maryam's mother do?"
     },
     {
-      "Question": "Maryam has just turned 1, and her mother knows a healthy diet is crucial for her development. After receiving advice from a community health worker, she learned about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices.\n\nWith an average cost of living of $354 per month, and a nutritious food basket costing $11.94, what should she prioritise to improve their iron levels?",
       "Answers": [
         {
-          "Text": "Apple cost: \n$2 per kilogramme.",
-          "Note": "Apples are low in iron but have some Vitamin C, which aids in iron absorption from plant-based foods. They're a healthy snack but don't directly address Sadaf’s iron issue."
+          "Note": "Apples are low in iron, but have some Vitamin C, which aids in iron absorption. They're a healthy snack but don't directly provide iron.",
+          "Text": "Apple cost: \n$2 per kilogramme."
         },
         {
-          "Text": "Fortified breakfast cereals cost: \n$1.25-$3.13 (100-250 AFN) per box.",
-          "Note": "Many breakfast cereals are fortified with iron, but are hard to find in Afghanistan and even the cheapest options come at a high cost to Maryam’s mother, which could mean sacrificing protein intake for a few days.They are usually also high in added sugar."
+          "Note": "Many breakfast cereals are fortified with iron, but are hard to find in Afghanistan and even the cheapest options come at a high cost, which could mean sacrificing protein intake for a few days. They are also high in added sugar.",
+          "Text": "Fortified breakfast cereals cost: \n$1.25-$3.13 (100-250 AFN) per box."
         },
         {
-          "Text": "Cooking lentils cost: \n$.63-$1 (50-80 AFN) per kilogramme.",
-          "Note": "Cooked lentils are a good choice for Maryam’s mother. They provide about 6.6 mg of iron per cup, fitting 7 mg recommended iron intake for children Maryam’s age and offering a cost-effective solution."
+          "Note": "Cooked lentils are a good choice. One cup provides almost all the recommended iron intake for children Maryam’s age and are cost-effective.",
+          "Text": "Cooking lentils cost: \n$.63-$1 (50-80 AFN) per kilogramme."
         }
-      ]
+      ],
+      "Question": "Maryam has just turned 1, and after receiving advice from a community health worker, her mother learned about the importance of iron in their diet.\n\nWith an average cost of living of $354 per month, and a nutritious food basket costing $11.94, what should she prioritise to improve their iron levels?"
     },
     {
-      "Question": "Maryam has had an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker, who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution for Maryam.\n\nMaryam’s mother passes by a street vendor selling soap. Should her mother buy soap?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Maryam feels better after the oral rehydration solution, and her mother's decision to buy soap and hand washing ensures better hygiene at home. Regular and thorough handwashing removes harmful pathogens such as viruses and bacteria that can cause diarrheal illnesses."
+          "Note": "Maryam feels better after the oral rehydration solution, and her mother's decision to buy soap and hand washing ensures better hygiene at home. Regular and thorough handwashing removes harmful pathogens such as viruses and bacteria that can cause diarrhoeal illnesses.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Maryam feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections."
+          "Note": "Maryam feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Maryam has had an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker, who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution.\n\nMaryam’s mother passes a street vendor selling soap. Should her mother buy soap?"
     }
   ],
   "stage02": [
     {
-      "Question": "Maryam has always been small for her age due to stunting, especially before age 2. Ongoing conflict has resulted in high food prices, making it hard for Maryam’s family to have enough variety in their diets. Because of stunting, she struggles with strenuous activities, like daily water collection. She can either collect water from a nearby, slow-moving stream, or a borehole 15 km away (a 3 hour walk each way). \n\nWhat should Maryam choose to do?",
       "Answers": [
         {
-          "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk far, and the small fee to use the borehole can be spent on food.",
-          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Maryam and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer."
+          "Note": "Surface water is often contaminated, posing a danger of parasites and germs. This could make Maryam and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer.",
+          "Text": "Collect water from the nearby stream. It's a short walk, and the small fee to use the borehole can be spent on food."
         },
         {
-          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance.",
-          "Note": "Going to the borehole is extra effort but ensures long-term health benefits for Maryam and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored."
+          "Note": "Going to the borehole is extra effort but ensures long-term health benefits for Maryam and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored.",
+          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance."
         }
-      ]
+      ],
+      "Question": "Maryam was stunted before age 2 and has always been small for her age. Because of stunting, she struggles with strenuous activities, like daily water collection. She can either collect water from a nearby stream, or a borehole 15 km away (a 3 hour walk each way). \n\nWhat should Maryam choose to do?"
     },
     {
-      "Question": "Due to the general ban on girls attending secondary school, as few as 20% of Afghan girls attend school. However, Maryam lives in an area where she’s been able to continue her education now that her school has added extra Islamic classes.However, her family’s reduced food budget has left her at risk of anaemia, often feeling tired, struggling to focus at school, and forgetting information in class. Having recently started menstruating, iron is even more crucial. \n\nWith final exams next month, what should she do?",
       "Answers": [
         {
-          "Text": "Keep pushing through exams and try her best.",
-          "Note": "Maryam’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Lentils and chickpeas are affordable iron sources. Organisations like World Vision support girls being included in secondary school and run sessions on menstrual hygiene and anaemia treatment for teen girls at health facilities."
+          "Note": "Maryam’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Lentils and chickpeas are affordable iron sources. Organisations like World Vision support girls being included in secondary school and run sessions on menstrual hygiene and anaemia treatment.",
+          "Text": "Keep pushing through exams and try her best."
         },
         {
-          "Text": "Ask her mother or a female school teacher for advice.",
-          "Note": "Asking a trusted adult for help is wise. Lentils and chickpeas can boost iron levels.  Organisations like World Vision support girls being included in secondary school and run sessions on menstrual hygiene and anaemia treatment for teen girls at health facilities."
+          "Note": "Asking a trusted adult for help is wise. Lentils and chickpeas can boost iron levels. Organisations like World Vision support girls being included in secondary school and run sessions on menstrual hygiene and anaemia treatment.",
+          "Text": "Ask her mother or a female school teacher for advice."
         },
         {
-          "Text": "Start selling tissues or snacks on the side of the road before school to help support her family and earn enough money to pay for essentials, like sanitary pads and more protein sources.",
-          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Lentils and chickpeas are affordable iron sources. Organisations like World Vision support girls being included in secondary school and run sessions on menstrual hygiene and anaemia treatment for teen girls at health facilities."
+          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Lentils and chickpeas are affordable iron sources. Organisations like World Vision support girls being in secondary school and run sessions on menstrual hygiene and anaemia treatment.",
+          "Text": "Start selling snacks on the side of the road before school to help support her family and earn money to pay for essentials, like sanitary pads and more protein sources."
         }
-      ]
+      ],
+      "Question": "Due to the general ban on girls attending secondary school, as few as 20% of Afghan girls attend school. However, Maryam lives in an area where she’s been able to continue her education now that her school has added extra Islamic classes. Her family’s reduced food budget has left her at risk of anaemia, often feeling tired, struggling to focus, and forgetting information in class. Having recently started menstruating, iron is even more crucial. \n\nWith final exams next month, what should she do?"
     },
     {
-      "Question": "Maryam is 15 and still in school, but her parents want her to get married to relieve financial strain. She feels sad about her future and some girls in her village are already married. \n\nWhat should she tell her parents?",
       "Answers": [
         {
-          "Text": "Maryam should tell her parents she doesn’t want to get married now and ask a teacher to discuss the importance of delaying marriage until she’s older with her mother.",
-          "Note": "Child marriage affects 28% girls in Afghanistan. Pregnancy and childbirth complications are the primary causes of death for Afghan girls aged 15 to 19, due to factors such as inadequate access to healthcare, malnutrition, and the physical risks associated with young, underdeveloped bodies bearing children. Maryam should try to talk to her parents."
+          "Note": "Child marriage affects 28% girls in Afghanistan. Pregnancy and childbirth complications are the primary causes of death for Afghan girls aged 15 to 19, due to factors such as inadequate access to healthcare, malnutrition, and the physical risks associated with young, underdeveloped bodies bearing children. Maryam should try to talk to her parents.",
+          "Text": "Maryam should tell her parents she doesn’t want to and ask a teacher to discuss the importance of delaying until she’s older with her mother."
         },
         {
-          "Text": "Maryam should accept the marriage, she wouldn’t be able to go to university anyway.",
-          "Note": "Accepting early marriage may lead to interrupted education and limited economic opportunities for Maryam, trapping her in a cycle of poverty. It also poses significant health risks, including complications from early pregnancy and childbirth, which are leading causes of death among adolescent girls. Early marriage can also perpetuate gender inequality and increase the risk of domestic violence."
+          "Note": "Accepting early marriage may further limit Maryam's education and economic opportunities, trapping her in a cycle of poverty. It also poses significant health risks, including complications from early pregnancy and childbirth, which are leading causes of death among adolescent girls. Early marriage can also perpetuate gender inequality and increase the risk of domestic violence.",
+          "Text": "Maryam should accept the marriage, she wouldn’t be able to go to university anyway."
         }
-      ]
+      ],
+      "Question": "Maryam is 15 and still in school, but her parents want her to get married to relieve financial strain.\n\nWhat should she tell her parents?"
     }
   ],
   "stage03": [
     {
-      "Question": "Maryam is now married and responsible for food preparation. She struggles to cook enough for everyone with their limited budget, and her mother-in-law often beats her if she hasn’t completed all of the housework. Her husband gives her money; enough to buy some rice. \n\nWhat should Maryam do?",
       "Answers": [
         {
-          "Text": "Talk to her husband to try to get him to improve the situation.",
-          "Note": "This is a reasonable option, but culturally her new husband is likely to prioritise his mother and father over Maryam. Maryam could try to talk to a friend, who might have ideas for help or ways to earn more money."
+          "Note": "Culturally her new husband is likely to prioritise his mother and father over Maryam. Maryam could try to talk to a friend, who might have ideas for help or ways to earn more money.",
+          "Text": "Talk to her husband to try to get him to improve the situation."
         },
         {
-          "Text": "Go to her parents and see if they will take her back.",
-          "Note": "Maryam’s parents aren’t likely to take her back. She’s married now, taking her back would harm their reputation, and they can’t afford to take care of her. Maryam could try to talk to a friend, who might have ideas for help or ways to earn more money."
+          "Note": "Maryam’s parents aren’t likely to take her back; it would harm their reputation, and they can’t afford to take care of her. Maryam could try to talk to a friend, who might have ideas for help or ways to earn more money.",
+          "Text": "Go to her parents and see if they will take her back."
         }
-      ]
+      ],
+      "Question": "Maryam is now married and responsible for cooking for her new family. She struggles to cook enough with their budget, and her mother-in-law often beats her. \n\nWhat should Maryam do?"
     },
     {
-      "Question": "Maryam’s friend has given her an idea around starting a business; cooking homemade dishes and selling them, or sewing dresses for sale. Childhood malnutrition (stunting) makes her shorter and physical tasks are a challenge. \n\nWhat should she do?",
       "Answers": [
         {
-          "Text": "Maryam should start a cooking business.",
-          "Note": "Statistically, those stunted in childhood earn less as adults; in Afghanistan, this might mean $143.55 less per capita annually. While earning an income could help, it might not cover the cost of nutritious foods. As an Afghan girl, Maryam also has limited options for work; starting a cooking job is likely one of her only options. Even before the change in government, 66% Afghan girls were not in school or employed."
+          "Note": "Statistically, those stunted in childhood earn less as adults; in Afghanistan, this might mean $143.55 less a year. \n\nEarning her own money still might not cover the cost of nutritious foods. As an Afghan girl, Maryam also has limited choices; starting a cooking job is likely one of her only options. Even before the change in government, 66% Afghan girls were not in school or employed.",
+          "Text": "Maryam should start a cooking business."
         },
         {
-          "Text": "Maryam should find work as a seamstress.",
-          "Note": "Statistically, those stunted in childhood earn less as adults; in Afghanistan, this might mean $143.55 less per capita annually. While earning an income could help, it might not cover the cost of nutritious foods. As an Afghan girl, Maryam also has limited options for work; starting a sewing job is likely one of her only options. Even before the change in government, 66% Afghan girls were not in school or employed."
+          "Note": "Statistically, those stunted in childhood earn less as adults; in Afghanistan, this might mean $143.55 less a year. \n\nEarning her own money still might not cover the cost of nutritious foods. As an Afghan girl, Maryam also has limited choices; starting a sewing job is likely one of her only options. Even before the change in government, 66% Afghan girls were not in school or employed.",
+          "Text": "Maryam should find work as a seamstress."
         }
-      ]
+      ],
+      "Question": "Maryam’s friend has given her the idea of starting a business; cooking homemade dishes and selling them, but childhood malnutrition (stunting) makes her shorter and physical tasks are a challenge. \n\nWhat should she do?"
     },
     {
-      "Question": "Maryam tries to start a cooking business, but her husband is upset and says her working will harm their family’s reputation, and he doesn’t give his permission. \n\nHowever, they still don’t have a lot of money for food, what should she do?",
       "Answers": [
         {
-          "Text": "Maryam should focus on the housework at home, and help her mother in law more.",
-          "Note": "Helping her mother in law at home and obeying her husband is the culturally accepted option, but it still doesn’t solve Maryam’s food challenges. However, even if she were to persist with her business, malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ."
+          "Note": "Helping her mother in law and obeying her husband is the culturally accepted option, but it doesn’t solve Maryam’s challenges. However, even if she were to persist with her business, malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ.",
+          "Text": "Maryam should focus on housework at home, and help her mother in law more."
         },
         {
-          "Text": "Maryam should convince her husband that her cooking business will help improve their lives; there’s not enough food at home.",
-          "Note": "Convincing her husband is a positive achievement, but even if Maryam were to persist with her business, malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ. Helping her mother in law at home, and obeying her husband, is the culturally accepted option, but it wouldn’t solve Maryam’s food challenges."
+          "Note": "Convincing her husband is a positive achievement, but even if Maryam were to persist with her business, malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ.",
+          "Text": "Maryam should convince her husband that her cooking business will help improve their lives; there’s not enough food at home."
         }
-      ]
+      ],
+      "Question": "Maryam starts a cooking business, but her husband says she's harming their family’s reputation by working and he doesn’t give his permission. \n\nHowever, they still don’t have a lot of money for food, what should she do?"
     },
     {
-      "Question": "Maryam is 17, pregnant and expecting her first child. She feels extremely tired, and has been diagnosed with anaemia. The health clinic is far away from her village, and requires hiring a motorcycle driver to travel 2 hours to get to it, costing $3 each way which is a significant portion of her $50/week food budget. \n\nShould Maryam make the effort to go to her antenatal visits at the health centre?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Antenatal care visits are crucial as they provide essential health and nutrition services during pregnancy. Timely treatment for anaemia can reduce risks to Maryam’s health and improve her baby's chances of a healthy birth weight. World Vision works to provide mobile healthcare services and antenatal checks to girls and women in Afghanistan who do not have health centres nearby."
+          "Note": "Antenatal visits provide essential health and nutrition services during pregnancy. Treatment for anaemia can reduce risks to Maryam’s health and improve her baby's chances of a healthy birth weight. World Vision works to provide mobile healthcare services and antenatal checks to girls and women in Afghanistan who do not have health centres nearby.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Antenatal care is vital for providing necessary health and nutrition services during pregnancy. Addressing her anaemia promptly can lower health risks and ensure a healthier birth for her baby. World Vision works to provide mobile healthcare services and antenatal checks to girls and women in Afghanistan who do not have health centres nearby."
+          "Note": "Antenatal care is vital for health and nutrition services during pregnancy. Addressing her anaemia promptly can lower health risks and ensure a healthier birth for her baby. World Vision works to provide mobile healthcare services and antenatal checks to girls and women in Afghanistan who do not have health centres nearby.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Maryam is 17, pregnant and expecting her first child. She has been diagnosed with anaemia, but the health clinic is far away, and she has to hire a motorcycle driver to go. This costs $3 each way, a significant portion of her $50/week food budget. \n\nShould Maryam make the effort to go to the health centre?"
     },
     {
-      "Question": "Maryam went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough to support her growth and her baby's development. However, rising food prices in Afghanistan due to drought make it difficult for her to buy healthy, affordable food. \n\nWhat should Maryam do to ensure a healthy pregnancy for herself and her baby?",
       "Answers": [
         {
-          "Text": "Maryam can ask her husband and relatives for support to maintain a healthy pregnancy.",
-          "Note": "Maryam’s family gives her more food while she’s pregnant, especially in the hope that she’s having a baby boy. However, the family is still struggling to buy enough nutritious foods. Although her family can grow enough wheat for basic meals twice daily, they lack funds for essential protein and iron-rich foods. Over 36% of Afghans are food insecure. Maryam should consult a community health worker for affordable, locally grown foods to enhance her nutrition."
+          "Note": "Maryam’s family gives her more food while she’s pregnant in the hope that she’s having a boy. However, the family is still struggling. Although her family grows enough wheat for basic meals twice daily, they lack funds for essential protein and iron-rich foods. Over 36% of Afghans are food insecure. Maryam should consult a community health worker for affordable, locally grown foods to enhance her nutrition.",
+          "Text": "Maryam can ask her husband and relatives for support to maintain a healthy pregnancy."
         },
         {
-          "Text": "Maryam should choose cheaper food and try to ensure she gets enough energy from her meals.",
-          "Note": "While her family can make meals with the wheat they grow, they can't afford additional protein and iron-rich foods for Maryam’s pregnancy. Increased food prices mean many items are harder to find. Over 36% of Afghans are food insecure. Maryam should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet."
+          "Note": "While her family can make meals with the wheat they grow, they can't afford additional protein and iron-rich foods for Maryam’s pregnancy. Increased food prices mean many items are harder to find. Over 36% of Afghans are food insecure. Maryam should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet.",
+          "Text": "Maryam should choose cheaper food and try to ensure she gets enough energy from her meals."
         }
-      ]
+      ],
+      "Question": "Maryam went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough to support her growth and her baby's development. However, rising food prices in Afghanistan make it difficult for her to buy healthy, affordable food. \n\nWhat should Maryam do to ensure a healthy pregnancy for herself and her baby?"
     },
     {
-      "Question": "After childbirth, Maryam is very weak and struggling to recover, and resume her duties at home and her cooking business. She desperately wants a better future for her new daughter. \n\nWhat should Maryam do?",
       "Answers": [
         {
-          "Text": "Seek nutrition advice from an NGO like World Vision to try to find better foods.",
-          "Note": "Maryam needs to improve her own nutrition so she can be strong for her daughter (and also provide breastmilk). She should talk to an NGO, like World Vision, for support with nutrition advice, or help her sign up for programmes raising livestock and growing more vegetables herself."
+          "Note": "Maryam needs to improve her own nutrition so she can be strong for her daughter (and also provide breastmilk). She should talk to an NGO like World Vision for nutrition advice, or to sign up for programmes raising livestock and growing more vegetables herself.",
+          "Text": "Seek nutrition advice from an NGO like World Vision to try to find better foods."
         },
         {
-          "Text": "Focus on restarting her business in order to earn more money for the other things.",
-          "Note": "Maryam needs to improve her own nutrition first so she can be strong for her daughter (and also provide breastmilk). She should talk to an NGO like World Vision for support with nutrition advice, or help her sign up for programmes raising livestock and growing more vegetables herself."
+          "Note": "Maryam needs to improve her own nutrition first so she can be strong for her daughter (and also provide breastmilk). She should talk to an NGO like World Vision for nutrition advice, or to sign up for programmes raising livestock and growing more vegetables herself.",
+          "Text": "Focus on restarting her business in order to earn more money for the other things."
         }
-      ]
+      ],
+      "Question": "After childbirth, Maryam is struggling to recover and resume her duties at home and her cooking business. She desperately wants a better future for her new daughter. \n\nWhat should Maryam do?"
     }
   ]
 }

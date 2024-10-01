@@ -28,13 +28,13 @@
             "playerName": "Ana",
             "countryName": "Espagne",
             "key": "spain",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Maryam",
             "countryName": "Afghanistan",
             "key": "afghanistan",
-            "active": false
+            "active": true
         },
         {
             "playerName": "Malai",

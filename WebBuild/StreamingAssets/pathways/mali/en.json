@@ -1,172 +1,172 @@
 {
   "stage01": [
     {
-      "Question": "When Oumou was born, she cried a lot, and her mother doubted her breast milk was enough. A community member suggested giving her watery porridge. \n\nWhat should Oumou’s mother do?",
       "Answers": [
         {
-          "Text": "Keep breastfeeding every time Oumou seems hungry.",
-          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Oumou’s first six months. It provides the perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections."
+          "Note": "Exclusive breastfeeding is ideal. Breast milk provides all necessary nutrition for Oumou’s first six months. It provides the perfect balance of nutrients, antibodies, and enzymes are essential for a baby’s healthy development. Unclean water and liquids other than breastmilk can increase the risk of infections.",
+          "Text": "Keep breastfeeding every time Oumou seems hungry."
         },
         {
-          "Text": "Start giving her some watery porridge and see if it helps.",
-          "Note": "Watery porridge is actually worse for Oumou. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Introducing them won't provide enough essential nutrients that are crucial for a baby's growth and development."
+          "Note": "Watery porridge is actually worse for Oumou. Exclusive breastfeeding ensures all her nutritional needs are met and prevents potential sickness from unsafe sources. Her body isn't prepared for other foods yet. Introducing them won't provide enough essential nutrients that are crucial for a baby's growth and development.",
+          "Text": "Start giving her some watery porridge and see if it helps."
         }
-      ]
+      ],
+      "Question": "When Oumou was born, she cried a lot, and her mother doubted her breast milk was enough. A community member suggested giving her watery porridge. \n\nWhat should Oumou’s mother do?"
     },
     {
-      "Question": "Oumou has just turned 1, and her mother knows a healthy diet is crucial for her development. After receiving advice from a community health worker, she learned about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. \n\nWith an average income of $150 per month, and a nutritious food basket costing $21.53, what should she prioritise to improve their iron levels?",
       "Answers": [
         {
-          "Text": "Guava cost: \n$.80 to $2.50 per kilogramme on average.",
-          "Note": "Guavas are low in iron but high in Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Oumou’s iron issue."
+          "Note": "Guavas are low in iron but high in Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Oumou’s iron issue.",
+          "Text": "Guava cost: \n$.80 to $2.50 per kilogramme on average."
         },
         {
-          "Text": "Fortified breakfast cereals cost: \n$2.50 to $8.00 average per box.",
-          "Note": "Many breakfast cereals are fortified with iron, but even the cheapest options come at a high cost to Oumou’s mother, which could mean sacrificing protein intake for a few days."
+          "Note": "Many breakfast cereals are fortified with iron, but even the cheapest options come at a high cost to Oumou’s mother, which could mean sacrificing protein intake for a few days.",
+          "Text": "Fortified breakfast cereals cost: \n$2.50 to $8.00 average per box."
         },
         {
-          "Text": "Chickpeas cost: \n$2.50 to $6.00 average per kilogramme.",
-          "Note": "Cooked lentils are a good choice for Oumou’s mother. They provide about 4.7 mg of iron per cup, fitting the 7 mg recommended iron intake for children Oumou’s age and offering a cost-effective solution."
+          "Note": "Cooked lentils are a good choice for Oumou’s mother. They provide about 4.7 mg of iron per cup, fitting the 7 mg recommended iron intake for children Oumou’s age and offering a cost-effective solution.",
+          "Text": "Chickpeas cost: \n$2.50 to $6.00 average per kilogramme."
         }
-      ]
+      ],
+      "Question": "Oumou has just turned 1, and her mother knows a healthy diet is crucial for her development. After receiving advice from a community health worker, she learned about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. \n\nWith an average income of $150 per month, and a nutritious food basket costing $21.53, what should she prioritise to improve their iron levels?"
     },
     {
-      "Question": "Oumou has had an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution for Oumou. Oumou’s mother passes by a street vendor selling soap. \n\nShould her mother buy soap?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Oumou feels better after the oral rehydration solution, and her mum's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing, especially after using the toilet and before preparing or eating food, removes harmful pathogens such as viruses and bacteria that can cause diarrheal illnesses."
+          "Note": "Oumou feels better after the oral rehydration solution, and her mum's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing, especially after using the toilet and before preparing or eating food, removes harmful pathogens such as viruses and bacteria that can cause diarrhoeal illnesses.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Oumou feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections."
+          "Note": "Oumou feels better after the oral rehydration solution, but poor hygiene at home leads to regular diarrhoea, hindering her growth, nutrition absorption, and eventually causing stunted growth from frequent infections.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Oumou has had an upset stomach and diarrhoea for more than a day. Her mother visits a local health worker who emphasises good hygiene, like handwashing with soap, and gives her an oral rehydration solution for Oumou. Oumou’s mother passes by a street vendor selling soap. \n\nShould her mother buy soap?"
     }
   ],
   "stage02": [
     {
-      "Question": "Oumou has not eaten much meat growing up and has recently started menstruating, making iron is even more crucial. She's at risk of anaemia, often feeling tired, struggling to focus at school, and forgetting information in class. She frequently misses school due to lack of washroom access, and the high cost and scarcity of sanitary pads.\n\nWith final exams next month, what should she do?",
       "Answers": [
         {
-          "Text": "Keep pushing through exams and try her best.",
-          "Note": "Oumou’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Leafy greens like amaranth and moringa, beans and peanuts are affordable iron sources, and organisations like World Vision can help girls make sanitary napkins and combat menstruation stigma. Every girl should stay in school until at least the age of 18."
+          "Note": "Oumou’s focus on school is important, but she's struggling. Asking a trusted adult for help is wise. Leafy greens like amaranth and moringa, beans and peanuts are affordable iron sources, and organisations like World Vision can help girls make sanitary napkins and combat menstruation stigma. Every girl should stay in school until at least the age of 18.",
+          "Text": "Keep pushing through exams and try her best."
         },
         {
-          "Text": "Ask her mother or a female school teacher for advice.",
-          "Note": "Asking a trusted adult for help is wise. Affordable beans and leafy greens can boost iron levels, and programmes exist to support girls with menstrual needs and stigma. Oumou, and every girl, should be able to stay in school until age 18."
+          "Note": "Asking a trusted adult for help is wise. Affordable beans and leafy greens can boost iron levels, and programmes exist to support girls with menstrual needs and stigma. Oumou, and every girl, should be able to stay in school until age 18.",
+          "Text": "Ask her mother or a female school teacher for advice."
         },
         {
-          "Text": "Begin baking and selling snacks on the side of the road before school to help support her family and cover essentials like sanitary pads and more protein sources.",
-          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Leafy greens like amaranth and moringa, beans, and peanuts are affordable iron sources, and programmes can assist with menstrual needs. Every girl should have the right to complete secondary school."
+          "Note": "While earning money shows initiative, it might risk exploitation. Asking a trusted adult for help is better. Leafy greens like amaranth and moringa, beans, and peanuts are affordable iron sources, and programmes can assist with menstrual needs. Every girl should have the right to complete secondary school.",
+          "Text": "Begin baking and selling snacks on the side of the road before school to help support her family and cover essentials like sanitary pads and more protein sources."
         }
-      ]
+      ],
+      "Question": "Oumou has not eaten much meat growing up and has recently started menstruating, making iron is even more crucial. She's at risk of anaemia, often feeling tired, struggling to focus at school, and forgetting information in class. She frequently misses school due to lack of washroom access, and the high cost and scarcity of sanitary pads.\n\nWith final exams next month, what should she do?"
     },
     {
-      "Question": "Oumou has always been small for her age due to stunting, especially before age 2. Changing rain patterns in Mali have severely impacted crops, raising food prices. Because of stunting, she struggles with strenuous activities, like daily water collection. She can either collect water from a nearby slow-moving stream or a borehole 4 km away (a 45-minute walk each way). \n\nWhat should Oumou choose to do?",
       "Answers": [
         {
-          "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk far, and the small fee to use the borehole can be spent on food.",
-          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Oumou and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer; if the distance is tough, Oumou can ask a sibling for help."
+          "Note": "Surface water is often contaminated, posing a danger of parasites and germs, without treatment. This could make Oumou and her family sick, resulting in healthcare costs and no extra money for food. Using the borehole is safer. ",
+          "Text": "Collect water from the nearby stream. This way, she doesn’t have to walk far, and the small fee to use the borehole can be spent on food."
         },
         {
-          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance.",
-          "Note": "Going to the borehole is extra effort, but ensures long-term health benefits for Oumou and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored, and a sibling could help her carry the water."
+          "Note": "Going to the borehole is extra effort, but ensures long-term health benefits for Oumou and her family. Surface water contamination increases the risk for water-borne diseases and adds healthcare costs, which wouldn't save money for food. The borehole provides a healthier option if the water is safely collected and stored.",
+          "Text": "Force herself to make the journey to the borehole to access clean water, despite the longer distance."
         }
-      ]
+      ],
+      "Question": "Oumou has always been small for her age due to stunting, especially before age 2. Changing rain patterns in Mali have severely impacted crops, raising food prices. Because of stunting, she struggles with strenuous activities, like daily water collection. She can either collect water from a nearby slow-moving stream or a borehole 4 km away (a 45-minute walk each way). \n\nWhat should Oumou choose to do?"
     },
     {
-      "Question": "Education is very important for Oumou’s future. At 15, she is preparing for her lower secondary exam, but less than 40% of girls her age complete this stage of education. Her tuition is free, but there are costs for school supplies and transportation. \n\nCan her family afford to keep sending Oumou to school?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Considering that the average cost of living in Mali is $560 (330,000 XOF) it's a struggle for  Oumou’s family to afford school costs. Only 29% of girls in Mali are enrolled in secondary school. However, completing her education greatly impacts her future opportunities. Girls who stay in school longer marry later, have healthier children, and better health and nutrition."
+          "Note": "Considering that the average cost of living in Mali is $560 (330,000 XOF) it's a struggle for Oumou’s family to afford school costs. Only 29% of girls in Mali are enrolled in secondary school. However, completing her education greatly impacts her future opportunities. Girls who stay in school longer marry later, have healthier children, and better health and nutrition.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Education significantly affects Oumou’s future prospects. Staying in school leads to later marriage, healthier children, and better health and nutrition. Despite these benefits, the high fees against the average cost of living in Mali is $560 (330,000 XOF) making it difficult for her family to continue to afford the costs associated with school.Only 15% of girls in Mali are enrolled in secondary school."
+          "Note": "Education significantly affects Oumou’s future prospects. Staying in school leads to later marriage, healthier children, and better health and nutrition. Despite these benefits, the high fees against the average cost of living in Mali is $560 (330,000 XOF) making it difficult for her family to continue to afford the costs associated with school. Only 15% of girls in Mali are enrolled in secondary school.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Education is very important for Oumou’s future. At 15, she is preparing for her lower secondary exam, but less than 40% of girls her age complete this stage of education. Her tuition is free, but there are costs for school supplies and transportation. \n\nCan her family afford to keep sending Oumou to school?"
     },
     {
-      "Question": "Oumou is 16, and her parents want her to leave school and get married to relieve financial strain. She feels sad as more than 15% of girls in her village are already married and have dropped out of school as a result. Oumou wants to stay in school and marry later. \n\nWhat should she tell her parents?",
       "Answers": [
         {
-          "Text": "Oumou should tell her parents she doesn’t want to get married now and ask a teacher or faith leader to discuss the importance of education with them.",
-          "Note": "Child marriage affects 54% of girls in Mali, and 16% of girls are married before age 15. Oumou should express her desire to stay in school; married teens often leave school permanently. Her growth is incomplete, and pregnancy could lead to severe complications or death. Adolescent pregnancies, including unsafe abortions, are the leading cause of death for girls aged 15-19."
+          "Note": "Child marriage affects 54% of girls in Mali, and 16% of girls are married before age 15. Oumou should express her desire to stay in school. Her growth is incomplete, and pregnancy could lead to severe complications or death. Adolescent pregnancies, including unsafe abortions, are the leading cause of death for girls aged 15-19.",
+          "Text": "Oumou should tell her parents she doesn’t want to get married now and ask a teacher or faith leader to discuss the importance of education with them."
         },
         {
-          "Text": "Oumou should accept the marriage and try to return to school later.",
-          "Note": "Accepting marriage risks her never returning to school. Child marriage impacts 54% of girls in Mali. Married teens often leave school permanently. As Oumou hasn’t completed growing, pregnancy could cause severe complications, increasing health risks. Pregnancy complications are the leading cause of death for girls aged 15-19."
+          "Note": "Accepting marriage risks her never returning to school. Child marriage impacts 54% of girls in Mali. Married teens often leave school permanently. As Oumou hasn’t completed growing, pregnancy could cause severe complications, increasing health risks. Pregnancy complications are the leading cause of death for girls aged 15-19.",
+          "Text": "Oumou should accept the marriage and try to return to school later."
         }
-      ]
+      ],
+      "Question": "Oumou is 16, and her parents want her to leave school and get married to relieve financial strain. She feels sad as more than 15% of girls in her village are already married and have dropped out of school as a result. Oumou wants to stay in school and marry later. \n\nWhat should she tell her parents?"
     }
   ],
   "stage03": [
     {
-      "Question": "Oumou is now married and responsible for cooking and helping tend crops for her new family. A drought in Mali has devastated their maize crop, and she can't afford extra food from the market. Her husband gives her money; enough to buy some millet. \n\nShould Oumou start a business to cover the budget gap?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Oumou considers starting a handicraft business, like her neighbours, for additional income, and thinks of reaching out to relatives in the city for job opportunities, as her husband works there. Girls who work often earn less than men; about 23% less globally, and with rising food costs, this will impact her ability to maintain a nutritious diet."
+          "Note": "Oumou considers starting a handicraft business, like her neighbours, for additional income, and thinks of reaching out to relatives in the city for job opportunities, as her husband works there. Girls who work often earn less than men, about 23% less globally. With rising food costs, this will impact her ability to maintain a nutritious diet.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "While earning an income could help, it might not cover the cost of nutritious foods. She hasn’t finished her education, making a well-paying job unlikely. Oumou could contact  relatives in the city for job leads. If they find employment, women typically earn less than men, impacting them further amid high food prices."
+          "Note": "While earning an income could help, it might not cover the cost of nutritious foods. She hasn’t finished her education, making a well-paying job unlikely. Oumou could contact relatives in the city for job leads. If they find employment, women typically earn less than men, impacting them further amid high food prices.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Oumou is now married and responsible for cooking and helping tend crops for her new family. A drought in Mali has devastated their maize crop, and she can't afford extra food from the market. Her husband gives her money; enough to buy some millet. \n\nShould Oumou start a business to cover the budget gap?"
     },
     {
-      "Question": "Oumou, now 17, has moved to the city to join her husband, and found work as a housemaid. Childhood malnutrition (stunting) makes the long hours and household chores tiring. Pay is low, and she misses her village.\n\nShould she stay working there?",
       "Answers": [
         {
-          "Text": "Oumou should stay at the job.",
-          "Note": "Statistically, those stunted in childhood earn less as adults; in Mali, this might mean $86.39 less per capita annually. Oumou’s choice to continue working reflects limited options, but city living costs are high, and accessing nutritious food is difficult due to prices. She depends on relatives' goodwill for support."
+          "Note": "Statistically, those stunted in childhood earn less as adults; in Mali, this might mean $86.39 less per capita annually. Oumou’s choice to continue working reflects limited options, but city living costs are high, and accessing nutritious food is difficult due to prices. She depends on relatives' goodwill for support.",
+          "Text": "Oumou should stay at the job."
         },
         {
-          "Text": "Oumou should leave the job and find other work.",
-          "Note": "Childhood stunting often results in lower adult earnings; in Mali, this could be $86.39 less annually. Oumou's search for different work makes life unstable, as she balances working as household help 6 days a week. Despite her desire for a balanced diet, high city living costs and food prices complicate accessing fresh produce, leaving her reliant on relatives' goodwill."
+          "Note": "Childhood stunting often results in lower adult earnings. In Mali, this could be $86.39 less annually. Oumou's search for different work makes life unstable, as she balances working as household help 6 days a week. Despite her desire for a balanced diet, high city living costs and food prices complicate accessing fresh produce, leaving her reliant on relatives' goodwill.",
+          "Text": "Oumou should leave the job and find other work."
         }
-      ]
+      ],
+      "Question": "Oumou, now 17, has moved to the city to join her husband, and found work as a housemaid. Childhood malnutrition (stunting) makes the long hours and household chores tiring. Pay is low, and she misses her village.\n\nShould she stay working there?"
     },
     {
-      "Question": "Oumou, still working as a housemaid, seeks to start a business. She's considering a market stall, a loan for a sewing machine to work as a seamstress, or a food business cooking for labourers. However, she hasn't secured funding for any ideas. \n\nWhat should Oumou do?",
       "Answers": [
         {
-          "Text": "Oumou should keep looking for a loan.",
-          "Note": "Oumou lacks savings to start a business but could seek a microfinance organisation like Vision Fund for a small loan. This isn't easy. Malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ. Women's height correlates to wages: every 1 cm increase predicts a 6% wage increase."
+          "Note": "Oumou lacks savings to start a business but could seek a microfinance organisation like VisionFund for a small loan. This isn't easy. Malnutrition raises unemployment risk by 12%, and anaemia's long-term effects can reduce productivity and IQ. Women's height correlates to wages: every 1 cm increase predicts a 6% wage increase.",
+          "Text": "Oumou should keep looking for a loan."
         },
         {
-          "Text": "Oumou should stay at her current job and stop this idea of starting a business.",
-          "Note": "If Oumou stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability."
+          "Note": "If Oumou stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability.",
+          "Text": "Oumou should stay at her current job and stop this idea of starting a business."
         }
-      ]
+      ],
+      "Question": "Oumou, still working as a housemaid, seeks to start a business. She's considering a market stall, a loan for a sewing machine to work as a seamstress, or a food business cooking for labourers. However, she hasn't secured funding for any ideas. \n\nWhat should Oumou do?"
     },
     {
-      "Question": "Oumou is pregnant and expecting her first child. She’s worried about not being able to work, feels extremely tired, and has been diagnosed with anaemia. She dislikes going to antenatal visits because they’re hard to fit in around household chores, and health workers are disrespectful towards her. \n\nShould Oumou continue attending her antenatal visits at the health centre?",
       "Answers": [
         {
-          "Text": "Yes",
-          "Note": "Antenatal care visits are crucial as they provide essential health and nutrition services during pregnancy. Timely treatment for anaemia can reduce risks for Oumou and improve her baby's chances of a healthy birth weight. Health services should enhance antenatal support for adolescent girls and young women."
+          "Note": "Antenatal care visits are crucial as they provide essential health and nutrition services during pregnancy. Timely treatment for anaemia can reduce risks for Oumou and improve her baby's chances of a healthy birth weight. Health services should enhance antenatal support for adolescent girls and young women.",
+          "Text": "Yes"
         },
         {
-          "Text": "No",
-          "Note": "Antenatal care is vital for providing necessary health and nutrition services during pregnancy. Addressing her anaemia promptly can lower risks and ensure a healthier birth for her baby. Oumou requires supplements and ongoing care from healthcare providers for guidance on affordable iron sources. Improving antenatal services for young women is essential."
+          "Note": "Antenatal care is vital for providing necessary health and nutrition services during pregnancy. Addressing her anaemia promptly can lower risks and ensure a healthier birth for her baby. Oumou requires supplements and ongoing care from healthcare providers for guidance on affordable iron sources. Improving antenatal services for young women is essential.",
+          "Text": "No"
         }
-      ]
+      ],
+      "Question": "Oumou is pregnant and expecting her first child. She’s worried about not being able to work, feels extremely tired, and has been diagnosed with anaemia. She dislikes going to antenatal visits because they’re hard to fit in around household chores, and health workers are disrespectful towards her. \n\nShould Oumou continue attending her antenatal visits at the health centre?"
     },
     {
-      "Question": "Oumou went to the health centre, where she received iron treatment and folic acid supplements after her anaemia improved. As a pregnant adolescent, she must consume enough nutritious food to support her growth and her baby's development. However, rising food prices in Mali due to climate change and inflation make it difficult for her to buy healthy, affordable food. \n\nWhat should Oumou do to ensure a healthy pregnancy for herself and her baby?",
       "Answers": [
         {
-          "Text": "Oumou can ask her husband and relatives for support to maintain a healthy pregnancy.",
-          "Note": "Oumou may struggle to get family support. Rising food prices make it hard to access nutritious foods. Although her family can grow enough maize for basic porridge twice daily, they lack funds for essential protein and iron-rich foods. Over 25% of people in Mali experience food insecurity. Oumou should consult a community health worker for affordable, locally grown foods to enhance her nutrition."
+          "Note": "Oumou may struggle to get family support. Rising food prices make it hard to access nutritious foods. Although her family can grow enough maize for basic porridge twice daily, they lack funds for essential protein and iron-rich foods. Over 25% of people in Mali experience food insecurity. Oumou should consult a community health worker for affordable, locally grown foods to enhance her nutrition.",
+          "Text": "Oumou can ask her husband and relatives for support to maintain a healthy pregnancy."
         },
         {
-          "Text": "Oumou should choose cheaper food and ensure she gets enough energy from her meals.",
-          "Note": "While her family can make porridge with the maize they grow, they can't afford additional protein and iron-rich foods for Oumou's pregnancy. Increased food prices mean many items are harder to find. Over 25% of people in Mali experience food insecurity. Oumou should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet."
+          "Note": "While her family can make porridge with the maize they grow, they can't afford additional protein and iron-rich foods for Oumou's pregnancy. Increased food prices mean many items are harder to find. Over 25% of people in Mali experience food insecurity. Oumou should reach out to a community health worker for advice on affordable, locally grown foods to improve her diet.",
+          "Text": "Oumou should choose cheaper food and ensure she gets enough energy from her meals."
         }
-      ]
+      ],
+      "Question": "Oumou went to the health centre, where she received iron treatment and folic acid supplements which helped her anaemia to improve. As a pregnant adolescent, she must consume enough nutritious food to support her growth and her baby's development. However, rising food prices in Mali due to climate change and inflation make it difficult for her to buy healthy, affordable food. \n\nWhat should Oumou do to ensure a healthy pregnancy for herself and her baby?"
     }
   ]
 }

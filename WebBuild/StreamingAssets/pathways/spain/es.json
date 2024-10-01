@@ -1,0 +1,229 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Forzar a Ana a comer los purés para que se acostumbre a los nuevos alimentos."
+        },
+        {
+          "Note": "",
+          "Text": "Continuar amamantando exclusivamente y esperar hasta que Ana esté más preparada para los sólidos."
+        },
+        {
+          "Note": "",
+          "Text": "Ofrecer a Ana una variedad de alimentos sólidos y continuar con la lactancia materna para complementar su dieta."
+        }
+      ],
+      "Question": "Ana tiene 6 meses y su madre ha comenzado a introducir alimentos sólidos en su dieta. Sin embargo, Ana no parece interesada en comer purés y llora mucho durante las comidas.\n\n¿Qué debería hacer su madre?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Permitirle comer galletas pero asegurarse de que coma suficiente cantidad para llenarse."
+        },
+        {
+          "Note": "",
+          "Text": "Intentar incorporar frutas y verduras de manera creativa en su dieta, como en purés o batidos."
+        },
+        {
+          "Note": "",
+          "Text": "Prohibirle completamente las galletas para que no tenga otra opción que comer frutas y verduras."
+        }
+      ],
+      "Question": "La hija de María, de 2 años, prefiere comer galletas y otros alimentos ultraprocesados en lugar de frutas y verduras.\n\n¿Qué debería hacer María?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Dejar que Laura continúe sin desayunar, ya que es importante respetar sus señales de hambre."
+        },
+        {
+          "Note": "",
+          "Text": "Preparar un desayuno ligero pero nutritivo que incluya opciones como frutas, yogur y cereales integrales."
+        },
+        {
+          "Note": "",
+          "Text": "Darle a Laura una bebida energética para que tenga más energía durante el día."
+        }
+      ],
+      "Question": "Laura, de 8 años, no suele desayunar porque dice que no tiene hambre por la mañana. Sin embargo, después de unas horas en la escuela, se siente cansado y tiene dificultades para concentrarse.\n\n¿Qué debería hacer su madre?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Llevarla a un nutricionista para evaluar su dieta y asegurarse de que esté recibiendo la nutrición adecuada."
+        },
+        {
+          "Note": "",
+          "Text": "Aumentar la cantidad de comida basura que consume para que gane peso rápidamente."
+        },
+        {
+          "Note": "",
+          "Text": "Reducir su nivel de actividad física para evitar que queme demasiadas calorías."
+        }
+      ],
+      "Question": "Raquel, de 10 años, es muy activa y practica varios deportes. Sus padres notan que ha estado perdiendo peso últimamente.\n\n¿Qué deben hacer sus padres?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Sustituir las bebidas azucaradas por zumos naturales y agua, y limitar su consumo de azúcar."
+        },
+        {
+          "Note": "",
+          "Text": "Continuar dándole bebidas azucaradas pero solo en las comidas principales."
+        },
+        {
+          "Note": "",
+          "Text": "Permitirle beber lo que quiera, ya que es joven y tiene mucho tiempo para cambiar sus hábitos."
+        }
+      ],
+      "Question": "Paula, de 4 años, merienda todas las tardes un batido de chocolate envasado, ahora sus padres es´tan preocupados pero ya no pueden cambiar este hábito.\n\n¿Qué deberían hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Ofrecerle alternativas como nueces, semillas y aceites vegetales que también son ricos en omega-3."
+        },
+        {
+          "Note": "",
+          "Text": "Sustituir el pescado por alguna comida ultraprocesada que sí puede permitirse, pensando que le va a alimentar igual."
+        },
+        {
+          "Note": "",
+          "Text": "Dejar de preocuparse por los omega-3, ya que no son esenciales."
+        }
+      ],
+      "Question": "La madre de Carla, de 7 años, no puede permitirse comprar pescado a pesar de que sabe que es una buena fuente de ácidos grasos omega-3.\n\n¿Qué debería hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Modificar las comidas fuera de casa y elegir opciones más saludables como ensaladas y platos a la parrilla."
+        },
+        {
+          "Note": "",
+          "Text": "Dejar de comer fuera de casa por completo y cocinar solo en casa."
+        },
+        {
+          "Note": "",
+          "Text": "No hacer ningún cambio, ya que comer fuera es una parte importante de su vida social."
+        }
+      ],
+      "Question": "La madre de Nora, de 9 años, suele comer fuera de casa varias veces por semana en restaurantes de comida rápida, al ser madre soltera y trabajadora no tiene tiempo para cocinar. Nora ha ganado peso recientemente.\n\n¿Qué deberían hacer?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Sustituir los snacks por opciones más saludables como frutas, yogur natural y frutos secos."
+        },
+        {
+          "Note": "",
+          "Text": "Permitirle seguir comiendo snacks pero reducir la cantidad."
+        },
+        {
+          "Note": "",
+          "Text": "Dejar que Inés decida cuándo y qué comer, para que aprenda a controlar sus propios hábitos alimenticios."
+        }
+      ],
+      "Question": "Inés, de 11 años, a menudo toma snacks como patatas fritas y bollería entre comidas. Sus padres están preocupados por su alimentación.\n\n¿Qué deberían hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Consultar a un nutricionista para asegurarse de que la dieta vegetariana de Claudia sea equilibrada y rica en proteínas, hierro y vitaminas."
+        },
+        {
+          "Note": "",
+          "Text": "Convencerla para que vuelva a comer carne, al menos una vez por semana."
+        },
+        {
+          "Note": "",
+          "Text": "Dejar que Claudia siga su dieta sin supervisión, confiando en que tomará buenas decisiones."
+        }
+      ],
+      "Question": "Claudia, de 14 años, ha decidido convertirse en vegetariana, pero sus padres están preocupados por si recibe suficientes nutrientes.\n\n¿Qué deberían hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Permitir que continúe tomando bebidas energéticas para mantenerse hidratado."
+        },
+        {
+          "Note": "",
+          "Text": "Sustituir las bebidas energéticas por opciones más saludables como agua, bebidas deportivas naturales o zumos sin azúcar añadida."
+        },
+        {
+          "Note": "",
+          "Text": "Limitar su consumo a una lata a la semana."
+        }
+      ],
+      "Question": "A Daniela, de 12 años, le gusta mucho tomar bebidas energéticas, especialmente después de hacer deporte. Sus padres están preocupados porque ha estado consumiendo una lata todos los días.\n\n¿Qué deberían hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Ignorar el problema, ya que es probable que sea una fase temporal."
+        },
+        {
+          "Note": "",
+          "Text": "Hablar con Julia sobre la importancia de una alimentación equilibrada y consultar a un profesional de la salud o un nutricionista para obtener orientación."
+        },
+        {
+          "Note": "",
+          "Text": "Forzarla a comer en todas las comidas para asegurarse de que no pierda más peso."
+        }
+      ],
+      "Question": "Julia, de 15 años, se ha vuelto muy consciente de su imagen corporal y ha comenzado a saltarse comidas para perder peso. Sus padres están preocupados por su salud física y emocional.\n\n¿Qué deberían hacer?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Continuar con sus hábitos, así el resto de las personas de su entorno no se enterarán de su situación financiera."
+        },
+        {
+          "Note": "",
+          "Text": "Acudir a organizaciones locales que pueden ayudarles como comedores sociales a los que pueden acudir."
+        },
+        {
+          "Note": "",
+          "Text": "Reducir aún más el consumo de alimentos saludables, con el mismo presupuesto pueden pagar más bollería y galletas que alimentarán a Alma."
+        }
+      ],
+      "Question": "Los padres de Alma no tienen recursos ya que ninguno de los dos tiene ahora mismo una fuente de ingresos. La alimentación de Alma es muy deficiente sin fruta, pescado o carne y abusando de la comida procesada que es la que pueden pagar en el supermercado.\n\n¿Qué opciones tienen?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "",
+          "Text": "Comer en la cafetería del instituto paagando el menú a 10€ aproximadamente"
+        },
+        {
+          "Note": "",
+          "Text": "Irse a casa y preparar una comida equilibrada"
+        },
+        {
+          "Note": "",
+          "Text": "Pasar por el supermercado y comprar algo de comida rápida ultraprocesada"
+        }
+      ],
+      "Question": "Clara, tiene 14 años y a las 14.30 termina su jornada laboral, sus padres están trabajando a esa hora por lo que tiene que buscar opciones para comer.\n\n¿Qué podría elegir?"
+    }
+  ]
+}

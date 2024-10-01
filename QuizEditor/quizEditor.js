@@ -94,7 +94,7 @@ function addAnswer(stageKey, questionIndex) {
 }
 
 function removeQuestion(stageKey, questionIndex) {
-    if(!confirm('Are you sure you want to remove this question?'))
+    if (!confirm('Are you sure you want to remove this question?'))
         return;
 
     quizData[stageKey].splice(questionIndex, 1);
@@ -103,7 +103,7 @@ function removeQuestion(stageKey, questionIndex) {
 }
 
 function removeAnswer(stageKey, questionIndex, answerIndex) {
-    if(!confirm('Are you sure you want to remove this answer?'))
+    if (!confirm('Are you sure you want to remove this answer?'))
         return;
 
     quizData[stageKey][questionIndex].Answers.splice(answerIndex, 1);
@@ -293,6 +293,65 @@ async function saveQuiz() {
     }
 }
 
+async function exportAll() {
+    const dbPath = 'https://enough-wv-default-rtdb.europe-west1.firebasedatabase.app/pathways.json';
+    let jsonData = {};
+
+    showLoadingOverlay();
+    try {
+        const response = await fetch(dbPath, {
+            method: 'GET',
+            headers: {
+                'Content-Type': 'application/json'
+            }
+        });
+        if (!response.ok) {
+            throw new Error(`HTTP error! status: ${response.status}`);
+        }
+
+        const loadedJSON = await response.json();
+        if (loadedJSON === null || loadedJSON === undefined) {
+            throw new Error(`Quiz not found in db`);
+        }
+
+        jsonData = loadedJSON;
+    } catch (error) {
+        hideLoadingOverlay();
+        console.error("Error loading quiz:", error);
+        alert("Requested quiz wasn't found! create new one.");
+        return;
+    }
+    finally {
+        hideLoadingOverlay();
+    }
+
+    showLoadingOverlay();
+    try {
+        // Request permission to access file system
+        const dirHandle = await window.showDirectoryPicker({ startIn: "downloads" });
+
+        for (const [pathwayKey, pathwayData] of Object.entries(jsonData)) {
+            // Create pathway directory
+            const pathwayDirHandle = await dirHandle.getDirectoryHandle(pathwayKey, { create: true });
+
+            for (const [locale, localeData] of Object.entries(pathwayData)) {
+                const fileName = `${locale}.json`;
+                const fileHandle = await pathwayDirHandle.getFileHandle(fileName, { create: true });
+                const writable = await fileHandle.createWritable();
+                await writable.write(JSON.stringify(localeData, null, 2));
+                await writable.close();
+            }
+        }
+
+        document.getElementById('output').textContent = 'Export completed successfully!';
+    } catch (error) {
+        console.error('An error occurred during export:', error);
+    }
+    finally {
+        hideLoadingOverlay();
+    }
+}
+
 // Save collapsed state
 function saveCollapseState(stageDiv) {
     const stageKey = Object.keys(quizData)[Array.from(stageDiv.parentElement.children).indexOf(stageDiv)];
@@ -347,6 +406,11 @@ function renderHomePage() {
 
         pathwaySelectorDiv.appendChild(pathwayCard);
     }
+
+    const actionButtonsDiv = document.createElement('div');
+    actionButtonsDiv.className = "action-buttons";
+    actionButtonsDiv.innerHTML = `<button onclick="exportAll()">Export all</button>`;
+    document.body.appendChild(actionButtonsDiv);
 }
 
 function renderLanguagesPage() {
@@ -369,7 +433,7 @@ function renderLanguagesPage() {
     }
 }
 
-function renderQuizPage(){
+function renderQuizPage() {
     const editorDiv = document.createElement('div');
     editorDiv.id = "editor";
     editorDiv.innerHTML = '';

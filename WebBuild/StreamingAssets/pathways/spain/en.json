@@ -1,184 +1,184 @@
 {
   "stage01": [
     {
-      "Question": "Ana is 6 months old and her mother has started to introduce solid foods into her diet. However, Ana does not seem interested in eating purees and cries a lot during meals. \n\nWhat should her mother do?",
       "Answers": [
         {
-          "Text": "Force Ana to eat the purées so that she can get used to the new foods.",
-          "Note": "It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, forcing solids when a baby is not ready can cause a stressful feeding experience. Breastfeeding should continue for the first year of life or longer, along with a varied diet."
+          "Note": "It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, forcing solids when a baby is not ready can cause a stressful feeding experience. Breastfeeding should continue for the first year of life or longer, along with a varied diet.",
+          "Text": "Force Ana to eat the purées so that she can get used to the new foods."
         },
         {
-          "Text": "Continue to breastfeed exclusively and wait until Ana is more ready for solids.",
-          "Note": "Delaying the introduction of solids can lead to nutritional deficiencies. It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, breastfeeding should continue for the first year of life or longer, along with a varied diet."
+          "Note": "Delaying the introduction of solids can lead to nutritional deficiencies. It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, breastfeeding should continue for the first year of life or longer, along with a varied diet.",
+          "Text": "Continue to breastfeed exclusively and wait until Ana is ready for solids."
         },
         {
-          "Text": "Offer Ana a variety of solid foods and continue to breastfeed to supplement her diet.",
-          "Note": "Correct! It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, breastfeeding should continue for the first year of life or longer, along with a varied diet. Forcing solids when a baby is not ready can cause a stressful feeding experience, and delaying the introduction of solids can lead to nutritional deficiencies."
+          "Note": "Correct! It is important to introduce solid foods at around 6 months to complement breastfeeding, as babies need more nutrients such as iron and zinc. However, breastfeeding should continue for the first year of life or longer, along with a varied diet. Forcing solids when a baby is not ready can cause a stressful feeding experience, and delaying the introduction of solids can lead to nutritional deficiencies.",
+          "Text": "Offer Ana a variety of solid foods and continue to breastfeed to supplement her diet."
         }
-      ]
+      ],
+      "Question": "Ana is 6 months old and her mother has started to introduce solid foods into her diet. However, Ana does not seem interested in eating purées and cries a lot during meals. \n\nWhat should her mother do?"
     },
     {
-      "Question": "Ana has just turned 1, and her mother knows a healthy diet is crucial for her development. She recently saw a news segment about the importance of iron, and wants to incorporate more iron-rich foods into their diet. \n\nWith an average cost of living of $1260 per month, and a nutritious food basket costing $32.08, what should she prioritise to improve their iron levels?",
       "Answers": [
         {
-          "Text": "Spanish bananas cost: €1.20 to €1.50 per kilogramme​.",
-          "Note": "Bananas are low in iron, but high in Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Ana’s iron needs."
+          "Note": "Bananas are low in iron, but high in Vitamin C, which aids iron absorption from plant-based foods. They're a healthy snack but don't directly address Ana’s iron needs.",
+          "Text": "Spanish bananas cost: \n€1.20 to €1.50 per kilogramme​."
         },
         {
-          "Text": "Breakfast cereal cost: between €2 and €5 average per box.",
-          "Note": "Many breakfast cereals are fortified with iron, but are also high in sugar and other additives. They also cost more than lentils, which are a more affordable iron source."
+          "Note": "Many breakfast cereals are fortified with iron, but are also high in sugar and other additives. They also cost more than lentils, which are a more affordable iron source.",
+          "Text": "Breakfast cereal cost: \nbetween €2 and €5 average per box."
         },
         {
-          "Text": "Lentils cost: €1.50 to €2.00​ per kilogramme.",
-          "Note": "Lentils are a good choice for Ana’s mother. They provide about 3 mg of iron per 100g, fitting the healthy range of iron intake for children and offering a cost-effective solution."
+          "Note": "Lentils are a good choice for Ana’s mother. They provide about 3 mg of iron per 100g, fitting the healthy range of iron intake for children and offering a cost-effective solution.",
+          "Text": "Lentils cost: \n€1.50 to €2.00​ per kilogramme."
         }
-      ]
+      ],
+      "Question": "Ana has just turned 1, and her mother knows a healthy diet is crucial for her development. She recently saw a news segment about the importance of iron, and wants to incorporate more iron-rich foods into their diet. \n\nWith an average cost of living of €1130 per month, and a nutritious food basket costing €28.80, what should she prioritise to improve their iron levels?"
     },
     {
-      "Question": "Ana is now 2 and she prefers to eat crackers and other snack foods instead of fruits and vegetables. She picks at her food, and is quite short for her age. At her last doctor’s checkup, Ana’s mother was told that she was at risk of stunting.\n\nWhat should her mother do?",
       "Answers": [
         {
-          "Text": "Allow her to eat crackers but make sure she eats enough to fill her up.",
-          "Note": "Allowing biscuits to be consumed without moderation does not provide the necessary nutrients and encourages unhealthy eating habits. Under-fives are the age group most vulnerable to malnutrition in Spain. Globally, it is increasingly common for children to be both stunted and overweight, often as a result of overconsumption of ultra processed foods. It is crucial to encourage healthy eating habits from an early age."
+          "Note": "Allowing biscuits to be consumed without moderation does not provide the necessary nutrients and encourages unhealthy eating habits. Under-fives are the age group most vulnerable to malnutrition in Spain. Globally, it is increasingly common for children to be both stunted and overweight, often as a result of overconsumption of ultra processed foods. It is crucial to encourage healthy eating habits from an early age.",
+          "Text": "Allow her to eat crackers but make sure she eats enough to fill her up."
         },
         {
-          "Text": "Try incorporating fruits and vegetables creatively into her diet, such as in purees or smoothies.",
-          "Note": "Correct! It is crucial to encourage healthy eating habits from an early age. Under-fives are the age group most vulnerable to malnutrition in Spain.lobally, it is increasingly common for children to be both stunted and overweight, often as a result of overconsumption of ultra processed foods."
+          "Note": "Correct! It is crucial to encourage healthy eating habits from an early age. Under-fives are the age group most vulnerable to malnutrition in Spain. Globally, it is increasingly common for children to be both stunted and overweight, often as a result of overconsumption of ultra-processed foods.",
+          "Text": "Try incorporating fruits and vegetables creatively into her diet, such as in purées or smoothies."
         }
-      ]
+      ],
+      "Question": "Ana is now 2 and she prefers to eat crackers and other snack foods instead of fruits and vegetables. She picks at her food, and is quite short for her age. At her last doctor’s checkup, Ana’s mother was told that she was at risk of stunting.\n\nWhat should her mother do?"
     }
   ],
   "stage02": [
     {
-      "Question": "Ana is now 10, is very active and plays several sports. Her parents notice that she has been losing weight lately, and she is still short for her age. \n\nWhat should her parents do?",
       "Answers": [
         {
-          "Text": "Take her to a nutritionist to evaluate her diet and make sure she is getting adequate nutrition.",
-          "Note": "Correct. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate their diet with a professional to ensure that their diet is balanced for their energy needs. Increasing junk food would only provide empty calories and could negatively affect Ana’s long-term health. Reducing physical activity is not the solution either, as exercise is essential for healthy development."
+          "Note": "Correct. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate their diet with a professional to ensure that their diet is balanced for their energy needs. Increasing junk food would only provide empty calories and could negatively affect Ana’s long-term health. Reducing physical activity is not the solution either, as exercise is essential for healthy development.",
+          "Text": "Take her to a nutritionist to evaluate her diet and make sure she is getting adequate nutrition."
         },
         {
-          "Text": "Increase the amount of high-calorie food she eats to help her gain weight quickly.",
-          "Note": "Increasing junk food would only provide empty calories and could negatively affect Ana’s long-term health. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate her diet with a professional to ensure that it is balanced and adequate for her energy needs."
+          "Note": "Increasing junk food would only provide empty calories and could negatively affect Ana’s long-term health. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate her diet with a professional to ensure that it is balanced and adequate for her energy needs.",
+          "Text": "Increase the amount of high-calorie food she eats to help her gain weight quickly."
         },
         {
-          "Text": "Reduce her level of physical activity to prevent her from burning too many calories.",
-          "Note": "Reducing physical activity is not the solution, as exercise is essential for healthy development. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate Ana’s diet with a professional to ensure that her diet is balanced and adequate for her energy needs."
+          "Note": "Reducing physical activity is not the solution, as exercise is essential for healthy development. Weight loss in an active child may be a sign of insufficient intake of calories and essential nutrients. It is important to evaluate Ana’s diet with a professional to ensure that her diet is balanced and adequate for her energy needs.",
+          "Text": "Reduce her level of physical activity to prevent her from burning too many calories."
         }
-      ]
+      ],
+      "Question": "Ana is now 10, is very active and plays several sports. Her parents notice that she has been losing weight lately, and she is still short for her age. \n\nWhat should her parents do?"
     },
     {
-      "Question": "Ana is 14 and has just started getting her period. She’s still a bit of a picky eater, and does not usually eat breakfast because she says she is not hungry in the morning. However, after a few hours at school, she feels tired and has difficulty concentrating. \n\nHer mother is worried she might be showing signs of anaemia, what should she do?",
       "Answers": [
         {
-          "Text": "Let Ana continue without breakfast, as it is important to respect her hunger signals.",
-          "Note": "A balanced breakfast helps stabilise blood sugar levels and is essential to provide the energy needed for school activities and improve concentration. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade."
+          "Note": "A balanced breakfast helps stabilise blood sugar levels and is essential to provide the energy needed for school activities and improve concentration. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade.",
+          "Text": "Let Ana continue without breakfast, as it is important to respect her hunger signals."
         },
         {
-          "Text": "Try to get Ana up earlier in the mornings, so she has time to eat a light but nutritious breakfast that includes choices such as scrambled eggs with spinach and oatmeal.",
-          "Note": "Correct - A balanced breakfast helps stabilise blood sugar levels and maintain cognitive performance throughout the morning. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade."
+          "Note": "Correct - A balanced breakfast helps stabilise blood sugar levels and maintain cognitive performance throughout the morning. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade.",
+          "Text": "Try to get Ana up earlier in the mornings, so she has time to eat a light but nutritious breakfast that includes choices such as scrambled eggs with spinach and oatmeal."
         },
         {
-          "Text": "Give Ana an energy drink to give her more energy for the day.",
-          "Note": "Energy drinks are not suitable for children due to their high sugar and caffeine content. If consumed at the same time as food, they can also block iron absorption. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade."
+          "Note": "Energy drinks are not suitable for children due to their high sugar and caffeine content. If consumed at the same time as food, they can also block iron absorption. Teen girls are especially at risk of anaemia, making healthy and affordable sources of iron like scrambled eggs with spinach and oatmeal key. Anaemia impacts children's IQ scores and ability to progress to the next grade.",
+          "Text": "Give Ana an energy drink to give her more energy for the day."
         }
-      ]
+      ],
+      "Question": "Ana is 14 and has just started getting her period. She’s still a bit of a picky eater, and does not usually eat breakfast because she says she is not hungry in the morning. However, after a few hours at school, she feels tired and has difficulty concentrating. \n\nHer mother is worried she might be showing signs of anaemia, what should she do?"
     },
     {
-      "Question": "Ana is  15 and has become very self-conscious about her body image. She’s been following TikTok diet advice and has started skipping meals to lose weight. \n\nHer parents are concerned; should they intervene?",
       "Answers": [
         {
-          "Text": "Yes. Talk to Ana and seek the advice of an eating disorder expert.",
-          "Note": "Skipping meals can be a sign of an underlying problem with body image and eating. It is important to talk to Ana in an understanding way and seek the help of a professional who can offer appropriate support in maintaining a healthy relationship with foody. In addition to the physical impacts, eating disorders can compound the negative impacts of anaemia on school performance."
+          "Note": "Skipping meals can be a sign of an underlying problem with body image and eating. It is important to talk to Ana in an understanding way and seek the help of a professional who can offer appropriate support in maintaining a healthy relationship with food. In addition to the physical impacts, eating disorders can compound the negative impacts of anaemia on school performance.",
+          "Text": "Yes. Talk to Ana and seek the advice of an eating disorder expert."
         },
         {
-          "Text": "No. Ignore the problem, as it is likely to be a temporary phase.",
-          "Note": "Skipping meals can be a sign of an underlying problem with body image and eating. It is important to talk to Ana in an understanding way and seek the help of a professional who can offer appropriate support in maintaining a healthy relationship with food. In addition to the physical impacts, eating disorders can compound the negative impacts of anaemia on school performance."
+          "Note": "Skipping meals can be a sign of an underlying problem with body image and eating. It is important to talk to Ana in an understanding way and seek the help of a professional who can offer appropriate support in maintaining a healthy relationship with food. In addition to the physical impacts, eating disorders can compound the negative impacts of anaemia on school performance.",
+          "Text": "No. Ignore the problem, as it is likely to be a temporary phase."
         }
-      ]
+      ],
+      "Question": "Ana is 15 and has become very self-conscious about her body image. She’s been following TikTok diet advice and has started skipping meals to lose weight. \n\nHer parents are concerned. Should they intervene?"
     },
     {
-      "Question": "Ana is 16 years old and when school gets out at 14.30, her parents are still at work. She’s back to eating regularly and is hungry after being at school all day. She doesn’t have a lot of money, and getting a meal at the school cafeteria costs about 10€ a day, or 120 euros for the month. \n\nWhat could she do?",
       "Answers": [
         {
-          "Text": "Get a job as a cashier in the local store, so she can afford to eat in the school cafeteria.",
-          "Note": "Unfortunately, paying for a daily menu of €10 is not something that all families can afford. School canteens should play a key role in providing balanced meals, helping children stay alert, and have been shown to increase enrollment by almost 10%. Getting a job is a good idea for Ana, but she shouldn’t have to work in order to eat, and she’ll need to be careful her time spent working doesn’t adversely affect her studies."
+          "Note": "Unfortunately, paying for a daily menu of €10 is not something that all families can afford. School canteens should play a key role in providing balanced meals, helping children stay alert, and have been shown to increase enrollment by almost 10%. Getting a job is a good idea for Ana, but she shouldn’t have to work in order to eat. She will also need to be careful her time spent working doesn’t adversely affect her studies.",
+          "Text": "Get a job as a cashier in the local store, so she can afford to eat in the school cafeteria."
         },
         {
-          "Text": "Try to pick up odd jobs like babysitting or tutoring for children in her building, and spend time learning to cook from scratch at home.",
-          "Note": "If Ana has the time and ability to earn a bit of extra money this way, it is possible to cook healthy and nutritious meals from scratch. But, she shouldn’t have to. School canteens should play a key role in providing balanced meals and studies have shown that when struggling children are given school meals, they are more likely to attend school, increasing enrolment by almost 10%."
+          "Note": "If Ana has the time and ability to earn a bit of extra money this way, it is possible to cook healthy and nutritious meals from scratch. But, she shouldn’t have to. School canteens should play a key role in providing balanced meals and studies have shown that when struggling children are given school meals, they are more likely to attend school, increasing enrolment by almost 10%.",
+          "Text": "Try to pick up odd jobs like babysitting or tutoring for children in her building, and spend time learning to cook from scratch at home."
         },
         {
-          "Text": "Buy cheap and quick options from the supermarket, like a bag of crisps.",
-          "Note": "The high consumption of cheap, ultra-processed foods means that adolescents in Spain are unable to follow a nutritionally adequate diet. Unfortunately, paying for a daily menu of €10 is not something that all families can afford. School canteens should play a key role in providing balanced meals, helping children stay alert, and have been shown to increase enrollment by 10%."
+          "Note": "The high consumption of cheap, ultra-processed foods means that adolescents in Spain are unable to follow a nutritionally adequate diet. Unfortunately, paying for a daily menu of €10 is not something that all families can afford. School canteens should play a key role in providing balanced meals, helping children stay alert, and have been shown to increase enrollment by 10%.",
+          "Text": "Buy cheap and quick options from the supermarket, like a bag of crisps."
         }
-      ]
+      ],
+      "Question": "Ana is 16 years old and when school gets out at 14.30, her parents are still at work. She’s back to eating regularly and is hungry after being at school all day. She doesn’t have a lot of money, and getting a meal at the school cafeteria costs about €10 a day, or €120 for the month. \n\nWhat could she do?"
     }
   ],
   "stage03": [
     {
-      "Question": "Ana is now out of school - she finished her final year, but her work and anaemia impacted her grades and she didn’t get a place in university. She’s now working full time, but with rising rent payments, she’s struggling to cover her food bill every month. \n\nWhat should she do?",
       "Answers": [
         {
-          "Text": "Move in with her boyfriend. They’ve been arguing a lot, but it’s easier to share the rent.",
-          "Note": "Reducing costs by sharing the rent is a great option, but only if it’s a safe and stable environment. Ana might be better off seeing if any of her friends need flatmates. The odds of someone living under the poverty line are 42% higher if they were stunted at 2 years old, and the long term effects of anaemia reduce productivity and IQ."
+          "Note": "Reducing costs by sharing the rent is a great option, but only if it’s a safe and stable environment. Ana might be better off seeing if any of her friends need flatmates. The odds of someone living under the poverty line are 42% higher if they were stunted at 2 years old, and the long term effects of anaemia reduce productivity and IQ.",
+          "Text": "Move in with her boyfriend. They’ve been arguing a lot, but it’s easier to share the rent."
         },
         {
-          "Text": "Pick up a second job to work as a cleaner early in the morning before her ‘real’ job begins.",
-          "Note": "Working a second job will probably impact her productivity overall, leaving her rundown and tired. The odds of someone living under the poverty line are 42% higher if they were stunted at 2 years old, and the long term effects of anaemia reduce productivity and IQ."
+          "Note": "Working a second job will probably impact her productivity overall, leaving her rundown and tired. The odds of someone living under the poverty line are 42% higher if they were stunted at 2 years old. One of the long term effects of anaemia is reduced productivity and IQ.",
+          "Text": "Pick up a second job to work as a cleaner early in the morning before her ‘real’ job begins."
         }
-      ]
+      ],
+      "Question": "Ana is now out of school - she finished her final year, but her work and anaemia impacted her grades and she didn’t get a place in university. She’s now working full time, but with rising rent payments, she’s struggling to cover her food bill every month. \n\nWhat should she do?"
     },
     {
-      "Question": "Ana has moved in with her boyfriend, but he only works part time at a bar, and often parties away a lot of his money. Their living costs are a bit cheaper than when they lived on their own, but Ana finds she’s increasingly covering his share of the bills. \n\nThey have 20 euros left for groceries this week, what should she buy?",
       "Answers": [
         {
-          "Text": "Stock up on the special offers at the grocery store - the ready pizza and meals are €3 each.",
-          "Note": "Ready meals are fast and can be affordable when purchased on special offer, but are likely to be less nutritious, and more expensive overall than cooking from scratch. Ana would be better off purchasing things like eggs, tinned fish, fresh vegetables, beans and lentils."
+          "Note": "Ready meals are fast and can be affordable when purchased on special offer, but are likely to be less nutritious, and more expensive overall than cooking from scratch. Ana would be better off purchasing things like eggs, tinned fish, fresh vegetables, beans and lentils.",
+          "Text": "Stock up on the special offers at the grocery store - the ready pizza and meals are €3 each."
         },
         {
-          "Text": "Focus on buying loose ingredients to cook, like lentils, chickpeas, tomatoes and onions.",
-          "Note": "Yes, ready meals are fast and can be affordable when purchased on special offer, but are likely to be less nutritious, and more expensive overall than cooking from scratch. Ana would be better off purchasing things like eggs, tinned fish, fresh vegetables, beans and lentils."
+          "Note": "Yes, ready meals are fast and can be affordable when purchased on special offer, but are likely to be less nutritious, and more expensive overall than cooking from scratch. Ana would be better off purchasing things like eggs, tinned fish, fresh vegetables, beans and lentils.",
+          "Text": "Focus on buying loose ingredients to cook, like lentils, chickpeas, tomatoes and onions."
         }
-      ]
+      ],
+      "Question": "Ana has moved in with her boyfriend, but he only works part time at a bar, and often parties away a lot of his money. Their living costs are a bit cheaper than when they lived on their own, but Ana finds she’s increasingly covering his share of the bills. \n\nThey have €20 left for groceries this week, what should she buy?"
     },
     {
-      "Question": "Ana is pregnant and has been diagnosed with anaemia, a common condition during pregnancy that can lead to complications for both her and the baby. Despite knowing the importance of prenatal care, Ana feels she cannot afford to take time off work to attend her prenatal appointments.\n\nWhat should Ana do?",
       "Answers": [
         {
-          "Text": "Ana should prioritise her appointments. Attending prenatal appointments is crucial for managing her anaemia and ensuring a healthy pregnancy.",
-          "Note": "Prenatal appointments are vital for monitoring both Ana and her baby’s health, especially with her anaemia diagnosis. Anaemia during pregnancy can lead to complications such as preterm birth and low birth weight if not properly managed. Healthcare providers can offer targeted treatments and dietary recommendations that over-the-counter supplements alone may not address."
+          "Note": "Prenatal appointments are vital for monitoring both Ana and her baby’s health, especially with her anaemia diagnosis. Anaemia during pregnancy can lead to complications such as preterm birth and low birth weight if not properly managed. Healthcare providers can offer targeted treatments and dietary recommendations that over-the-counter supplements alone may not address.",
+          "Text": "Ana should prioritise her appointments. Attending prenatal appointments is crucial for managing her anaemia and ensuring a healthy pregnancy."
         },
         {
-          "Text": "Ana should continue working and manage her anaemia with over-the-counter supplements until she can afford to take time off.",
-          "Note": "While it may seem practical to rely on over-the-counter supplements, missing prenatal care could result in worsening anaemia and other complications, potentially leading to higher medical costs and health risks later, including preterm birth and low birth weight. Prenatal care is essential."
+          "Note": "While it may seem practical to rely on over-the-counter supplements, missing prenatal care could result in worsening anaemia and other complications, potentially leading to higher medical costs and health risks later, including preterm birth and low birth weight. Prenatal care is essential.",
+          "Text": "Ana should continue working and manage her anaemia with over-the-counter supplements until she can afford to take time off."
         }
-      ]
+      ],
+      "Question": "Ana is pregnant and has been diagnosed with anaemia, a common condition during pregnancy that can lead to complications for both her and the baby. Despite knowing the importance of prenatal care, Ana feels she cannot afford to take time off work to attend her prenatal appointments.\n\nWhat should Ana do?"
     },
     {
-      "Question": "Ana has been prioritising her antenatal care, even though it sometimes means turning down a shift from work. The midwife has given her iron treatments and folic acid supplements after her anaemia improved. However, the rising cost of living in Spain since COVID-19 makes it difficult for her to buy healthy, affordable food.\n\nWhat should Ana do to ensure a healthy pregnancy for herself and her baby?",
       "Answers": [
         {
-          "Text": "Ana could ask her boyfriend to pick up extra hours at the bar, or look for a better paying job with more benefits for herself.",
-          "Note": "Asking her boyfriend to help support her is a good idea, but it may not work, and although it is illegal for employers to discriminate due to pregnancy when hiring in Spain, it can still be hard to find another job. Rising food prices affect many families. More than one in ten families in Spain are food insecure."
+          "Note": "Asking her boyfriend to help support her is a good idea, but it may not work. Also, although it is illegal for employers to discriminate due to pregnancy when hiring in Spain, it can still be hard to find another job. Rising food prices affect many families. More than one in ten families in Spain are food insecure.",
+          "Text": "Ana could ask her boyfriend to pick up extra hours at the bar, or look for a better paying job with more benefits for herself."
         },
         {
-          "Text": "Ana should choose cheaper food and ensure she gets enough energy from her meals.",
-          "Note": "Ana might be able to get advice from the midwives at the health centre about affordable food options that can get her the nutrition she needs, or how she can access extra help and support. Rising food prices affect many families. More than one in ten families in Spain are food insecure."
+          "Note": "Ana might be able to get advice from the midwives at the health centre about affordable food options that can get her the nutrition she needs, or how she can access extra help and support. Rising food prices affect many families. More than one in ten families in Spain are food insecure.",
+          "Text": "Ana should choose cheaper food and ensure she gets enough energy from her meals."
         }
-      ]
+      ],
+      "Question": "Ana has been prioritising her antenatal care, even though it sometimes means turning down a shift from work. The midwife has given her iron treatments and folic acid supplements after her anaemia improved. However, the rising cost of living in Spain since COVID-19 makes it difficult for her to buy healthy, affordable food.\n\nWhat should Ana do to ensure a healthy pregnancy for herself and her baby?"
     },
     {
-      "Question": "Ana has a baby girl, but postpartum is hard, and the crying of their daughter seems to trigger her boyfriend. He starts shouting in her face one night when they are very tired, and she’s worried that he might hit her.\n\nWhat should she do?",
       "Answers": [
         {
-          "Text": "Be understanding - neither of them have slept much, and he’s been stressed about money. She’s still on her maternity leave and doesn’t feel able to make any big life decisions.",
-          "Note": "The safety of Ana and her daughter must be a priority. Children living in food insecure households are up to 6 times more likely to witness domestic violence. There are government programmes and support she can access, which will help put her on the path to a safer, healthier future."
+          "Note": "The safety of Ana and her daughter must be a priority. Children living in food insecure households are up to 6 times more likely to witness domestic violence. There are government programmes and support she can access, which will help put her on the path to a safer, healthier future.",
+          "Text": "Be understanding - neither of them have slept much, and he’s been stressed about money. She’s still on her maternity leave and doesn’t feel able to make any big life decisions."
         },
         {
-          "Text": "Move back in with her parents to give them some breathing room. Her parents are still working long hours to make ends meet, but at least she and her daughter will be safe there.",
-          "Note": "Getting some space at her parents’ house is a good idea. The safety of Ana and her daughter must be a priority. Children living in food insecure households are up to 6 times more likely to witness domestic violence. There are government programmes and support she can access, which will help put her on the path to a safer healthier future."
+          "Note": "Getting some space at her parents’ house is a good idea. The safety of Ana and her daughter must be a priority. Children living in food insecure households are up to 6 times more likely to witness domestic violence. There are government programmes and support she can access, which will help put her on the path to a safer healthier future.",
+          "Text": "Move back in with her parents to give them some breathing room. Her parents are still working long hours to make ends meet, but at least she and her daughter will be safe there."
         }
-      ]
+      ],
+      "Question": "Ana has a baby girl, but postpartum is hard, and the crying of their daughter seems to trigger her boyfriend. He starts shouting in her face one night when they are very tired, and she’s worried that he might hit her.\n\nWhat should she do?"
     }
   ]
 }

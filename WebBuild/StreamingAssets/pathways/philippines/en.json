@@ -28,12 +28,12 @@
           "Text": "Anchovy fillet cost: \nPHP 45 - PHP 60 ($.80 to $1.07) per 100 grams."
         }
       ],
-      "Question": "Issa has just turned 1. Her mother knows a healthy diet is crucial for her development. A community health worker advised her about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. The average income that a family of five needs is PHP 13,797 (245 USD) per month to meet basic needs and a nutritious food basket costs $22.55. \n\nWhat should she prioritise to improve their iron levels?"
+      "Question": "Issa has just turned 1. Her mother knows a healthy diet is crucial for her development. A community health worker advised her about the importance of iron in their diet. With iron-rich foods being expensive, she must make cost-effective choices. The average income that a family of five needs is PHP 13,797 ($245) per month to meet basic needs and a nutritious food basket costs $22.55. \n\nWhat should she prioritise to improve their iron levels?"
     },
     {
       "Answers": [
         {
-          "Note": "Issa feels better after the oral rehydration solution, and her mother's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing with soap removes harmful pathogens such as viruses and bacteria that can cause diarrheal illnesses.",
+          "Note": "Issa feels better after the oral rehydration solution, and her mother's decision to buy soap ensures better hygiene at home. Regular and thorough handwashing with soap removes harmful pathogens such as viruses and bacteria that can cause diarrhoeal illnesses.",
           "Text": "Yes"
         },
         {
@@ -65,7 +65,7 @@
     {
       "Answers": [
         {
-          "Note": "Surface water like rivers is often contaminated, posing a danger of parasites and germs, without treatment. This could make Issa and her family sick, resulting in healthcare costs and no extra money for food. Using the well is safer.",
+          "Note": "Surface water like riverwater is often contaminated, posing a danger of parasites and germs, without treatment. This could make Issa and her family sick, resulting in healthcare costs and no extra money for food. Using the well is safer.",
           "Text": "Collect water from the nearby river. This way, she doesn’t have to walk far, and can spend more time selling snacks."
         },
         {
@@ -96,7 +96,7 @@
         },
         {
           "Note": "A child who experienced stunting before 2 years old has a higher risk of leaving school earlier than a child who did not, but Issa still has choices. Leaving school early decreases her job opportunities and ability to support herself later on.",
-          "Text": "Issa should accept the end of her schooling; she probably couldn’t have afforded university anyway."
+          "Text": "Issa should accept the end of her schooling. She probably couldn’t have afforded university anyway."
         }
       ],
       "Question": "Issa is 17, and her parents want her to leave school, like 40% of her peers, and go to the city to find work as a house helper or store attendant to help with the family expenses. Issa wants to stay in school and focus on her education. \n\nWhat should she tell her parents?"
@@ -136,7 +136,7 @@
           "Text": "Issa should take the new job with the recruitment agency."
         },
         {
-          "Note": "If Issa stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability. She’s probably safer though, trafficking is a significant problem in the Philippines.",
+          "Note": "If Issa stays, she may risk being fired due to malnutrition, which raises unemployment likelihood by 12%, impacting her economic stability. She’s probably safer though, as trafficking is a significant problem in the Philippines.",
           "Text": "Issa should stay at her current job and find a local option."
         }
       ],
