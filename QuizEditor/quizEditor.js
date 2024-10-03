@@ -330,6 +330,11 @@ async function exportAll() {
         // Request permission to access file system
         const dirHandle = await window.showDirectoryPicker({ startIn: "downloads" });
 
+        const fileHandle = await dirHandle.getFileHandle('combined.json', { create: true });
+        const writable = await fileHandle.createWritable();
+        await writable.write(JSON.stringify(jsonData, null, 2));
+        await writable.close();
+
         for (const [pathwayKey, pathwayData] of Object.entries(jsonData)) {
             // Create pathway directory
             const pathwayDirHandle = await dirHandle.getDirectoryHandle(pathwayKey, { create: true });

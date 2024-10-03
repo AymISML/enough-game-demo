@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La solution idéale est l’allaitement maternel exclusif. Le lait maternel fournit toute l'alimentation nécessaire pour les six premiers mois de Mwansa. Le bon dosage des nutriments, des anticorps et des enzymes est essentiel au bon développement du bébé. L'eau impropre à la consommation et les liquides autres que le lait maternel peuvent augmenter le risque d'infections.",
+          "Text": "Continuer à allaiter chaque fois que Mwansa semble avoir faim."
+        },
+        {
+          "Note": "La bouillie liquide est en réalité pire pour Mwansa. L'allaitement maternel exclusif garantit que tous ses besoins nutritionnels sont satisfaits et prévient les risques de maladie potentielle en provenance de sources non sûres. Son corps n'est pas encore prêt à recevoir d'autres aliments. Leur utilisation n'apportera pas suffisamment de nutriments essentiels pour la croissance et le développement du bébé.",
+          "Text": "Commencer à lui donner de la bouillie liquide pour voir si ça aide."
+        }
+      ],
+      "Question": "Quand Mwansa est née, elle pleurait beaucoup, et sa mère craignait que son lait maternel ne suffise pas. Un membre de la communauté a suggéré de lui donner de la bouillie liquide. \n\nQue devrait faire la mère de Mwansa?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La papaye est pauvre en fer mais riche en vitamine C qui facilite l'absorption du fer contenu dans les aliments d'origine végétale. Elle constitue un en-cas sain mais ne répond pas directement au besoin en fer de Mwansa.",
+          "Text": "De la papaye coûte: \nEntre 4,93$ et 11,57$ (123,25 à 289,25 ZMW) en moyenne."
+        },
+        {
+          "Note": "De nombreuses céréales pour petit-déjeuner sont enrichies en fer, mais même les options les moins chères représentent un coût élevé pour la mère de Mwansa, ce qui pourrait signifier un sacrifice de l'apport en protéines pendant quelques jours.",
+          "Text": "Les Cerelac (céréales enrichies pour le petit déjeuner) coûtent :\nEntre 3,00$ et 6,00$ (75 à 150 ZMW) en moyenne par boîte."
+        },
+        {
+          "Note": "Les haricots constituent un bon choix pour la mère de Mwansa. Ils fournissent environ 6,6 mg de fer par tasse, et 7 mg est l'apport quotidien en fer recommandé pour l'âge de Mwansa. Il s'agit d'une solution économique et efficace.",
+          "Text": "Les haricots coûtent: \nEntre 1,00$ et 3,00$ (25 à 75 ZMW) en moyenne pour 450 grammes."
+        }
+      ],
+      "Question": "Mwansa vient d'avoir un an. Sa mère sait qu'une alimentation saine est essentielle à son développement. Un travailleur sanitaire de la communauté l'a informée de l'importance du fer dans son régime alimentaire. Les aliments riches en fer étant chers, elle doit faire des choix efficaces. \n\nAvec un revenu moyen de 150 dollars (3 750 kwacha zambiens (ZMW)) par mois et un panier de provisions nutritif coûtant 14,47 dollars (361,75 ZMW), \nQue doit-elle privilégier pour améliorer leur taux de fer ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Mwansa se sent mieux après avoir pris la solution de réhydratation orale, et la décision de sa mère d'acheter du savon garantit une meilleure hygiène à la maison. Un lavage régulier et soigneux des mains permet d'éliminer les agents pathogènes nocifs, tels que les virus et les bactéries, qui peuvent provoquer des maladies diarrhéiques.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Mwansa se sent mieux après avoir pris la solution de réhydratation orale, mais le manque d'hygiène à la maison entraîne des diarrhées régulières, ce qui entrave sa croissance, l'absorption des nutriments et finit par provoquer un retard de croissance dû à des infections fréquentes.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Mwansa souffre de maux d'estomac et de diarrhée depuis plus d'un jour. Sa mère rend visite à un travailleur de santé local, qui insiste sur une bonne hygiène, comme le lavage des mains avec du savon, et lui donne une solution de réhydratation orale pour Mwansa. Plus tard dans la journée, la mère de Mwansa passe devant un vendeur ambulant qui vend du savon. \n\nLa mère de Mwansa devrait-elle acheter du savon ?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "Mwansa a du mal à se concentrer sur sa scolarité, il est donc sage de demander de l'aide à un adulte de confiance. Les haricots, les feuilles de citrouille et le kapenta (petits poissons séchés) sont des sources de fer abordables, et des organisations comme World Vision peuvent aider à combattre la stigmatisation liée aux menstruations. Chaque fille devrait essayer de rester scolarisée au moins jusqu'à l'âge de 18 ans.",
+          "Text": "Continuer les efforts pour les examens et faire de son mieux."
+        },
+        {
+          "Note": "Il est sage de demander de l'aide à un adulte de confiance. Les haricots, les feuilles de citrouille et le kapenta (petit poisson séché) sont abordables et peuvent augmenter les niveaux de fer, et des programmes existent pour aider les filles à faire face aux besoins menstruels et à la stigmatisation qui en découle. Mwansa, et toutes les jeunes filles, devraient pouvoir rester scolarisées jusqu'à l'âge de 18 ans.",
+          "Text": "Demander conseil à sa mère ou à une enseignante."
+        },
+        {
+          "Note": "Gagner sa vie c’est faire preuve d'initiative, mais c'est aussi courir le risque de se faire exploiter. Il est préférable de demander de l'aide à un adulte de confiance. Les haricots, les feuilles de citrouille et le kapenta (petits poissons séchés) sont des sources de fer abordables, et des programmes existent pour aider avec les besoins menstruels. Chaque jeune fille devrait avoir le droit de terminer l'école secondaire.",
+          "Text": "Se mettre à vendre des mouchoirs ou des snacks sur le bord de la route avant l'école pour aider sa famille et couvrir leurs besoins essentiels, comme les serviettes hygiéniques et davantage de sources de protéines."
+        }
+      ],
+      "Question": "Mwansa n'a pas mangé beaucoup de viande en grandissant et a récemment commencé à avoir ses règles, ce qui rend l'apport en fer encore plus important. Elle court un risque d'anémie, se sent souvent fatiguée, a du mal à se concentrer à l'école et oublie des informations en classe. Elle manque souvent l'école en raison d’un accès insuffisant aux sanitaires, ainsi que du coût élevé et du manque de serviettes hygiéniques.\n\nElle a ses examens de fin d'année le mois prochain. Que doit-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "L'eau de surface est souvent contaminée et présente un risque de parasites et de microbes lorsqu’elle n’est pas traitée. Mwansa et sa famille pourraient tomber malades, ce qui signifierait davantage de frais de santé et moins d'argent pour la nourriture. L'utilisation d’un puits est plus sûre ; si la distance est trop grande, Mwansa peut demander l'aide d'un de ses frères et sœurs.",
+          "Text": "Aller chercher de l'eau dans le ruisseau voisin. De cette façon, elle n'aura pas besoin de marcher loin, et le petit montant versé pour l'utilisation du puits peut être utilisé pour acheter de la nourriture."
+        },
+        {
+          "Note": "Aller au puits représente un effort supplémentaire, mais garantit des avantages sanitaires à long terme pour Mwansa et sa famille. La contamination des eaux de surfaces augmente le risque de maladies d'origine hydrique, entraîne des frais de santé et réduit l’argent disponible pour la nourriture. Le puits est une option plus saine si l'eau est recueillie et stockée en toute sécurité.",
+          "Text": "Se forcer à aller jusqu’au puits pour avoir accès à de l'eau propre, malgré la plus grande distance."
+        }
+      ],
+      "Question": "Mwansa a toujours été petite pour son âge en raison d'un retard de croissance avant l'âge de 2 ans. Les faibles précipitations en Zambie ont eu un impact très négatif sur la production de maïs. Les denrées alimentaires sont chères, ce qui rend plus difficile le fait d'avoir un régime alimentaire suffisamment varié pour la famille de Mwansa. A cause de son retard de croissance, Mwansa a du mal à effectuer des activités physiquement contraignantes. Elle peut soit aller chercher de l'eau dans un ruisseau voisin à faible débit, soit dans un puits situé à 2 km (1 heure de trajet aller-retour). \n\nQuelle solution devrait choisir Mwansa ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Si l'on considère que le revenu moyen en Zambie est d'environ 6 000 ZMW (223 $) par mois, il est peu probable que la famille de Mwansa ait les moyens de payer ses frais de scolarité. Cependant, le fait de terminer ses études influe grandement sur ses perspectives d'avenir. Les filles qui restent scolarisées plus longtemps se marient plus tard, ont des enfants en meilleure santé et ont elles-mêmes une meilleure santé et une meilleure alimentation.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "L'éducation influe grandement sur les perspectives d'avenir de Mwansa. En restant à l'école, elle se mariera plus tard, aura une meilleure santé et une meilleure alimentation et ses enfants seront en meilleure santé. Malgré ces bienfaits, les frais de scolarité élevés par rapport à un revenu moyen de 6 000 ZMW (223 $) par mois font qu'il est difficile pour sa famille de continuer à payer les frais de scolarité.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Étudier est très important pour l'avenir de Mwansa. À 16 ans, elle s’apprête à passer l'examen de fin d'études secondaires, alors que plus d'un quart des filles de son âge ont déjà quitté l'école. L'enseignement secondaire a un coût, les frais de scolarité dans les écoles publiques allant de 500 à 1 500 ZMW par trimestre (environ 30$ à 90$). \n\nSa famille peut-elle se permettre de continuer à envoyer Mwansa à l'école ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Le mariage des enfants concerne 29 % des filles en Zambie, bien qu'une nouvelle loi l’interdise. Mwansa devrait exprimer son désir de rester à l'école. Elle n’a pas terminé sa croissance et une grossesse pourrait entraîner de graves complications, voire la mort. Les grossesses d'adolescentes, en prenant en compte les avortements pratiqués dans des conditions dangereuses, sont la principale cause de décès chez les filles âgées de 15 à 19 ans.",
+          "Text": "Mwansa devrait dire à ses parents qu'elle ne veut pas se marier tout de suite et demander à un enseignant ou à une autorité religieuse locale de discuter avec eux de l'importance de l'éducation."
+        },
+        {
+          "Note": "En acceptant le mariage, elle risque de ne jamais retourner à l'école. Le mariage des enfants concerne 29 % des filles zambiennes, malgré un récent changement de législation. Comme Mwansa n'a pas terminé sa croissance, la grossesse pourrait entraîner de graves complications, et comprendrait des risques pour sa santé. Les complications liées à la grossesse sont la principale cause de décès chez les filles âgées de 15 à 19 ans.",
+          "Text": "Mwansa devrait accepter le mariage et essayer de reprendre l'école plus tard."
+        }
+      ],
+      "Question": "Mwansa a 15 ans et ses parents veulent qu'elle quitte l'école et se marie pour alléger le fardeau financier qu’elle représente. Ça l’attriste, car certaines filles de son village sont déjà mariées et ont dû abandonner l’école à cause de cela. Mwansa désire rester à l'école et se marier plus tard. \n\nQue doit-elle dire à ses parents ?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Mwansa envisage de créer un commerce de beignets (vitumbuwa) pour arrondir les fins de mois. Elle pense à contacter de la famille habitant en ville pour trouver des offres d'emploi. Cependant, un quart des filles zambiennes âgées de 15 à 19 ans ne sont ni scolarisées ni en emploi. Celles qui travaillent gagnent souvent moins que les hommes, environ 23 % de moins au niveau mondial. Avec l'augmentation du coût de la nourriture, il sera difficile d’avoir un régime alimentaire sain.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Bien qu'un salaire puisse aider, il ne sera peut-être pas suffisant pour acheter des aliments sains. Elle n'a pas terminé ses études, ce qui diminue les chances d’un emploi bien rémunéré. Mwansa pourrait contacter des membres de sa famille en ville pour obtenir des pistes d'emplois potentiels. En Zambie, un quart des filles âgées de 15 à 19 ans ne sont ni scolarisées ni en emploi, et les femmes gagnent généralement moins que les hommes, ce qui diminue leurs possibilités de s’alimenter sainement.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Mwansa est maintenant mariée et gère les récoltes des produits de la terre et la préparation de la nourriture. Une sécheresse dans toute la Zambie a détruit leur récolte de maïs et elle n'a pas les moyens d'acheter plus de nourriture au marché. Son mari lui donne de l'argent, mais seulement pour acheter de la farine de maïs. \n\nMwansa devrait-elle créer une entreprise pour couvrir le manque de budget?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Statistiquement, les personnes ayant souffert d'un retard de croissance pendant l'enfance gagnent moins à l'âge adulte ; en Zambie, cela pourrait représenter 231,88$ (5 797 ZMW) de moins par personne et par an. Le choix de Mwansa de continuer à travailler reflète des options limitées, mais le coût de la vie en ville est élevé et l'accès à des aliments nutritifs est difficile en raison des prix. Elle dépend de la bonne volonté de ses proches pour avoir du soutien.",
+          "Text": "Mwansa devrait rester à l’usine."
+        },
+        {
+          "Note": "Le retard de croissance pendant l'enfance se traduit souvent par des revenus inférieurs à l'âge adulte ; en Zambie, cela pourrait représenter 231,88 $ (5 797ZMW) de moins par an. La recherche d'un travail différent rend sa vie instable, car Mwansa continue à travailler à l'usine 6 jours par semaine. La cherté de la vie et de la nourriture complique son accès à des produits frais, ce qui la rend dépendante de la générosité de ses proches.",
+          "Text": "Mwansa devrait quitter ce travail et en trouver un autre."
+        }
+      ],
+      "Question": "Mwansa, aujourd'hui âgée de 17 ans, travaille 6 jours par semaine dans une usine locale. La malnutrition infantile (retard de croissance) l’a rendue plus petite et menue que les autres employés. Le travail est pénible, le salaire est faible et son village lui manque. \n\nDoit-elle continuer à travailler dans cette usine ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Mwansa n'a pas assez d'économies pour créer une entreprise, mais elle pourrait demander un petit prêt à une organisation de microcrédit comme Vision Fund. Ce n'est pas chose facile. En moyenne, la malnutrition augmente le risque d'être sans emploi de 12% et l’anémie peut à long terme réduire la productivité et le QI. La taille des femmes est corrélée avec les salaires : une augmentation d'un centimètre est associée à une augmentation de salaire de 6 %.",
+          "Text": "Mwansa devrait continuer à chercher un prêt."
+        },
+        {
+          "Note": "Si Mwansa reste, elle court le risque d'être licenciée pour cause de malnutrition - celle-ci augmente le risque d’être sans emploi de 12%- ce qui nuirait à sa stabilité économique.",
+          "Text": "Mwansa devrait conserver son emploi actuel et abandonner l'idée de créer son entreprise."
+        }
+      ],
+      "Question": "Mwansa, qui travaille toujours à l'usine, voudrait créer une entreprise. Elle envisage de tenir un stand au marché, d'emprunter pour investir dans une machine à coudre pour travailler comme couturière, ou de créer une échoppe de nourriture pour les ouvriers. Mais, elle n'est parvenue à trouver un financement pour aucune de ses idées. \n\nQue devrait faire Mwansa ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les visites prénatales sont primordiales car elles fournissent des services sanitaires et de nutrition essentiels pendant la grossesse. Un traitement ponctuel contre l'anémie peut réduire les risques liés à la grossesse pour Mwansa et améliorer les chances que son bébé ait un poids sain à la naissance. Elle a besoin de compléments alimentaires et d’être suivie par des prestataires de santé qui peuvent lui donner des conseils sur les sources de fer abordables et lui procurer un soutien prénatal.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Les soins prénataux sont essentiels pour fournir les services de santé et de nutrition nécessaires pendant la grossesse. Une prise en charge rapide de son anémie peut réduire les risques liés à la grossesse et garantir une meilleure santé à son bébé. Mwansa a besoin de compléments alimentaires et d’être suivie par des prestataires de santé pour obtenir des conseils sur les sources de fer abordables et un soutien prénatal.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Mwansa est enceinte et attend son premier enfant. Elle s’inquiète de ne pas pouvoir travailler, se sent extrêmement fatiguée et on l’a diagnostiquée anémique. Elle n'aime pas se rendre aux visites prénatales car son travail à l'usine n’autorise pas les pauses et que les travailleurs en santé lui manquent de respect. \n\nMwansa devrait-elle continuer les visites prénatales au centre de santé ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Mwansa aura peut-être du mal à obtenir le soutien de sa famille. L'augmentation des prix de la nourriture due à la sécheresse rend difficile l'accès à des aliments nutritifs. Bien que sa famille cultive assez de maïs pour deux repas de base par jour, elle n’a pas assez d'argent pour acheter des aliments riches en protéines et en fer, même essentiels. Plus de 48 % des Zambiens ne parviennent pas à satisfaire leurs besoins caloriques de base. Mwansa devrait consulter un travailleur de santé de la communauté pour l’aider à trouver des aliments abordables et cultivés localement afin d'améliorer ses apports nutritifs.",
+          "Text": "Mwansa pourrait demander à son mari et à ses proches de l'aider à rester en bonne santé pendant la grossesse."
+        },
+        {
+          "Note": "Bien que sa famille puisse préparer un repas de base avec le maïs qu'elle cultive, elle n'a pas les moyens d'acheter en plus des aliments riches en protéines et en fer pour la grossesse de Mwansa. L'augmentation des prix de la nourriture rend de nombreux produits plus difficiles à trouver. Plus de 48 % des Zambiens ont du mal à satisfaire leurs besoins caloriques. Mwansa devrait s'adresser à un travailleur de santé de la communauté pour obtenir des conseils sur les aliments bon marchés cultivés localement afin d'améliorer son régime alimentaire.",
+          "Text": "Mwansa devrait choisir des aliments moins chers et s'assurer que ses repas lui apportent suffisamment d'énergie."
+        }
+      ],
+      "Question": "Mwansa s'est rendue au centre de santé, où elle a reçu un traitement à base de fer et de vitamine B9 après que son anémie ait été traitée. Ils lui ont conseillé de bien manger, de prendre un repas supplémentaire et de se reposer pendant sa grossesse. En tant qu'adolescente enceinte, elle doit s’alimenter suffisamment pour assurer son propre développement et celui de son bébé. \n\nQue devrait faire Mwansa pour assurer une grossesse saine pour elle et son bébé ?"
+    }
+  ]
+}

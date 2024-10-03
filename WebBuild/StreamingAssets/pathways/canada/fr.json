@@ -1,0 +1,176 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La solution idéale pour les six premiers mois d’Emma est l’allaitement maternel exclusif, qui fournit toute l'alimentation qui lui est nécessaire.",
+          "Text": "Continuer à allaiter chaque fois que Emma semble avoir faim."
+        },
+        {
+          "Note": "Le lait de vache avec du sucre sont mauvais pour Emma ; l'allaitement maternel exclusif garantit que tous ses besoins nutritionnels sont satisfaits vu que son corps n'est pas encore prêt à recevoir d'autres aliments.",
+          "Text": "Essayer de lui donner le lait mélangé pour voir si ça aide."
+        }
+      ],
+      "Question": "Quand Emma est née, elle pleurait beaucoup, et sa mère craignait que son lait maternel ne suffise pas. Un membre de la communauté a suggéré de lui donner du lait de vache mélangé à de l’eau et du sucre.  \n\nQue devrait faire la mère d’Emma ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les pommes apportent des fibres, des vitamines B6 et C ainsi que des antioxydants qui favorisent l'absorption du fer, mais elles ne comblent pas directement la carence en fer d'Emma.",
+          "Text": "Pommes fraîches : \n1,00 $ à 1,25 $ par pomme ou 5,00 $ par sac de 3 livres"
+        },
+        {
+          "Note": "De nombreuses céréales pour petit-déjeuner sont enrichies en fer mais sont riches en sucres ajoutés et chères, ce qui revient à sacrifier d'autres achats de protéines riches en fer.",
+          "Text": "Céréales pour le petit déjeuner : \n5$ à 6 $ en moyenne par boîte.\n"
+        },
+        {
+          "Note": "Les épinards sont un excellent choix en termes de fer, car ils contiennent des vitamines et des minéraux essentiels. Une portion d'épinards cuits contient environ 6,5 mg de fer, ce qui en fait une option abordable et efficace.",
+          "Text": "Petit sachet d'épinards: \n$3.50- $4.50\n"
+        }
+      ],
+      "Question": "Emma vient d'avoir un an et sa mère sait qu'une alimentation saine est essentielle à son développement. D’après les conseils d'une infirmière de santé publique sur l'importance du fer, elle doit faire des choix économiques et efficaces. \n\nSachant que dans une ville canadienne typique, les aliments nutritifs coûtent 40 dollars, que devrait-elle prioriser pour améliorer leur taux de fer ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Certes la tisane ne fera pas de mal à Emma, mais elle ne remplacera pas les sels minéraux et les nutriments perdus. L'état d'Emma s'aggrave, ce qui conduit sa mère à prendre un autre jour de congé sans solde pour se rendre à la clinique sans rendez-vous. Si les médicaments de réhydratation sont trop chers, la mère d'Emma peut préparer un mélange similaire à la maison avec de l'eau du robinet, du sel et du sucre.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "La mère d'Emma suit les conseils de la clinique, utilise la solution de réhydratation orale et l’allaite plus fréquemment. Emma se rétablit sans complications. Plus tard, la mère d'Emma apprendra que si certains remèdes maison peuvent être utiles, ils doivent néanmoins provenir de sources sûres et hygiéniques et être recommandés par un professionnel de la santé.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Emma souffre de maux d'estomac et de diarrhée depuis plus d’un jour. Sa mère se rend dans une clinique sans rendez-vous, où le médecin lui conseille d'acheter une solution de réhydratation orale et de continuer à l'allaiter\n\nÀ la pharmacie, la mère d'Emma trouve trop élevé le prix du médicament de réhydratation, mais elle remarque une tisane plus abordable. Elle se souvient que sa grand-mère buvait cette tisane à la maison pour soigner les problèmes d'estomac. \n\nLa mère d'Emma devrait-elle acheter de la tisane et la donner à Emma ?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "C’est admirable qu’Emma se concentre sur l’école mais son faible taux de fer se fait sentir.  \n Il est préférable de demander l'aide d'un adulte de confiance. Des aliments bon marché et riches en fer comme les pois chiches, les haricots et les brocolis peuvent améliorer sa santé. Elle devrait rester à l'école pour terminer ses études, et bien que travailler à 15 ans soit légal, cela ne devrait pas interférer avec sa scolarité ou la mettre dans une situation d'exploitation.",
+          "Text": "Continuer les efforts pour les examens et faire de son mieux."
+        },
+        {
+          "Note": "Il est sage de demander conseil à sa mère ou à un enseignant de confiance. Des aliments bon marché et riches en fer comme les pois chiches, les haricots et les brocolis peuvent améliorer la situation. Emma doit se concentrer sur le fait de finir ses études, et si elle travaille à 15 ans, cela ne doit pas l’en empêcher.",
+          "Text": "Demander conseil à sa mère ou à une enseignante."
+        },
+        {
+          "Note": "Bien qu'Emma veuille aider sa famille financièrement, un emploi pourrait entraver ses études et l’épuiser. Il serait préférable qu'elle demande conseil à un adulte de confiance et qu'elle se concentre sur la consommation d'aliments bon marché et riches en fer, comme les pois chiches, les haricots et les brocolis, afin de rester en bonne santé et de se concentrer sur ses études.",
+          "Text": "Trouver un emploi à temps-partiel pour aider sa famille à acheter plus de protéines."
+        }
+      ],
+      "Question": "Emma n’a que peu accès aux protéines saines et aux aliments riches en fer en raison des difficultés financières de sa famille et du coût élevé de la vie, qui se rabat souvent sur du fast-food et des aliments transformés. Cette situation l'expose à un risque d'anémie, qui se traduit par de la fatigue, des problèmes de concentration et de mémoire. Maintenant qu'elle a ses règles, l'achat de produits d'hygiène féminine s’ajoute à ses dépenses mensuelles, ce qui laisse moins d'argent pour les courses de nourriture, et à l'approche des examens scolaires son besoin en fer est encore plus urgent.\n\nQue devrait-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les fast-foods conviennent à son budget, mais ils sont riches en mauvaises graisses, en sucres et en calories inutiles, ce qui entraîne des problèmes de santé à long terme. Emma devrait choisir des aliments riches en nutriments, comme l'option C, pour un apport durable en énergie et une meilleure santé générale.",
+          "Text": "Un petit menu de restauration rapide pour 5,50 $ (hamburger, frites, boisson gazeuse)."
+        },
+        {
+          "Note": "La salade est bonne pour la santé mais risque de ne pas contenir les calories et les nutriments dont Emma a besoin pour la journée. L'option C, qui contient des protéines et des fibres, offre un meilleur apport en énergie et une meilleure concentration. Les plats préparés sont également plus chers, il est donc préférable de se préparer son repas.",
+          "Text": "Une salade toute prête pour 9,99 $ (légumes verts, légumes, vinaigrette)."
+        },
+        {
+          "Note": "Cette option offre un mélange équilibré de protéines, de fibres et de vitamines pour un apport en énergie qui dure et une bonne concentration. Les céréales complètes et les fruits fournissent une énergie à libération lente, ce qui en fait le choix le plus nutritif, même s'il demande un peu plus d'efforts et dépasse légèrement le budget.",
+          "Text": "Des ingrédients pour faire un sandwich et une pomme pour 7$ (pain complet aux céréales, charcuterie, pomme)."
+        }
+      ],
+      "Question": "Emma a 7 dollars pour son déjeuner aujourd'hui. Quelle option offre la plus grande valeur nutritionnelle ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Bien que travailler à temps plein apporte un soutien financier immédiat, cela limite les perspectives d'emploi d'Emma et pourrait l’enfermer dans une situation de pauvreté. Les jeunes qui abandonnent leurs études sont souvent confrontés à de l'instabilité économique, à des problèmes de santé et à moins d'opportunités. Emma devrait envisager un travail à temps partiel ou de faire appel aux ressources de la communauté pour subvenir aux besoins de sa famille pendant qu'elle termine ses études.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Quitter l’école au lycée peut avoir de graves conséquences sur l'avenir d'Emma. Les diplômés de l'enseignement secondaire ont généralement de meilleures perspectives d'emploi, des revenus plus élevés et davantage d'opportunités de carrière. Au Canada, les femmes sans diplôme gagnent beaucoup moins, ont une moins bonne santé et une moins bonne estime d'elles-mêmes. Un soulagement financier immédiat est tentant, mais les inconvénients à long terme de l'abandon des études l'emportent largement sur les avantages à court terme.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Emma, aujourd'hui âgée de 18 ans et élève de terminale, envisage d'abandonner ses études en raison de difficultés financières pour travailler à temps plein afin d'aider sa mère et son petit frère qui a des besoins particuliers et requiert des soins qui ne sont pas pris en charge. Elle admet cependant les avantages à long terme que lui donnerait le fait de terminer ses études secondaires. \n\nEmma devrait-elle abandonner ses études secondaires pour travailler à temps plein et subvenir aux besoins de sa famille ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les supérettes et les fast-foods, bien que plus faciles d'accès, offrent peu d'options saines et sont souvent riches en sucres, en graisses et en sel, ce qui peut entraîner des problèmes de santé tels que l'obésité et le diabète. Emma aurait intérêt trouver d'autres moyens d'accéder à des aliments plus sains, même au prix d’un effort supplémentaire.",
+          "Text": "Faire ses courses à la supérette la plus proche et avoir recours à la restauration rapide pour dépanner."
+        },
+        {
+          "Note": "Cette option permet à Emma d'accéder à des aliments plus sains malgré les barrières géographiques qu’on appelle des « déserts alimentaires ». Les programmes communautaires, les banques alimentaires et les coopératives proposent des produits frais à moindre coût. Les services publics de transport ou de livraison ont également accès à de meilleurs magasins. Bien qu'elles demandent un effort supplémentaire, ces stratégies peuvent aider Emma à maintenir une alimentation équilibrée et à réduire le risque de malnutrition.",
+          "Text": "Se renseigner sur les programmes communautaires ou les coopératives alimentaires pour obtenir des produits frais et utiliser les services publics de transport ou de livraison pour obtenir des aliments plus sains."
+        }
+      ],
+      "Question": "Emma a besoin de faire des courses pour sa famille, mais le magasin le plus proche se trouve à 30 minutes de bus, ce qui réduit son temps disponible pour étudier. \n\nQue devrait-elle faire ?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Les adultes en situation d'insécurité alimentaire grave sont souvent confrontés à des problèmes de santé mentale tels que le stress, l'anxiété et la dépression, qui peuvent entraîner de mauvaises habitudes alimentaires et une mauvaise santé physique. Le soutien en santé mentale, comme l’aide psychologique ou les programmes communautaires, est essentiel pour briser ce cycle. Les cliniques de santé locales et les ressources gouvernementales canadiennes en ligne offrent du soutien aux personnes à faible revenu.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Une grave insécurité alimentaire augmente le risque de mauvaise santé mentale, de dégradation de l’alimentation et du bien-être en général. Ignorer les problèmes de santé mentale peut conduire à des problèmes de santé chroniques et affecter la capacité d'Emma à prendre soin d'elle-même et de sa famille. Il est essentiel de chercher du soutien pour s'attaquer aux mauvaises habitudes alimentaires. Les cliniques de santé locales et les ressources gouvernementales canadiennes offrent de l'aide aux personnes à faible revenu.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "La vingtaine maintenant bien avancée, Emma est mariée, a un enfant en bas-âge et travaille de longues heures dans un emploi services ; elle et son partenaire ont des difficultés financières. Le stress lié à l'équilibre entre le travail, la garde des enfants et problèmes d’argent a un impact sur sa santé mentale, ce qui l'amène à sauter des repas ou à se tourner vers des aliments mauvais pour la santé. \n\nElle s’inquiète pour sa santé et sa capacité à s’occuper de sa famille, devrait-elle chercher à obtenir un soutien en matière de santé mentale ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Cette option conseille à Emma de rechercher des informations fiables et fondées sur des données probantes pour une alimentation saine et bon marché. Les programmes communautaires de nutrition, les ressources comme le Guide alimentaire canadien et les diététiciens agréés peuvent fournir des conseils pratiques et applicables. Une bonne alimentation est bénéfique pour la santé et les résultats scolaires futurs des enfants.",
+          "Text": "Rechercher des programmes et des ressources d'éducation nutritionnelle qui mettent l'accent sur une alimentation saine et bon marché et sur l'intégration d'aliments importants culturellement dans un régime équilibré."
+        },
+        {
+          "Note": "Les médias sociaux diffusent souvent des informations erronées et des attentes irréalistes en matière d'alimentation saine et d'image corporelle. Les influenceurs qui font la promotion de régimes coûteux ou restrictifs peuvent semer la confusion et être à l'origine d'une mauvaise alimentation. Emma devrait s'appuyer sur des sources crédibles pour obtenir des conseils adéquats.",
+          "Text": "S'appuyer sur les tendances et les influenceurs des réseaux sociaux pour obtenir des conseils en matière d'alimentation bonne pour la santé."
+        }
+      ],
+      "Question": "Emma se sent dépassée par les conseils diététiques contradictoires qu’elle trouve en ligne et a peu d’expérience en matière de repas faits maison. Elle s'inquiète du fait que ces sources mettent l'accent sur les régimes destinés à la perte de poids plutôt que sur fournir des bonnes habitudes alimentaires pour son enfant. \n\nQue devrait-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Il est essentiel que Emma continue à proposer des repas sains pour inculquer à son enfant de bonnes habitudes alimentaires tout au long de sa vie. Dans les pays à hauts-revenus comme le Canada, les aliments ultra-transformés représentent environ 50 % des calories quotidiennes. Le marketing agressif peut influencer les préférences des enfants, mais le fait d'impliquer son enfant dans la préparation des repas et de lui apprendre ce qu'est une alimentation nutritive peut aider à établir une relation positive avec une bonne alimentation. Les sucreries occasionnelles sont acceptables, mais les aliments mauvais pour la santé ne doivent pas devenir la norme.",
+          "Text": "Non, Emma doit continuer à proposer des repas sains et inculquer à son enfant de meilleurs réflexes alimentaires, même si cela demande de faire face à une certaine résistance."
+        },
+        {
+          "Note": "Les sucreries occasionnelles sont acceptables, mais le fait de céder régulièrement aux demandes d'aliments mauvais pour la santé peut entraîner de mauvaises habitudes alimentaires et des problèmes de santé à long terme tels que l'obésité et le diabète. Dans des pays comme le Canada, les aliments ultra-transformés représentent environ 50 % des calories quotidiennes. Le rôle d'Emma dans l'établissement de limites alimentaires est primordial pour le bien-être de son enfant.",
+          "Text": "Oui, il est possible de faire preuve d'indulgence de temps en temps pour que les repas restent un moment agréable et pour éviter les conflits."
+        }
+      ],
+      "Question": "L'enfant d'Emma, âgé de 5 ans, préfère les snacks mauvais pour la santé et les fast-foods à cause de l'influence de la publicité. Malgré ses efforts pour lui fournir des repas nutritifs, son enfant réclame constamment des céréales sucrées, des chips et du fast-food. \nEmma s'inquiète de l'impact sur la santé et se demande si elle ne devrait pas céder à ces demandes pour simplifier les moments des repas ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les rendez-vous prénataux sont essentiels pour gérer l'anémie d'Emma et surveiller sa propre santé et celle de son bébé. Une prise en charge adéquate est nécessaire pour éviter des complications telles qu'une naissance prématurée ou un poids insuffisant à la naissance, ce que des compléments alimentaires en vente libre ne suffiront peut-être pas à empêcher.",
+          "Text": "Oui, il est essentiel qu'elle se rende à ses rendez-vous prénataux pour gérer son anémie et garantir une grossesse en bonne santé."
+        },
+        {
+          "Note": "Le recours à des compléments alimentaires en vente libre plutôt qu'à des soins prénataux peut aggraver l'anémie et entraîner des complications telles qu'une naissance prématurée ou un poids insuffisant à la naissance, ce qui augmenterait les risques sanitaires et les frais médicaux associés. Bénéficier de soins prénataux est essentiel.",
+          "Text": "Non, elle devrait continuer à travailler et traiter son anémie avec des compléments alimentaires en vente libre jusqu'à ce qu'elle puisse se permettre de prendre un congé."
+        }
+      ],
+      "Question": "Emma, enceinte de son deuxième enfant et diagnostiquée anémique (une maladie qui peut entraîner des complications pour elle et le bébé), fait face à un dilemme : s'absenter de son travail pour ses rendez-vous prénataux ou gérer ses besoins financiers. Doit-elle donner la priorité aux soins prénataux pour se garantir une grossesse en bonne santé ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Le vote permet à Emma d'influencer les politiques qui ont un impact sur sa vie quotidienne et sur l'avenir de sa communauté. En soutenant les candidats qui défendent la création de magasins bon marché dans les quartiers défavorisés, qui réglementent la publicité des aliments mauvais pour la santé et qui augmentent l'aide internationale pour venir en aide aux enfants vulnérables à l'étranger, elle peut contribuer à la création d'un système alimentaire mondial équitable et améliorer l'accès de sa famille à une alimentation saine.",
+          "Text": "Oui, voter pour des candidats qui accordent la priorité à la sécurité alimentaire et à un accès pour tous peut entraîner des changements de politiques bénéfiques pour Emma ainsi que qu’entraîner un soutien envers les populations vulnérables par le biais de l'aide internationale."
+        },
+        {
+          "Note": "Même s’il est important de gérer sa propre situation, ignorer le pouvoir que représente le vote signifie manquer une chance d'influencer les politiques publiques qui régissent l'accès à une alimentation saine, aux soins de santé et à l'éducation. Voter à tous les niveaux du gouvernement est essentiel pour obtenir des améliorations qui bénéficieront à sa famille et soutiendront les enfants en situation de vulnérabilité dans le monde entier. Les changements politiques commencent souvent par des mouvements de base et le soutien des électeurs, ce qui rend le vote d'Emma essentiel.",
+          "Text": "Non, voter ne changera pas grand-chose et Emma devrait se concentrer sur la gestion de sa situation actuelle plutôt que de compter sur des changements de politiques publiques."
+        }
+      ],
+      "Question": "Emma est désormais consciente des difficultés d'accès à une alimentation saine auxquelles sa famille fait face, qu'il s'agisse du manque de magasins abordables ou de la commercialisation agressive de mauvais aliments. Elle se renseigne également sur comment les politiques gouvernementales pourraient améliorer l'accès à une alimentation saine dans sa communauté et soutenir les enfants en situation de vulnérabilité à l'étranger qui souffrent de la faim grâce à l'aide internationale. Les élections approchent et Emma se demande si son vote pourrait contribuer à résoudre ces problèmes.\n\nEmma devrait-elle voter lors des prochaines élections pour soutenir les politiques qui améliorent l'accès à une alimentation saine et qui s'attaquent aux problèmes du système alimentaire, au Canada comme à l'étranger ?"
+    }
+  ]
+}

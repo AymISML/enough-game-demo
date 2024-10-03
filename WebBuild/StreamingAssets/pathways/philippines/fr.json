@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La solution idéale pour les six premiers mois est l’allaitement maternel exclusif. Le lait maternel fournit toute l'alimentation nécessaire pour Issa, et avoir le bon dosage des nutriments, des anticorps et des enzymes est essentiel au bon développement du bébé. L'eau impropre à la consommation et les liquides autres que le lait maternel peuvent augmenter le risque d'infections.",
+          "Text": "Continuer à allaiter chaque fois que Issa semble avoir faim."
+        },
+        {
+          "Note": "La bouillie liquide est en réalité pire pour Issa. L'allaitement maternel exclusif garantit que tous ses besoins nutritionnels sont satisfaits et prévient les risques de maladie potentielle en provenance de sources non sûres. L’introduction d’autre nourriture avant six mois n'apportera pas suffisamment de nutriments essentiels pour la croissance et le développement du bébé.",
+          "Text": "Commencer à lui donner du lugaw pour voir si ça aide."
+        }
+      ],
+      "Question": "Quand Issa est née, elle pleurait beaucoup, et sa mère craignait que son lait maternel ne suffise pas. Un membre de la communauté a suggéré de lui donner du lugaw (un porridge de riz assez liquide). Que devrait faire la mère d’Issa ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les papayes sont pauvres en fer mais riches en vitamine C qui facilitent l'absorption du fer contenu dans les aliments d'origine végétale. Bien qu’elles constituent un en-cas sain, elles ne répondent pas directement au besoin en fer d’Issa.",
+          "Text": "La papaye coûte: \nEntre 45PHP et PHP (0,80$ à 1,42$) par kilogramme en moyenne."
+        },
+        {
+          "Note": "De nombreuses céréales pour petit-déjeuner sont enrichies en fer, mais même les options les moins chères représentent un coût élevé pour la mère d’Issa, ce qui pourrait signifier un sacrifice de l'apport en protéines pendant quelques jours. Elles ont également tendance à contenir beaucoup de sucres ajoutés.",
+          "Text": "Les céréales enrichies pour le petit déjeuner coûtent :\nEntre 115PHP et 250 PHP (2,04$ à 4,44$) en moyenne pour une petite boîte de 300g."
+        },
+        {
+          "Note": "Les anchois constituent une très bonne source locale de fer pour la mère d’Issa. Ils fournissent environ 4,6 mg de fer pour 100g, ce qui s’approche des 7 mg d’apport quotidien en fer recommandé pour les enfants de l’âge d’Issa et en fait une solution économique et efficace.",
+          "Text": "Les filets d’anchois coûtent: \nEntre 45 PHP et 60PHP (0.80$ à $1.07) pour 100 grammes"
+        }
+      ],
+      "Question": "Issa vient d'avoir un an. Sa mère sait qu'une alimentation saine est essentielle à son développement. Un travailleur sanitaire de la communauté l'a informée de l'importance du fer dans son régime alimentaire. Les aliments riches en fer étant chers, elle doit faire des choix efficaces. En moyenne, une famille de cinq a besoin d’un revenu de 13,797PHP (245$) par mois pour satisfaire ses besoins primaires et un panier de provisions nutritif coûte 22,55$. \n\nQue doit-elle privilégier pour améliorer leur taux de fer ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Issa se sent mieux après avoir pris la solution de réhydratation orale, et la décision de sa mère d'acheter du savon garantit une meilleure hygiène à la maison. Un lavage régulier et soigneux des mains élimine les agents pathogènes nocifs, tels que les virus et les bactéries, qui peuvent provoquer des maladies diarrhéiques.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Issa se sent mieux après avoir pris la solution de réhydratation orale, mais le manque d'hygiène à la maison entraîne des diarrhées régulières, ce qui entrave sa croissance, l'absorption des nutriments et finit par provoquer un retard de croissance dû à des infections fréquentes.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Issa a des problèmes d’estomac et des diarrhées depuis plus d'un jour. Sa mère rend visite à un travailleur de santé local, qui insiste sur l’importance d’une bonne hygiène, comme le lavage des mains avec du savon, et lui donne une solution de réhydratation orale pour Issa. Un vendeur ambulant vendant du savon passe devant la mère d’Issa. \n\nSa mère devrait-elle acheter du savon ?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "Il est important que Issa se concentre sur sa scolarité mais elle a du mal. Il est sage de demander de l'aide à un adulte de confiance. Le moringa, le foie et les haricots mungo sont des sources de fer abordables, et des organisations comme World Vision peuvent aider les jeunes filles à combattre la stigmatisation liée aux menstruations. Chaque fille devrait rester scolarisée au moins jusqu’à 18 ans.",
+          "Text": "Continuer les efforts pour les examens et faire de son mieux."
+        },
+        {
+          "Note": "Il est sage de demander de l'aide à un adulte de confiance. Le moringa, le foie et les haricots mungo peuvent aider à augmenter les niveaux de fer, et des programmes existent pour aider les filles à faire face aux besoins menstruels et à la stigmatisation qui en découle. Issa, et toutes les jeunes filles, devraient pouvoir rester scolarisées jusqu'à l'âge de 18 ans.",
+          "Text": "Demander conseil à sa mère ou à une enseignante sur comment gérer ses symptômes."
+        },
+        {
+          "Note": "Gagner sa vie c’est faire preuve d'initiative, mais c'est aussi courir le risque de se faire exploiter. Il est préférable de demander de l'aide à un adulte de confiance. Le moringa, le foie et les haricots mungo, sont des sources de fer bon marché et des programmes existent pour aider avec les besoins menstruels. Chaque fille devrait avoir le droit de finir l’école secondaire.",
+          "Text": "Se mettre à vendre des snacks sur le bord de la route avant l'école pour aider sa famille et acheter de la nourriture."
+        }
+      ],
+      "Question": "En raison de difficultés économiques post-COVID-19, la famille d’Issa a du mal à acheter de la nourriture riche en nutriments. Celle-ci a récemment commencé à avoir ses règles et il lui est encore plus difficile de satisfaire ses besoins accrus en fer, ce qui l'expose à un risque d'anémie. Elle se sent souvent fatiguée, a du mal à se concentrer à l'école et oublie des informations en classe. \n\nElle a ses examens de fin d'année le mois prochain. Que devrait-elle faire?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "L'eau de surface est souvent contaminée et présente un risque de parasites et de microbes lorsqu’elle n’est pas traitée. Issa et sa famille pourraient tomber malades, ce qui signifierait davantage de frais de santé et moins d'argent pour la nourriture. L'utilisation d’un puits est plus sûre.",
+          "Text": "Aller chercher de l'eau dans la rivière voisine. De cette façon, elle n'a pas à marcher loin et peut passer plus de temps à vendre des snacks."
+        },
+        {
+          "Note": "Aller au puits représente un effort supplémentaire, mais garantit une meilleure santé pour Issa et sa famille. La contamination des eaux de surfaces augmente le risque de maladies d'origine hydrique et entraîne des frais de santé, ce qui réduit l’argent disponible pour la nourriture. Le puits est une option plus saine si l'eau est recueillie et stockée en toute sécurité.",
+          "Text": "Faire l'effort de se rendre au puits pour avoir accès à de l'eau propre, malgré la distance plus longue."
+        }
+      ],
+      "Question": "La famille d'Issa est également confrontée à d'importantes difficultés d'accès à l'eau. Elle doit soit aller chercher l'eau dans une rivière voisine soit dans un puits artésien situé à 2 km (30 minutes de marche à l’aller et au retour). A cause des effets du retard de croissance qu'elle a subi avant l'âge de 2 ans, Issa a du mal à effectuer des activités physiques telle que la collecte quotidienne de l'eau.\n\nFace à ces difficultés, que devrait-elle choisir ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Si l'on considère que le coût de la vie moyen aux Philippines est de 601$, la famille d’Issa aurait peut-être besoin d’une aide supplémentaire à la maison. Ne pas l’envoyer à l’école permettrait également d’économiser les dépenses associées. Cependant, le fait de terminer ses études influe grandement sur ses perspectives d'avenir. Les filles qui restent scolarisées plus longtemps se marient plus tard, ont des enfants en meilleure santé et ont elles-mêmes une meilleure santé et une meilleure alimentation.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "L'éducation influe grandement sur les perspectives d'avenir d’Issa. Rester scolarisée équivaut à se marier plus tard, à avoir des enfants en meilleure santé et à avoir soi-même une meilleure santé et alimentation. Malgré ces bienfaits, les coûts associés à sa scolarité comparés au coût de la vie de 601$ par mois font que sa famille est tentée de la garder à la maison.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Étudier est très important pour l’avenir de Issa. À 16 ans, elle est enthousiaste à l’idée d’être bientôt en terminale, mais certains des filles et des garçons avec qui elle avait démarré sa scolarité ont commencé à abandonner l’école. L'enseignement est gratuit mais sa famille a du mal à payer les dépenses d’uniformes, de fournitures scolaires et de transport. \n\nSa famille devrait-elle continuer à l’envoyer à l’école?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Issa devrait exprimer son désir de rester à l'école. Les enfants qui ont souffert d'un retard de croissance avant l'âge de 2 ans risquent davantage de quitter l'école plus tôt que les autres. Cependant, poursuivre ses études améliorera ses possibilités d’emploi et l’aidera à subvenir à ses besoins plus tard.",
+          "Text": "Issa devrait dire à ses parents qu’elle veut rester à l’école et demander à un enseignant ou à une autorité religieuse locale de discuter avec eux de l'importance de l'éducation."
+        },
+        {
+          "Note": "Un enfant qui a subi un retard de croissance avant l'âge de 2 ans a plus de risques de quitter l'école plus tôt qu'un enfant qui n'en a pas subi, mais Issa a encore le choix. Le fait de quitter l'école prématurément réduit ses possibilités d'emploi et sa capacité à subvenir à ses besoins plus tard.",
+          "Text": "Issa devrait accepter de quitter l’école ; elle n’aurait probablement pas eu les moyens d’aller à l’université de toute façon."
+        }
+      ],
+      "Question": "Issa a 17 ans et ses parents veulent qu'elle quitte l'école, comme 40% de ses camarades, et qu’elle aille à la ville chercher du travail comme employée de maison ou vendeuse dans un magasin afin d’aider à couvrir les dépenses de la famille. Issa veut rester à l'école et se concentrer sur ses études.\n\nQue devrait-elle dire à ses parents ?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Issa envisage de créer un commerce de vente de plats faits maison pour obtenir un revenu supplémentaire ou de s'installer en ville pour y travailler. Cependant, il lui sera difficile de trouver un emploi bien rémunéré sans retourner à l'école. Elle devrait envisager un enseignement à temps partiel ou une formation professionnelle pour améliorer ses chances d’un avenir meilleur et s'assurer un accès à une alimentation saine.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Bien qu'un revenu puisse l'aider, il pourrait ne pas être suffisant pour couvrir le coût d'une alimentation équilibrée. Elle n'a pas terminé ses études, ce qui rend peu probable un emploi bien rémunéré. Elle devrait envisager un enseignement à temps partiel ou une formation professionnelle pour avoir les meilleures chances d'avoir un régime alimentaire équilibré à l'avenir.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Issa travaille maintenant, vit à la maison et est en charge de la cuisine pour sa famille. Un cyclone tropical aux Philippines a dévasté leur récolte de riz et elle n'a pas les moyens d'acheter plus de nourriture au marché. Son père lui donne de l'argent mais pas assez pour acheter des légumes ou de la viande. Issa devrait-elle créer une entreprise pour couvrir le manque de budget?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Statistiquement, les personnes ayant souffert d'un retard de croissance pendant l'enfance gagnent moins à l'âge adulte ; aux Philippines, cela pourrait représenter 493,81$ de moins par personne et par an. Le choix d’Issa de continuer à travailler reflète des options limitées, mais le coût de la vie en ville est élevé et l'accès à des aliments nutritifs est difficile en raison des prix. Elle dépend de la bonne volonté de ses proches pour avoir du soutien.",
+          "Text": "Issa devrait garder cet emploi."
+        },
+        {
+          "Note": "Le retard de croissance pendant l'enfance se traduit souvent par des revenus inférieurs à l'âge adulte ; aux Philippines, cela pourrait représenter 493,81$ de moins par an. La recherche d'un autre travail rend sa vie instable, car Issa continue à travailler dur comme employée de maison. Malgré sa volonté d’avoir un régime sain, la cherté de la vie en ville et les prix de la nourriture rendent difficile l’accès à des produits frais, ce qui la rend dépendante de la générosité de ses proches.",
+          "Text": "Issa devrait démissionner et trouver un autre emploi."
+        }
+      ],
+      "Question": "Issa, aujourd'hui âgée de 17 ans, travaille 6 jours sur 7 comme employée de maison en ville. Les conséquences de son retard de croissance pendant l’enfance rendent ce travail essentiellement physique difficile. Le salaire est faible et son village lui manque. Devrait-elle rester travailler ici ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Le trafic d’êtres humains est un problème important aux Philippines. Bien que de nombreux philippins travaillent avec succès à l'étranger, des filles vulnérables comme Issa courent le risque d'être forcées au trafic sexuel ou à la servitude domestique. Sans éducation, il est difficile de trouver un travail convenable et sûr. La malnutrition augmente le risque d’être sans emploi de 12% et les effets à long terme de l'anémie peuvent réduire la productivité et le quotient intellectuel. La taille des femmes est corrélée au salaire: chaque augmentation d'un centimètre entraîne une hausse de salaire de 6 %.",
+          "Text": "Issa devrait accepter le nouvel emploi au sein de l'agence de recrutement."
+        },
+        {
+          "Note": "Si Issa reste, elle risque d'être licenciée à cause de sa malnutrition, qui augmente la probabilité d’être sans emploi de 12 %, ce qui a un impact sur sa stabilité économique. Elle est probablement plus en sécurité cela dit, car le trafic d'êtres humains est un problème important aux Philippines.",
+          "Text": "Issa devrait rester à son emploi actuel et trouver une alternative locale."
+        }
+      ],
+      "Question": "Issa, qui travaille toujours comme employée de maison, voit des annonces d'agences qui aident à trouver du travail à l'étranger. Elle s'adresse à l'agence de recrutement qui lui promet un nouvel emploi dans une famille à l'étranger, avec un salaire plus élevé, et les repas et le vol pris en charge. Son père ne veut pas qu'elle accepte ce travail.\n\nQue devrait faire Issa ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les visites prénatales sont primordiales car elles fournissent des services sanitaires et de nutrition essentiels pendant la grossesse. Un traitement ponctuel contre l'anémie peut réduire les risques liés à la grossesse pour Issa et améliorer les chances que son bébé ait un poids sain à la naissance. Elle a besoin de compléments alimentaires et d’être suivie par des prestataires de santé qui peuvent la conseiller en matière de sources de fer abordables.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Les soins prénataux sont essentiels pour fournir les services de santé et de nutrition nécessaires pendant la grossesse. Une prise en charge rapide de son anémie peut réduire les risques liés à la grossesse et garantir une meilleure santé à la naissance pour son bébé. Issa a besoin de compléments alimentaires et d’être suivie par des prestataires de santé pour obtenir des conseils sur les sources de fer abordables.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Issa fréquente un garçon en ville depuis quelques temps et elle est maintenant enceinte et attend son premier enfant. Elle craint d'être licenciée, se sent extrêmement fatiguée et on lui a diagnostiqué de l’anémie. Elle n'aime pas se rendre aux visites prénatales parce que les heures d'ouverture de l'unité de santé sont limitées aux jours de semaine et aux heures où elle travaille. \n\n\nIssa devrait-elle continuer les visites prénatales au centre de santé ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Issa aura peut-être du mal à obtenir le soutien de sa famille. L'augmentation des prix de la nourriture due au changement climatique rend difficile l'accès à des aliments nutritifs. Bien que ses proches puissent se payer des nouilles instantanées, cette nourriture ultra-transformée n’a pas les nutriments essentiels à la grosse d’Issa. Plus de 44% des philippins souffrent d'une insécurité alimentaire modérée ou grave. Issa devrait consulter un travailleur de santé de la communauté pour trouver des aliments abordables et cultivés localement afin d'améliorer sa nutrition.",
+          "Text": "Issa pourrait demander à son mari et à ses proches de l'aider à rester en bonne santé pendant la grossesse."
+        },
+        {
+          "Note": "Bien que ses proches puissent se payer des nouilles instantanées, cette nourriture ultra-transformée n’a pas les nutriments essentiels pour la grosse d’Issa. Plus de 44% des philippins souffrent d'une insécurité alimentaire modérée ou grave. Issa devrait consulter un travailleur de santé de la communauté pour trouver des aliments abordables et cultivés localement afin d'améliorer sa nutrition.",
+          "Text": "Issa devrait choisir des aliments moins chers et s'assurer que ses repas lui apportent suffisamment d'énergie."
+        }
+      ],
+      "Question": "Issa s'est rendue au centre de santé, où elle a reçu un traitement à base de fer et de vitamine B9 après que son anémie ait été traitée. En tant qu'adolescente enceinte, elle doit s’alimenter suffisamment pour assurer son propre développement et celui de son bébé. Mais l’augmentation des prix de la nourriture aux Philippines à cause du changement climatique rend plus difficile l’achat de nourriture saine et abordable. \n\nQue devrait faire Issa pour assurer une grossesse saine pour elle et son bébé ?"
+    }
+  ]
+}

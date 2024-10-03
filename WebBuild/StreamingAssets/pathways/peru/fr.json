@@ -1,0 +1,172 @@
+{
+  "stage01": [
+    {
+      "Answers": [
+        {
+          "Note": "La solution idéale est l’allaitement maternel exclusif. Le lait maternel fournit toute l'alimentation nécessaire pour les six premiers mois de Luciana. Le bon dosage des nutriments, des anticorps et des enzymes est essentiel au bon développement du bébé. L'eau impropre à la consommation et les liquides autres que le lait maternel peuvent augmenter le risque d'infections.",
+          "Text": "Continuer à allaiter chaque fois que Luciana semble avoir faim."
+        },
+        {
+          "Note": "Le lait de vache avec du sucre est en réalité pire pour Luciana. L'allaitement maternel exclusif garantit que tous ses besoins nutritionnels sont satisfaits et prévient les risques de maladie potentielle en provenance de sources non sûres. Son corps n'est pas encore prêt à recevoir d'autres aliments. Leur utilisation n'apportera pas suffisamment de nutriments essentiels pour la croissance et le développement du bébé.",
+          "Text": "Commencer à lui donner le lait mélangé et voir si ça aide."
+        }
+      ],
+      "Question": "Quand Luciana est née, elle pleurait beaucoup, et sa mère craignait que son lait maternel ne suffise pas. Un membre de la communauté a suggéré de lui donner du lait de vache mélangé à de l’eau et du sucre.  \n\nQue devrait faire la mère de Luciana?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "La  lucuma est pauvre en fer mais riche en vitamine A et C qui facilitent l'absorption du fer contenu dans les aliments d'origine végétale. Elle constitue un en-cas sain mais ne répond pas directement au besoin en fer de Luciana.",
+          "Text": "Lucuma: \n0,80 à 1,90 $ par kilogramme"
+        },
+        {
+          "Note": "De nombreuses céréales pour petit-déjeuner sont enrichies en fer, mais même les options les moins chères représentent un coût élevé pour la mère de Luciana, ce qui pourrait signifier un sacrifice de l'apport en protéines pendant quelques jours. Elles ont également tendance à contenir beaucoup de sucre ajouté.",
+          "Text": "Céréales enrichies pour le petit-déjeuner : \n1,35 $ à 5,40 $ en moyenne par boîte."
+        },
+        {
+          "Note": "Les lentilles sont un aliment de base populaire au Pérou, et constituent un bon choix pour la mère de Luciana. Elles contiennent environ 6,6mg de fer pour 100g, proche des 7mg recommandés pour les enfants de l’âge de Luciana, ce qui en fait une solution abordable et disponible à peu près partout.",
+          "Text": "Lentilles : \n1,08 $ à 1,62 $ en moyenne par kilogramme"
+        }
+      ],
+      "Question": "Luciana vient d'avoir un an. Sa mère sait qu'une alimentation saine est essentielle à son développement. Un travailleur sanitaire du village l'a informée de l'importance du fer dans son régime alimentaire. Les aliments riches en fer étant chers, elle doit faire des choix efficaces. \n\nSachant qu’un panier de provisions nutritif coûte 21,97$, que devrait-elle acheter en priorité pour améliorer leur taux de fer ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Luciana se sent mieux après avoir reçu la solution de réhydratation orale, mais l'eau de riz du vendeur ambulant n’a pas été préparée dans de bonnes conditions d’hygiène et elle doit retourner au centre médical. Le manque d'hygiène à la maison entraîne des diarrhées régulières, ce qui entrave sa croissance, l'absorption des nutriments et finit par provoquer un retard de croissance dû à des infections fréquentes.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Luciana se sent mieux après avoir reçu la solution de réhydratation orale,et tant mieux si elle n’a pas eu d’eau de riz du vendeur ambulant qui a pu être préparée de manière peu hygiénique. L'eau de riz peut être une excellente source d'hydratation supplémentaire si sa mère la prépare à la maison ou l'achète auprès d'une source fiable.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Luciana souffre de maux d'estomac et de diarrhée depuis plus d'un jour. Sa mère se rend dans un centre médical local, et l’infirmière insiste sur une bonne hygiène, comme le lavage des mains avec du savon, et lui donne une solution de réhydratation orale pour Luciana. La mère de Luciana passe devant un vendeur ambulant d’eau de riz (agua de arroz), un remède local.\n\n\nSa mère devrait-elle acheter de l’eau de riz ?"
+    }
+  ],
+  "stage02": [
+    {
+      "Answers": [
+        {
+          "Note": "Il est important pour Luciana de se concentrer à l’école mais elle a du mal. Il est sage de demander de l'aide à un adulte de confiance. Les lentilles, les haricots et le quinoa sont des sources de fer abordables. Chaque fille devrait rester à l'école jusqu'à ce qu'elle ait au moins 17 ans, et bien que travailler si on a plus de 15 ans est légal au Pérou avec la permission des parents, il est important de s’assurer que ça ne gêne pas la scolarité.",
+          "Text": "Continuer les efforts pour les examens et faire de son mieux."
+        },
+        {
+          "Note": "Il est sage de demander de l'aide à un adulte de confiance. Les lentilles, les haricots et le quinoa peuvent augmenter les niveaux de fer. Luciana, et toutes les jeunes filles, devraient pouvoir rester scolarisées jusqu'à l'âge de 17 ans. Bien qu’il soit légal de travailler au Pérou si on a plus de 15 ans, il est important de s’assurer que ça ne gêne pas la scolarité.",
+          "Text": "Demander conseil à sa mère ou à une enseignante."
+        },
+        {
+          "Note": "Bien qu’il soit légal de travailler au Pérou si on a plus de 15 ans, il est important de s’assurer que ça ne nuise pas à sa scolarité, et son emploi à la ferme lui fait courir le risque d’être exploitée. Il vaut mieux demander de l’aide à un adulte de confiance. Les lentilles, les haricots et le quinoa sont des sources de fer abordables. Chaque jeune fille devrait avoir le droit de terminer l’école secondaire.",
+          "Text": "Aller travailler dans une ferme locale pour aider aux récoltes avant l’école afin d’aider sa famille et couvrir les besoins essentiels tels que davantage de sources de protéines à manger."
+        }
+      ],
+      "Question": "Luciana n'a pas mangé beaucoup de viande en grandissant et a récemment commencé à avoir ses règles, ce qui rend l'apport en fer encore plus important. Elle court un risque d'anémie, se sent souvent fatiguée, a du mal à se concentrer à l'école et oublie des informations en classe. \n\nElle a ses examens de fin d'année le mois prochain. Que doit-elle faire ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "L'eau de surface est souvent contaminée et présente un risque de parasites et de microbes lorsqu’elle n’est pas traitée. Luciana et sa famille pourraient tomber malades, ce qui signifierait davantage de frais de santé et moins d'argent pour la nourriture. L'utilisation du robinet de la communauté est plus sûre ; si la distance est trop grande, Luciana peut demander l'aide d'un de ses frères et sœurs.",
+          "Text": "Aller chercher de l'eau dans le ruisseau voisin. De cette façon, elle n'aura pas besoin de marcher aussi loin ou de transporter l’eau à travers les collines."
+        },
+        {
+          "Note": "Aller au puits représente un effort supplémentaire, mais garantit des avantages sanitaires à long terme pour Luciana et sa famille. La contamination des eaux de surfaces augmente le risque de maladies d'origine hydrique, entraîne des frais de santé et réduit l’argent disponible pour la nourriture. Le robinet de la communauté est une option plus saine si l'eau est recueillie et stockée en toute sécurité et un de ses frères et sœurs pourrait l’aider à rapporter l’eau.",
+          "Text": "Se forcer à aller jusqu’au puits pour avoir accès à de l'eau propre, malgré la plus grande distance et le chemin difficile."
+        }
+      ],
+      "Question": "Luciana a toujours été petite pour son âge en raison d'un retard de croissance avant l'âge de 2 ans. A cause de son retard de croissance, Luciana a du mal à effectuer des activités physiquement contraignantes. Elle peut soit aller chercher de l'eau dans un ruisseau voisin, peu profond et à faible débit, soit suivre la route accidentée et vallonnée jusqu’à un robinet communautaire situé à 2 km (40 minutes de marche à l'aller comme au retour). Que devrait faire Luciana ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Sachant que le salaire minimum au Pérou est de 350$ par mois, on comprend aisément pourquoi la famille de Luciana a besoin de son aide à la maison. Cependant, terminer ses études aurait un impact considérable sur ses perspectives d'avenir. Les filles qui restent plus longtemps à l'école se marient plus tard, ont des enfants en meilleure santé et ont elles-mêmes une meilleure santé et une meilleure alimentation.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "L'éducation influe grandement sur les perspectives d'avenir de Luciana. En restant à l'école, elle se mariera plus tard, aura une meilleure santé et une meilleure alimentation et ses enfants seront en meilleure santé. Malgré ces bienfaits, on comprend aisément pourquoi la famille de Luciana a besoin de son aide à la maison.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Étudier est très important pour l'avenir de Luciana, mais à 16 ans, plus de 10% des filles avec qui elle a commencé sa scolarité ont déjà quitté l’école. Se rendre à l’école tous les jours représente un coût élevé, et le temps de la marche équivaut à du temps en moins pour aider à la maison, à la cuisine ou avec les tâches agricoles. Sa famille peut-elle se permettre de continuer à envoyer Luciana à l'école ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Luciana peut possiblement trouver davantage d'opportunités et de moyens de gagner de l'argent en ville et aura peut-être accès à un régime alimentaire plus varié, mais il s'agit d'une décision dangereuse et risquée. Elle ne connaît personne d'autre là-bas et n'est pas sûre que la relation se passe bien.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Luciana pourrait avoir plus d'opportunités, gagner plus d'argent et avoir accès à un régime alimentaire plus varié en ville, mais c'est une décision dangereuse et risquée. Rester avec ses parents, manger la nourriture tirée des récoltes qu'ils peuvent produire et éventuellement retourner à l'école est un choix plus sûr.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Les parents de Luciana décident qu'il ne vaut pas la peine qu'elle reste à l'école et lui demandent de commencer à travailler à la maison à plein temps. Elle revoit le fils aîné d'un voisin qu’elle n’avait pas vu depuis longtemps lorsqu'il revient de la ville au village, et ils deviennent intimes. Au bout de quelques semaines, il retourne en ville et cesse d'envoyer des messages à Luciana.\n\nDevrait-elle le suivre à la ville ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Les familles comme celle de Luciana accordent souvent beaucoup d'importance aux valeurs traditionnelles, et la grossesse chez les adolescentes, bien que courante dans la région, demeure stigmatisée. Quelle que soit sa décision, il est essentiel que Luciana ait accès à des soins. Les filles qui ont souffert d'un retard de croissance sont particulièrement susceptibles d’avoir des problèmes de santé liés à l'accouchement, voire d’en mourir.",
+          "Text": "Luciana devrait demander à une amie si elle peut rester avec sa famille quelque temps pendant qu'elle essaie de faire accepter sa grossesse à ses parents."
+        },
+        {
+          "Note": "Parmi d'autres problèmes, la grossesse chez les adolescentes présente des risques élevés pour la santé de la mère et de l'enfant. Les filles qui ont souffert d'un retard de croissance sont particulièrement susceptibles d’avoir des problèmes de santé liés à l'accouchement, voire d’en mourir. Si le petit ami de Luciana est prêt à la soutenir, elle et leur bébé, aller vivre avec lui pourrait être le meilleur moyen pour Luciana et son bébé d'obtenir le soutien et la nutrition dont ils ont besoin.",
+          "Text": "Luciana devrait suivre son petit ami en ville et essayer de faire en sorte que leur relation marche."
+        }
+      ],
+      "Question": "Luciana reste à la maison, mais elle n'a pas ses règles et se rend compte qu'elle est peut-être enceinte. Elle se rend au centre de santé local pour demander conseil, mais ses parents l'apprennent et sont furieux. Ils lui ordonnent de quitter la maison. \n\nQue doit faire Luciana ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Luciana et son compagnon doivent pouvoir se procurer des aliments nutritifs pour eux-mêmes et pour leur bébé qui arrive. Statistiquement, les personnes souffrant d'un retard de croissance pendant l'enfance gagnent moins à l'âge adulte ; au Pérou, cela pourrait représenter 296,16$ de moins par habitant et par an. Luciana peut toujours chercher un autre emploi plus tard, mais elle devrait probablement accepter celui-ci en attendant.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Un emploi de bureau serait sans doute mieux pour Luciana et moins exigeant physiquement, mais sans avoir terminé l'école, ce sera difficile d'en trouver un. Pour les enfants ayant souffert d'un retard de croissance à l'âge de 2 ans, les chances d'occuper un emploi qualifié ou de col blanc une fois adulte sont inférieures de 41% celles de vivre sous le seuil de pauvreté sont supérieures de 42 %. Elle devrait probablement accepter le poste de caissière.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Luciana vit avec son petit ami à Trujillo, une grande ville située sur la côte nord du Pérou, avec de nombreux emplois dans l'agriculture et l'industrie. Ils ont du mal à joindre les deux bouts avec son seul salaire et il la presse de trouver un emploi. On finit par proposer à Luciana un emploi de caissière dans un marché, mais son ventre commence à grossir et elle se sent fatiguée à l'idée d'être debout toute la journée.\n\nDevrait-elle accepter cet emploi ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Comme Luciana a souffert d'un retard de croissance lorsqu'elle était enfant, son bébé a plus de chances d'avoir un poids insuffisant à la naissance et de présenter un risque plus élevé de malnutrition voire de décès, ce qui rend les visites de soins prénataux encore plus vitales. Un traitement opportun de l'anémie et un suivi médical peuvent réduire les risques pour Luciana et améliorer les chances de son bébé d'avoir un poids sain à la naissance.",
+          "Text": "Oui"
+        },
+        {
+          "Note": "Comme Luciana a souffert d'un retard de croissance lorsqu'elle était enfant, son bébé a plus de chances d'avoir un poids insuffisant à la naissance et de présenter un risque plus élevé de malnutrition voire de décès, ce qui rend les visites de soins prénataux encore plus vitales. La prise en charge rapide de son anémie par des compléments alimentaires et des soins continus peut réduire les risques de complications et garantir une naissance en meilleure santé pour son bébé.",
+          "Text": "Non"
+        }
+      ],
+      "Question": "Luciana a accepté l’offre d’emploi, mais travailler debout toute la journée est difficile et elle se sent extrêmement fatiguée. On lui a diagnostiqué de l’anémie. Il lui est difficile de programmer des visites prénatales parce qu'elle travaille 45 heures par semaine. \n\nLuciana devrait-elle continuer à se rendre au centre de santé pour ses visites prénatales ?"
+    },
+    {
+      "Answers": [
+        {
+          "Note": "Au Pérou, 15 % des filles ont du mal à obtenir une diversité alimentaire de base, soit en raison d’une trop grande pauvreté, d’une dépendance aux aliments ultra-transformés, ou les deux. Depuis récemment, les gens se tournent davantage vers des plats transformés qui présentent une faible diversité d’aliments. Bien que faciles et rapides à préparer, ces repas n'apporteront pas à Luciana et à son bébé la nutrition dont ils ont besoin.",
+          "Text": "Luciana devrait acheter des plats préparés sur les étals et des snacks au magasin afin de pouvoir travailler davantage."
+        },
+        {
+          "Note": "Plus de 51 % des Péruviens sont en situation d'insécurité alimentaire, mais de nombreux aliments cultivés localement sont incroyablement nutritifs. L'infirmière du centre de santé devrait pouvoir suggérer à Luciana des aliments bon marché et cultivés localement pour améliorer sa nutrition.",
+          "Text": "Luciana devrait privilégier les ingrédients tels que les haricots, les lentilles, les tomates et les pommes de terre, et essayer de préparer des soupes saines et bon marché à la maison."
+        }
+      ],
+      "Question": "Luciana s'est rendue au centre de santé, où elle a reçu un traitement à base de fer et de vitamine B9 après que son anémie ait été traitée. En tant qu'adolescente enceinte, elle doit s’alimenter suffisamment pour assurer son propre développement et celui de son bébé. Cependant, l’augmentation du coût de la nourriture au Pérou rend difficile l’achat de nourriture saine et abordable. \n\n\nQue devrait faire Luciana pour que sa grossesse se déroule dans de bonnes conditions, pour elle et pour son bébé ?"
+    }
+  ],
+  "stage03": [
+    {
+      "Answers": [
+        {
+          "Note": "Luciana a droit à un congé maternité de la sécurité sociale péruvienne, qui commence 49 jours avant la date prévue de l'accouchement. Elle pourra relancer cette opportunité après son retour de congé maternité. La malnutrition augmente les risques d’être sans emploi de 12 % et les effets à long terme de l'anémie peuvent réduire la productivité et le QI. La taille des femmes est corrélée aux salaires : chaque augmentation d'un centimètre est associée à une augmentation de salaire de 6 %.",
+          "Text": "Luciana devrait se lancer en free-lance."
+        },
+        {
+          "Note": "Si Luciana reste, elle aura droit à un congé maternité de la sécurité sociale péruvienne, qui commence 49 jours avant la date d'accouchement. Elle pourra relancer cette opportunité après son retour de congé de maternité. La malnutrition augmente le risque d’être sans emploi 12 % et les effets à long terme de l'anémie peuvent réduire la productivité et le quotient intellectuel. La taille des femmes est corrélée aux salaires : chaque augmentation d'un centimètre est associée à une augmentation de salaire de 6 %.",
+          "Text": "Luciana devrait rester à son poste actuel."
+        }
+      ],
+      "Question": "Luciana travaille toujours comme caissière, mais elle approche de son troisième trimestre de grossesse et le travail devient de plus en plus pénible. L'une de ses clientes lui propose de la présenter à un organisateur de voyage local - elle pense que Luciana serait parfaite en tant que guide touristique indépendante grâce à ses compétences en matière de service à la clientèle. \n\nLuciana devrait-elle suivre cette opportunité ?"
+    }
+  ]
+}
