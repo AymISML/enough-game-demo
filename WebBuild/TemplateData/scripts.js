@@ -63,36 +63,3 @@ function LogEventToParent(event, param) {
         data: { event: event, param: param }
     }, "*");
 }
-
-document.addEventListener('DOMContentLoaded', function () {
-    const audio = document.getElementById('backgroundMusic');
-    let isPlaying = false;
-
-    document.addEventListener('visibilitychange', function () {
-        if (document.hidden) {
-            if (isPlaying) {
-                audio.pause();
-            }
-        } else {
-            if (isPlaying) {
-                audio.play();
-            }
-        }
-    });
-
-    document.addEventListener('click', function () {
-        if (!isPlaying) {
-            playAudio();
-        }
-    }, { once: true });
-
-    function playAudio() {
-        audio.play().then(() => {
-            isPlaying = true;
-        }).catch(error => {
-            console.error('Audio playback failed:', error);
-        });
-    }
-
-    playAudio();
-});

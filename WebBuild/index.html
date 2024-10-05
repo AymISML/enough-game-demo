@@ -77,12 +77,36 @@
         }).then((unityInstance) => {
           loadingLogo.style.display = "none";
           progressBar.style.display = "none";
+          playAudio();
         }).catch((message) => {
           alert(message);
         });
       };
 
       document.body.appendChild(script);
+
+      const audio = document.getElementById('backgroundMusic');
+      document.addEventListener('visibilitychange', function () {
+        if (document.hidden) {
+          audio.pause();
+        } else {
+          audio.play();
+        }
+      });
+
+      document.addEventListener('click', function () {
+        isPlaying = true;
+      }, { once: true });
+
+      function playAudio() {
+        if (!isPlaying) {
+          return;
+        }
+
+        audio.play().catch(error => {
+          console.error('Audio playback failed:', error);
+        });
+      }
     </script>
     <script src="TemplateData/scripts.js"></script>
   </body>
