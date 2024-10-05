@@ -63,3 +63,54 @@ function LogEventToParent(event, param) {
         data: { event: event, param: param }
     }, "*");
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    const audio = document.getElementById('backgroundMusic');
+    let isPlaying = false;
+    let hasInteracted = false;
+
+    function attemptPlay() {
+        if (!isPlaying && hasInteracted) {
+            audio.play().then(() => {
+                isPlaying = true;
+                console.log('Audio started playing');
+            }).catch(error => {
+                console.error('Audio playback failed:', error);
+            });
+        }
+    }
+
+    // Try to play audio after any user interaction
+    document.addEventListener('click', function () {
+        hasInteracted = true;
+        attemptPlay();
+    }, { once: false });
+
+    document.addEventListener('keydown', function () {
+        hasInteracted = true;
+        attemptPlay();
+    }, { once: false });
+
+    document.addEventListener('touchstart', function () {
+        hasInteracted = true;
+        attemptPlay();
+    }, { once: false });
+
+    // Handle visibility changes
+    document.addEventListener('visibilitychange', function () {
+        if (document.hidden) {
+            if (isPlaying) {
+                audio.pause();
+                isPlaying = false;
+            }
+        } else {
+            attemptPlay();
+        }
+    });
+
+    // Optional: Attempt to play on scroll
+    window.addEventListener('scroll', function () {
+        hasInteracted = true;
+        attemptPlay();
+    }, { once: false, passive: true });
+});
