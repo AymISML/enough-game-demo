@@ -77,7 +77,6 @@
         }).then((unityInstance) => {
           loadingLogo.style.display = "none";
           progressBar.style.display = "none";
-          playAudio();
         }).catch((message) => {
           alert(message);
         });
@@ -97,6 +96,7 @@
 
       document.addEventListener('click', function () {
         isPlaying = true;
+        playAudio();
       }, { once: true });
 
       function playAudio() {
