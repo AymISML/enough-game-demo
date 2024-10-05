@@ -11,6 +11,9 @@
     <link rel="stylesheet" href="TemplateData/style.css">
   </head>
   <body>
+    <audio id="backgroundMusic" loop>
+      <source src="StreamingAssets/audio/background-music.ogg" type="audio/ogg">
+    </audio>
     <canvas id="unity-canvas" width=1920 height=1080></canvas>
     <div class="end-panel" style="display: none;">
       <div class="cta-button" ></div>
@@ -43,15 +46,15 @@
 
 
       var buildUrl = "Build";
-      var loaderUrl = buildUrl + "/WebBuild-v1.6.0.loader.js";
+      var loaderUrl = buildUrl + "/WebBuild-v1.6.1.loader.js";
       var config = {
-        dataUrl: buildUrl + "/WebBuild-v1.6.0.data.br",
-        frameworkUrl: buildUrl + "/WebBuild-v1.6.0.framework.js.br",
-        codeUrl: buildUrl + "/WebBuild-v1.6.0.wasm.br",
+        dataUrl: buildUrl + "/WebBuild-v1.6.1.data.br",
+        frameworkUrl: buildUrl + "/WebBuild-v1.6.1.framework.js.br",
+        codeUrl: buildUrl + "/WebBuild-v1.6.1.wasm.br",
         streamingAssetsUrl: "StreamingAssets",
         companyName: "WorldVision",
         productName: "ENOUGH",
-        productVersion: "1.5.6",
+        productVersion: "1.6.1",
         matchWebGLToCanvasSize: true,
       };
 

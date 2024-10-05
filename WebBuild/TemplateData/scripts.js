@@ -1,4 +1,4 @@
-function ShowEndPanel (ctaText) {
+function ShowEndPanel(ctaText) {
     const shareCopy = 'Find out the true cost of malnutrition to girls 👧\n\nPlay this game and @WorldVision will donate a meal to a vulnerable child for every person who plays 🍲';
     const searchParams = new URLSearchParams(window.location.search);
 
@@ -57,9 +57,42 @@ function ShowEndPanel (ctaText) {
     };
 };
 
-function LogEventToParent (event, param) {
+function LogEventToParent(event, param) {
     window.parent.postMessage({
         event: "gameEvent",
         data: { event: event, param: param }
     }, "*");
 }
+
+document.addEventListener('DOMContentLoaded', function () {
+    const audio = document.getElementById('backgroundMusic');
+    let isPlaying = false;
+
+    document.addEventListener('visibilitychange', function () {
+        if (document.hidden) {
+            if (isPlaying) {
+                audio.pause();
+            }
+        } else {
+            if (isPlaying) {
+                audio.play();
+            }
+        }
+    });
+
+    document.addEventListener('click', function () {
+        if (!isPlaying) {
+            playAudio();
+        }
+    }, { once: true });
+
+    function playAudio() {
+        audio.play().then(() => {
+            isPlaying = true;
+        }).catch(error => {
+            console.error('Audio playback failed:', error);
+        });
+    }
+
+    playAudio();
+});
