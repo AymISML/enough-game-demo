@@ -62,6 +62,16 @@ function LogEventToParent(event, param) {
         event: "gameEvent",
         data: { event: event, param: param }
     }, "*");
+
+    try {
+        window.goatcounter.count({
+            path: event,
+            event: true,
+        });
+    }
+    catch (err) {
+        console.error(err);
+    }
 }
 
 document.addEventListener('DOMContentLoaded', function () {
