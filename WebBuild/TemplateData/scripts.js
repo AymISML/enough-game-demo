@@ -52,7 +52,7 @@ function ShowEndPanel(ctaText) {
                 text: shareCopy,
                 url: shareUrl
             })
-                .catch(error => console.log('Error sharing:', error));
+            .catch(error => console.error('Error sharing:', error));
         }
     };
 };
@@ -83,14 +83,12 @@ document.addEventListener('DOMContentLoaded', function () {
         if (!isPlaying && hasInteracted) {
             audio.play().then(() => {
                 isPlaying = true;
-                console.log('Audio started playing');
             }).catch(error => {
                 console.error('Audio playback failed:', error);
             });
         }
     }
 
-    // Try to play audio after any user interaction
     document.addEventListener('click', function () {
         hasInteracted = true;
         attemptPlay();
@@ -106,7 +104,6 @@ document.addEventListener('DOMContentLoaded', function () {
         attemptPlay();
     }, { once: false });
 
-    // Handle visibility changes
     document.addEventListener('visibilitychange', function () {
         if (document.hidden) {
             if (isPlaying) {
@@ -118,7 +115,6 @@ document.addEventListener('DOMContentLoaded', function () {
         }
     });
 
-    // Optional: Attempt to play on scroll
     window.addEventListener('scroll', function () {
         hasInteracted = true;
         attemptPlay();
